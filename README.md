@@ -9,7 +9,7 @@ In this project, we develop a corpus for information extraction from medical inc
 * Hongkuan Zhang, zhang-hongkuan AT a.mbox.nagoya-u.ac.jp
 
 ## How to use
-This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) on April, 2018. We used the broswer annotation tool BRAT for annotation. The raw texts are public available on website [JQ website] (http://www.med-safe.jp/mpsearch/SearchReport.action).
+This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) on April, 2018. We used the broswer annotation tool BRAT for annotation. The raw texts are public available on website [http://www.med-safe.jp/mpsearch/SearchReport.action](http://www.med-safe.jp/mpsearch/SearchReport.action).
 
 ### Download MIR from Japan Council for Qualtity Health Care
 The csv file can be accessed with follwing 5 steps:
