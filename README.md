@@ -13,7 +13,8 @@ This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) 
 
 ### Download MIR from Japan Council for Qualtity Health Care
 The csv file can be downloaded with follwing 5 steps:
-#### Selecting items
+#### Selecting medication-related MIR on April, 2018.
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
-#### Download as csv file
+#### Download incident reports as csv file
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
+The downloaded 'MedicalReportPub.csv' file.
