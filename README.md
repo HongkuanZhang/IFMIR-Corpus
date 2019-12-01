@@ -6,8 +6,13 @@ In this project, we develop a corpus for information extraction from medical inc
 >In this paper, we develop a Japanese medical incident report corpus as the first step of information extraction from medical incident reports. The corpus contains three types of annotations, i.e., medication entity, entity relation, and intention/factuality annotations. Among them, intention/factuality is considered to be characteristic of corpora on incident reports. 
 
 #### Contact person:
-* Hongkuan Zhang, Last_name-First_name AT a.mbox.nagoya-u.ac.jp
+* Hongkuan Zhang, zhang-hongkuan AT a.mbox.nagoya-u.ac.jp
 
 ## How to use
+This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) on April, 2018. The raw texts are public available on website [JQ website] (http://www.med-safe.jp/mpsearch/SearchReport.action).
+
 ### Download MIR from Japan Council for Qualtity Health Care
+The csv file can be accessed with follwing 5 steps:
+#### Selecting items
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
+#### Download as csv file
