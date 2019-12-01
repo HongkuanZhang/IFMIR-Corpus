@@ -16,3 +16,4 @@ The csv file can be accessed with follwing 5 steps:
 #### Selecting items
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
 #### Download as csv file
+![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
