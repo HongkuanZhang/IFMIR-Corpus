@@ -1,0 +1,15 @@
+T1	Drug 0 5	カロナール
+T2	Strength_amount 6 8	2錠
+T4	Dosage 21 23	1錠
+T5	Dosage 32 34	2錠
+T6	Strength_amount 53 55	4錠
+A1	Status T2 intended
+A2	Status T6 actual
+A3	Status T4 intended
+A4	Status T5 actual
+A5	Strength_amount T2 per_day
+A6	Strength_amount T6 per_day
+T3	Frequency 8 10	2×
+T7	Frequency 55 57	2×
+A7	Error_occur T5 error
+A8	Error_occur T6 error

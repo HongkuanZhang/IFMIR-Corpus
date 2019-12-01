@@ -1,0 +1,15 @@
+T1	Drug 9 14	セロクエル
+T2	Form_form 14 15	錠
+T3	Strength_amount 15 20	１００ｍｇ
+T4	Dosage 20 22	１錠
+T5	Drug 30 35	セロクエル
+T6	Form_form 35 36	錠
+T7	Strength_amount 36 40	２５ｍｇ
+A1	Status T7 actual
+A2	Status T3 intended
+T8	Timing 56 59	２日後
+A3	Index T8 01
+T9	Strength_amount 85 88	１回分
+A4	Index T9 01
+T10	Timing 23 26	寝る前
+A5	Error_occur T7 error

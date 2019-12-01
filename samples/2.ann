@@ -1,0 +1,7 @@
+T1	Date 0 4	４月６日
+T2	Drug 5 12	アルピニー座薬
+T3	Strength_amount 12 17	１００ｍｇ
+T4	Strength_amount 30 35	２００ｍｇ
+A1	Status T3 intended
+A2	Status T4 actual
+A3	Error_occur T4 error

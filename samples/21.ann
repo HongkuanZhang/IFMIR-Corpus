@@ -1,0 +1,9 @@
+T1	Drug 11 16	ロキソニン
+T2	Drug 17 22	レバミピド
+A1	Status T2 intended
+A2	Index T2 2
+T3	Drug 51 56	ロキソニン
+T4	Drug 57 62	センノシド
+A3	Status T4 actual
+A4	Index T4 2
+A5	Error_occur T4 error

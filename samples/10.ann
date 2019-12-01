@@ -1,0 +1,7 @@
+T1	Drug 0 6	アンテベート
+T2	Form_form 6 11	ローション
+A1	Status T2 intended
+T3	Drug 23 29	アンテベート
+T4	Form_form 29 31	軟膏
+A2	Status T4 actual
+A3	Error_occur T4 error

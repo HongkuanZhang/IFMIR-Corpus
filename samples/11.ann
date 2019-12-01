@@ -1,0 +1,14 @@
+T1	Drug 0 8	ニュープロパッチ
+T2	Strength_amount 8 14	１３．５ｍｇ
+T3	Dosage 15 19	１日２枚
+T4	Duration 19 22	７日分
+T5	Strength_amount 23 26	１４枚
+A1	Strength_amount T5 per_whole_course
+T6	Strength_amount 34 36	２枚
+A2	Strength_amount T6 per_whole_course
+A3	Status T5 intended
+A4	Status T6 actual
+T7	Strength_amount 57 60	１２枚
+A5	Index T7 02
+A6	Strength_amount T7 per_whole_course
+A7	Error_occur T6 error

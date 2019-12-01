@@ -1,0 +1,12 @@
+T2	Drug 6 11	プレドニン
+T3	Drug 26 31	プレドニン
+T1	Date 0 2	明日
+T5	Timing 3 4	朝
+A1	Status T1 intended
+A3	Status T5 intended
+T4	Date 20 22	本日
+A2	Status T4 actual
+T6	Timing 23 24	昼
+A4	Status T6 actual
+A5	Error_occur T4 error
+A6	Error_occur T6 error

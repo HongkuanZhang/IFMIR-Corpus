@@ -1,0 +1,10 @@
+T2	Form_form 16 18	細粒
+T3	Strength_amount 18 23	240mg
+T4	Frequency 23 27	1日3回
+T6	Form_form 79 81	細粒
+T7	Strength_amount 81 85	72mg
+A1	Status T7 intended
+A2	Status T3 actual
+T1	Drug 0 16	セフカペンピボキシル塩酸塩小児用
+T5	Drug 63 79	セフカペンピボキシル塩酸塩小児用
+A3	Error_occur T3 error

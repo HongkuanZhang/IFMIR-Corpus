@@ -1,0 +1,6 @@
+T1	Drug 7 12	ネキシウム
+T2	Strength_amount 12 16	20mg
+A1	Status T2 intended
+T3	Strength_amount 20 24	10mg
+A2	Status T3 actual
+A3	Error_occur T3 error

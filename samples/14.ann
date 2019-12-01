@@ -1,0 +1,19 @@
+T1	Drug 3 11	ロキソプロフェン
+T2	Form_form 11 12	錠
+T3	Drug 13 18	レバミピド
+T4	Form_form 18 19	錠
+A1	Index T4 2
+A2	Index T3 2
+T5	Drug 45 53	ロキソプロフェン
+T6	Drug 73 78	レバミピド
+A3	Index T6 2
+T7	Form_form 78 79	錠
+A4	Index T7 2
+T8	Drug 80 85	センノシド
+A5	Index T8 2
+T9	Form_form 85 86	錠
+A6	Index T9 2
+A7	Status T6 intended
+A8	Status T8 actual
+A9	Status T3 intended
+A10	Error_occur T8 error

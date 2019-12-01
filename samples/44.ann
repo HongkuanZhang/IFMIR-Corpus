@@ -1,0 +1,10 @@
+T1	Drug 4 11	イブプロフェン
+T2	Form_form 11 12	錠
+T3	Strength_amount 13 18	100mg
+T4	Dosage 53 55	1錠
+A1	Status T4 intended
+T5	Dosage 19 21	3錠
+A2	Status T5 actual
+T6	Strength_amount 21 24	5回分
+A3	Strength_amount T6 per_whole_course
+A4	Error_occur T5 error

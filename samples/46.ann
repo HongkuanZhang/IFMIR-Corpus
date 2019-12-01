@@ -1,0 +1,6 @@
+T1	Timing 0 1	昼
+T2	Drug 7 15	レボフロキサシン
+T3	Timing 19 20	朝
+A1	Status T3 actual
+A2	Status T1 intended
+A3	Error_occur T3 error

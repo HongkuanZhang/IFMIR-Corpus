@@ -1,0 +1,13 @@
+T3	Drug 35 43	ヒルドイドソフト
+T1	Drug 0 8	ヒルドイドソフト
+T2	Drug 9 15	リドメックス
+T4	Drug 44 50	リドメックス
+T5	Form_form 15 19	クリーム
+A1	Status T5 intended
+T6	Form_form 50 52	軟膏
+A2	Status T6 actual
+A3	Subindex T1 1
+A4	Subindex T2 2
+A5	Subindex T3 1
+A6	Subindex T4 2
+A7	Error_occur T6 error

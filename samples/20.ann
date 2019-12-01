@@ -1,0 +1,13 @@
+T1	Drug 5 10	ホクナリン
+T2	Form_form 10 13	テープ
+T3	Strength_amount 13 18	0.5mg
+T4	Strength_amount 19 22	1mg
+A2	Status T3 intended
+T5	Strength_amount 39 42	1mg
+A3	Status T5 actual
+T6	Strength_amount 39 42	1mg
+A1	Subindex T6 2
+A4	Subindex T3 1
+A5	Subindex T4 2
+A6	Subindex T5 1
+A7	Error_occur T5 error
