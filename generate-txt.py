@@ -38,3 +38,5 @@ for i,index in enumerate(WMR_indexes):
     with open(wmr_file_name,'w') as f:
         for sentence in selected_MIR_dic[index].split('。'):
             f.write(sentence+'\n')
+
+print('All 49 txt files are generated in /samples')
