@@ -32,3 +32,8 @@ In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files,
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
 
 The original incident contents are written in Japanese, and contents in figure above are translated into English for easy to understand. 
+
+### Requirements and Installation
+* A computer running macOS or Linux
+* Pandas python package
+* BRAT tool (v1.3 Crunchy Frog) for visualization: https://brat.nlplab.org/
