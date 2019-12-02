@@ -29,4 +29,6 @@ python3 generate-txt.py
 ### Annotated samples visualization in BRAT tool
 In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be checked by opening this file in BRAT, and result will be like:
 
+![pic3]()
+
 
