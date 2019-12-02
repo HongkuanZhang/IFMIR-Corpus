@@ -29,6 +29,11 @@ python3 generate-txt.py
 ### Annotated samples visualization in BRAT tool
 In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be checked by opening this file in BRAT, and result will be like:
 
-![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/brat-mir.png)
+![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
 
 The original incident contents are written in Japanese, and contents in figure above are translated into English for easy to understand. 
+
+### Requirements and Installation
+* A computer running macOS or Linux
+* Pandas python package
+* BRAT tool (v1.3 Crunchy Frog) for visualization: https://brat.nlplab.org/
