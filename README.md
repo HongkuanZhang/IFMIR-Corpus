@@ -20,9 +20,13 @@ The csv file can be downloaded with follwing 5 steps:
 
 ### Generate .txt file
 
-Put the downloaded ***MedicalReportPub.csv*** file into the `root directory`.
+Put the downloaded ***MedicalReportPub.csv*** file into the root directory.
 
 The sampling script will generate 49 .txt files into the `/sample` by:
 ```python
 python3 generate-txt.py
 ```
+### Annotated samples visualization in BRAT tool
+In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be checked by opening this file in BRAT, and result will be like:
+
+
