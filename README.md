@@ -22,7 +22,7 @@ The csv file can be downloaded with follwing 5 steps:
 
 Put the downloaded ***MedicalReportPub.csv*** file into the root directory.
 
-The sampling script will generate 49 .txt files into the `/sample` by:
+The txt generation script will generate 49 .txt files into the `/sample` by:
 ```python
 python3 generate-txt.py
 ```
