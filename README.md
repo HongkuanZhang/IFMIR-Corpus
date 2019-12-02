@@ -3,7 +3,7 @@ In this project, we develop a corpus for information extraction from medical inc
 
 > Medical incident reports (MIR) are documents that record what happened in a medical incident. A typical MIR consists of two sections: structured categorical part and unstructured text part. Most texts in MIR describe what medication is intended to be given and what is actually given, since what happened in an incident is largely due to the discrepancies between intended and actual medications. Recognizing such intention of clinicians and factuality of medication is essential to extract important information from MIR. Therefore, we are developing an MIR corpus with intention and factuality annotation as well as the annotation of medication entities and their relations. 
 
->We develop a Japanese medical incident report corpus as the first step of information extraction from medical incident reports. The corpus contains three types of annotations, i.e., medication entity, entity relation, and intention/factuality annotations.
+>We developed a Japanese medical incident report corpus as the first step of information extraction from medical incident reports. The corpus contains three types of annotations, i.e., medication entity, entity relation, and intention/factuality annotations.
 
 #### Contact person:
 * Hongkuan Zhang, zhang-hongkuan AT a.mbox.nagoya-u.ac.jp
@@ -15,7 +15,7 @@ This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) 
 The csv file can be downloaded with follwing 5 steps:
 * #### Searching medication-related MIR on April, 2018.
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
-* #### Download incident reports as csv file (***MedicalReportPub.csv***)
+* #### Download incident reports as the csv file (***MedicalReportPub.csv***)
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
 
 ### Generate .txt file
@@ -27,11 +27,11 @@ The txt generation script will generate 49 .txt files into the `/sample` by:
 python3 generate-txt.py
 ```
 ### Annotated samples visualization in BRAT tool
-In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be visualized by opening this file in BRAT, and result will be like:
+In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be visualized by opening this file in BRAT, and the result will be like:
 
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
 
-The original incident contents are written in Japanese, and the contents in figure above are translated into English for easy to understand. 
+The original incident contents are written in Japanese, and the contents in the figure above are translated into English for easy to understand. 
 
 ### Requirements and Installation
 * A computer running macOS or Linux
