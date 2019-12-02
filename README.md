@@ -11,10 +11,22 @@ In this project, we develop a corpus for information extraction from medical inc
 ## How to use
 This corpus annotated on MIR of the Japan Council for Qualtity Health Care (JQ) on April, 2018. We used the broswer annotation tool BRAT for annotation. The raw texts can be obtained by accessing the incident case search website on [http://www.med-safe.jp/mpsearch/SearchReport.action](http://www.med-safe.jp/mpsearch/SearchReport.action).
 
-### Download MIR from Japan Council for Qualtity Health Care
+### Download MIR from case search website of JQ
 The csv file can be downloaded with follwing 5 steps:
-#### Searching medication-related MIR on April, 2018.
+* #### Searching medication-related MIR on April, 2018.
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
-#### Download incident reports as csv file (MedicalReportPub.csv)
+* #### Download incident reports as csv file (***MedicalReportPub.csv***)
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
-The downloaded 'MedicalReportPub.csv' file.
+
+### Generate .txt file
+
+Put the downloaded ***MedicalReportPub.csv*** file into the root directory.
+
+The sampling script will generate 49 .txt files into the `/sample` by:
+```python
+python3 generate-txt.py
+```
+### Annotated samples visualization in BRAT tool
+In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be checked by opening this file in BRAT, and result will be like:
+
+
