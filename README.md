@@ -1,9 +1,8 @@
 # A Pilot Corpus for Information Extraction from Medical Incident Reports
 In this project, we develop a corpus for information extraction from medical incident reports (MIR). This repository provides the script to generate MIR corpus using the medication-related incident reports from Japan Council for Quality Health Care.
 
-> Medical incident reports (MIR) are documents that record what happened in a medical incident. A typical MIR consists of two sections: structured categorical part and unstructured text part. Most texts in MIR describe what medication is intended to be given and what is actually given, since what happened in an incident is largely due to the discrepancies between intended and actual medications. Recognizing such intention of clinicians and factuality of medication is essential to extract important information from MIR. Therefore, we are developing an MIR corpus with intention and factuality annotation as well as the annotation of medication entities and their relations. 
 
->We developed a Japanese medical incident report corpus as the first step of information extraction from medical incident reports. The corpus contains three types of annotations, i.e., medication entity, entity relation, and intention/factuality annotations.
+> Developing
 
 #### Contact person:
 * Hongkuan Zhang, zhang-hongkuan AT a.mbox.nagoya-u.ac.jp
