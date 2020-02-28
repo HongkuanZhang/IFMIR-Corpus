@@ -1,0 +1,9 @@
+T1	Drug 6 9	前投薬
+A1	Drug T1 class_mentioned
+T2	Drug 13 18	生理食塩水
+A2	Index T2 2
+A3	Status T2 intended
+T3	Drug 32 38	シスプラチン
+A4	Index T3 2
+A5	Status T3 actual
+A6	Error_occur T3 error

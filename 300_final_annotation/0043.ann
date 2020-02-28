@@ -1,0 +1,11 @@
+T1	Drug 0 6	クエチアピン
+T2	Form_form 6 7	錠
+T3	Strength_amount 7 9	4錠
+A1	Strength_amount T3 per_day
+T4	Frequency 9 11	2×
+T5	Timing 11 16	夕・寝る前
+T6	Strength_amount 53 56	2日分
+T7	Dosage 62 66	1回1錠
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Duration 67 70	2日間

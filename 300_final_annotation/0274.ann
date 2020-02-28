@@ -1,0 +1,10 @@
+T1	Drug 0 3	内服薬
+A1	Drug T1 unspecified
+T2	Drug 4 9	フェブリク
+T3	Timing 10 13	夕食後
+T4	Dosage 14 16	３錠
+A2	Status T4 intended
+T5	Duration 46 49	数日間
+T6	Dosage 49 51	１錠
+A3	Status T6 actual
+A4	Error_occur T6 error

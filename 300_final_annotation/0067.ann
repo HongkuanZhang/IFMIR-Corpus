@@ -1,0 +1,10 @@
+T1	Drug 8 10	眠剤
+A1	Drug T1 class_mentioned
+T2	Drug 10 16	ブロチゾラム
+T3	Drug 35 37	眠剤
+A2	Drug T3 class_mentioned
+T4	Drug 37 41	リスミー
+A3	Status T4 intended
+T5	Drug 62 68	ブロチゾラム
+A4	Status T5 actual
+A5	Error_occur T5 error

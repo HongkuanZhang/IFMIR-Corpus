@@ -1,0 +1,13 @@
+T1	Date 0 5	11／15
+T2	Timing 6 9	13時
+T3	Timing 21 22	朝
+T4	Drug 22 28	アムロジピン
+A1	Status T4 intended
+T5	Timing 40 42	7時
+T6	Drug 43 46	食前薬
+A2	Drug T6 unspecified
+T7	Drug 47 51	セイブル
+A3	Status T7 actual
+A4	Error_occur T7 error
+T8	Timing 63 67	8：30
+A5	Index T8 02

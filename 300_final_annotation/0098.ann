@@ -1,0 +1,22 @@
+T1	Drug 6 9	内服薬
+A1	Index T1 01
+A2	Drug T1 unspecified
+T2	Drug 17 23	ワーファリン
+T3	Form_form 23 24	錠
+T4	Strength_amount 24 27	1mg
+A3	Subindex T4 1
+T5	Drug 28 34	ワーファリン
+T6	Form_form 34 35	錠
+T7	Strength_amount 35 40	0.5mg
+A4	Subindex T7 2
+T8	Duration 43 46	3日分
+A5	Status T8 intended
+T9	Duration 52 55	7日分
+A6	Index T9 2
+T10	Drug 60 66	ワーファリン
+T11	Duration 67 70	7日分
+A7	Status T11 actual
+A8	Error_occur T11 error
+T12	Drug 100 106	ワーファリン
+A9	Index T12 01
+#1	AnnotatorNotes T12	01でOK？

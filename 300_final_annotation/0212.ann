@@ -1,0 +1,7 @@
+T1	Drug 7 13	ノイトロジン
+T2	Strength_amount 13 18	250μg
+A1	Status T2 intended
+T3	Drug 30 36	ノイトロジン
+T4	Strength_amount 36 41	100μg
+A2	Status T4 actual
+A3	Error_occur T4 error

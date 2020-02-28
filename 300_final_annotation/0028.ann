@@ -1,0 +1,6 @@
+T1	Drug 10 18	ロキソプロフェン
+T2	Frequency 30 34	３回／日
+A1	Status T2 intended
+T3	Frequency 43 46	４回目
+A2	Status T3 actual
+A3	Error_occur T3 error

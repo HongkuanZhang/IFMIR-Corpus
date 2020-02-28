@@ -1,0 +1,7 @@
+T1	Drug 0 5	アテ゛ホス
+A1	Status T1 intended
+T2	Form_form 5 6	錠
+T3	Drug 18 24	カルナクリン
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 24 25	錠

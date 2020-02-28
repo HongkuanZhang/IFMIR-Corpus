@@ -1,0 +1,9 @@
+T1	Drug 0 5	レミニール
+T2	Form_mode 5 7	ＯＤ
+T3	Strength_amount 7 10	8mg
+A1	Status T3 intended
+T4	Drug 14 19	レミニール
+T5	Form_mode 19 21	ＯＤ
+T6	Strength_amount 21 25	12mg
+A2	Status T6 actual
+A3	Error_occur T6 error

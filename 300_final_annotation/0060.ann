@@ -1,0 +1,13 @@
+T1	Timing 7 8	朝
+T2	Drug 14 22	ロキソプロフェン
+A1	Status T2 intended
+T3	Form_form 22 23	錠
+T4	Strength_amount 23 27	６０ｍｇ
+T5	Strength_amount 28 30	６錠
+A2	Strength_amount T5 per_whole_course
+T6	Drug 44 49	カロナール
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Form_form 49 50	錠
+T8	Strength_amount 51 53	６錠
+A5	Strength_amount T8 per_whole_course

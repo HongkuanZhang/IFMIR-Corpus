@@ -1,0 +1,10 @@
+T1	Drug 7 12	スピオルト
+T2	Route 12 14	吸入
+T3	Timing 38 41	20時
+A1	Status T3 intended
+T4	Drug 50 52	実薬
+A2	Drug T4 unspecified
+T5	Timing 56 59	12時
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Route 60 62	吸入

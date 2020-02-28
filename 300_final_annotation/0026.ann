@@ -1,0 +1,36 @@
+T1	Timing 8 11	昼食後
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Timing 25 28	夕食後
+A3	Subindex T2 1
+A4	Status T2 intended
+T3	Drug 25 29	夕食後薬
+A5	Status T3 actual
+A6	Error_occur T3 error
+A7	Drug T3 class_mentioned
+T4	Drug 30 38	硝酸イソソルビド
+A8	Status T4 actual
+A9	Error_occur T4 error
+T5	Drug 39 45	ファモチジン
+A10	Index T5 2
+A11	Status T5 actual
+A12	Error_occur T5 error
+T6	Drug 46 52	セレコックス
+A13	Index T6 3
+A14	Status T6 actual
+A15	Error_occur T6 error
+T7	Timing 54 56	眠前
+A16	Subindex T7 2
+A17	Status T7 intended
+T8	Drug 54 57	眠前薬
+A18	Status T8 actual
+A19	Error_occur T8 error
+A20	Drug T8 class_mentioned
+T9	Drug 58 63	トラマール
+A21	Index T9 4
+A22	Status T9 actual
+A23	Error_occur T9 error
+T10	Timing 77 80	昼食後
+T11	Drug 77 81	昼食後薬
+A24	Status T11 intended
+A25	Drug T11 class_mentioned

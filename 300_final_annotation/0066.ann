@@ -1,0 +1,12 @@
+T1	Drug 0 5	プレドニン
+T2	Strength_amount 5 9	２０ｍｇ
+A1	Status T2 intended
+T3	Route 10 14	点滴静注
+T4	Wrong_patient 26 29	他患者
+T5	Drug 30 35	プレドニン
+T6	Strength_amount 35 39	３０ｍｇ
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Duration 49 51	５分
+T8	Strength_amount 60 64	１５ｍｌ
+#1	AnnotatorNotes T8	Index分ける？

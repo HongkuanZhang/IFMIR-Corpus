@@ -1,0 +1,10 @@
+T1	Route 2 5	TPN
+T2	Drug 7 14	エルネオパ2号
+T3	Strength_amount 15 21	2000ｍL
+A1	Status T3 intended
+T4	Strength_amount 36 42	1000ｍL
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_amount 59 65	1000mL
+A4	Status T5 actual
+A5	Error_occur T5 error

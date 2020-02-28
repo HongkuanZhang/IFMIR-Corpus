@@ -1,0 +1,15 @@
+T1	Drug 0 5	トラゾドン
+T2	Form_form 5 6	錠
+T3	Strength_amount 6 10	２５ｍｇ
+T4	Dosage 11 13	２錠
+T5	Duration 14 17	８日分
+T6	Strength_amount 18 21	１６錠
+A1	Status T6 intended
+A2	Strength_amount T6 per_whole_course
+T7	Strength_amount 28 31	１８錠
+A3	Status T7 actual
+A4	Error_occur T7 error
+A5	Strength_amount T7 per_whole_course
+T8	Strength_amount 69 71	２錠
+A6	Strength_amount T8 per_whole_course
+#1	AnnotatorNotes T8	★多い2錠

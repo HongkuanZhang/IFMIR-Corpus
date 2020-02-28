@@ -1,0 +1,10 @@
+T1	Drug 0 3	ＫＣＬ
+A1	Status T1 intended
+T2	Strength_amount 3 8	２０ｍＥｑ
+A2	Status T2 intended
+T3	Drug 13 21	アスパラギン酸Ｋ
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Strength_amount 21 26	１０ｍＥｑ
+A5	Status T4 actual
+A6	Error_occur T4 error

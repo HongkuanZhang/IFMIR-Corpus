@@ -1,0 +1,13 @@
+T1	Date 0 5	6月22日
+A1	Index T1 01
+#1	AnnotatorNotes T1	01？
+T2	Drug 6 8	内服
+A2	Drug T2 unspecified
+T3	Drug 33 35	内服
+A3	Drug T3 unspecified
+T4	Drug 54 59	タケキャブ
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Drug 61 69	ランソプラゾール
+A6	Status T5 intended
+T6	Duration 81 84	2日間

@@ -1,0 +1,14 @@
+T1	Drug 0 2	麻薬
+A1	Index T1 01
+A2	Drug T1 class_mentioned
+T2	Route 5 7	点滴
+A3	Index T2 01
+T3	Route 23 25	点滴
+T4	Strength_amount 42 45	2ｍｌ
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Strength_amount 52 55	2ｍｌ
+A6	Status T5 actual
+A7	Error_occur T5 error
+T6	Strength_amount 81 84	1ｍｌ
+A8	Status T6 intended

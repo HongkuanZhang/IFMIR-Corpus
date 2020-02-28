@@ -1,0 +1,9 @@
+T1	Timing 0 3	１７時
+T2	Drug 10 14	フィジオ
+T3	Form_form 14 16	輸液
+T4	Duration 16 19	２時間
+T5	Strength_amount 20 25	１６０ｍＬ
+A1	Status T5 intended
+T6	Strength_amount 35 40	４００ｍＬ
+A2	Status T6 actual
+A3	Error_occur T6 error

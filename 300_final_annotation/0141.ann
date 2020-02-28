@@ -1,0 +1,5 @@
+T1	Dosage 3 7	１回１錠
+A1	Status T1 intended
+T2	Dosage 11 13	２錠
+A2	Status T2 actual
+A3	Error_occur T2 error

@@ -1,0 +1,26 @@
+T1	Date 0 3	9/4
+T2	Drug 4 7	抗癌剤
+T3	Timing 4 8	抗癌剤前
+T4	Drug 11 18	グラニセトロン
+A1	Index T4 2
+A2	Subindex T4 1
+T5	Drug 19 24	デキサート
+A3	Index T5 2
+A4	Subindex T5 2
+T6	Drug 25 30	ラニチジン
+A5	Index T6 2
+A6	Subindex T6 3
+T7	Drug 31 36	ポララミン
+A7	Index T7 2
+A8	Subindex T7 4
+T8	Drug 38 43	ラニチジン
+A9	Index T8 2
+A10	Subindex T8 3
+A11	Status T8 intended
+T9	Drug 48 54	ファモチジン
+A12	Index T9 2
+A13	Subindex T9 3
+A14	Status T9 actual
+A15	Error_occur T9 error
+T10	Date 68 71	9/5
+A16	Index T10 01

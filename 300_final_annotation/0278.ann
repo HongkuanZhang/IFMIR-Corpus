@@ -1,0 +1,7 @@
+T1	Drug 4 6	点滴
+T2	Strength_rate 20 26	10ml/h
+A1	Status T2 intended
+T3	Strength_rate 32 38	20ml/h
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 50 56	20mL程度

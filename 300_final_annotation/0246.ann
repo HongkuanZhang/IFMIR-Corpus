@@ -1,0 +1,11 @@
+T1	Drug 0 3	抗生剤
+A1	Drug T1 class_mentioned
+T2	Drug 8 10	生食
+A2	Index T2 2
+T3	Strength_amount 11 16	100ml
+A3	Index T3 2
+A4	Status T3 actual
+A5	Error_occur T3 error
+T4	Strength_amount 18 22	50ml
+A6	Index T4 2
+A7	Status T4 intended

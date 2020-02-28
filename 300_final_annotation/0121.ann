@@ -1,0 +1,16 @@
+T1	Drug 0 5	デカドロン
+T2	Form_form 5 6	錠
+T3	Strength_amount 6 9	４ｍｇ
+T4	Dosage 10 14	０．５錠
+T5	Strength_amount 15 17	２包
+A1	Status T5 intended
+A2	Strength_amount T5 per_whole_course
+T6	Strength_amount 25 27	４包
+A3	Status T6 actual
+A4	Error_occur T6 error
+A5	Strength_amount T6 per_whole_course
+T7	Drug 56 57	薬
+A6	Index T7 01
+A7	Drug T7 unspecified
+T8	Strength_amount 58 60	２包
+A8	Index T8 01

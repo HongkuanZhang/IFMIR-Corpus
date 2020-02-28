@@ -1,0 +1,13 @@
+T1	Timing 0 3	朝食前
+A1	Status T1 intended
+T2	Drug 4 7	ツムラ
+T3	Timing 8 11	朝食後
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Drug 12 15	内服薬
+A4	Index T4 2
+A5	Drug T4 unspecified
+T5	Timing 32 34	食後
+A6	Status T5 actual
+A7	Error_occur T5 error
+#1	AnnotatorNotes T5	★

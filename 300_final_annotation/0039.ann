@@ -1,0 +1,10 @@
+T1	Timing 0 5	１１：１５
+T2	Drug 6 10	アセリオ
+T3	Dosage 10 14	０．５袋
+A1	Status T3 intended
+T4	Drug 21 25	アセリオ
+T5	Dosage 25 27	１袋
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Strength_amount 43 47	４０ｍＬ
+#1	AnnotatorNotes T6	Index分ける？

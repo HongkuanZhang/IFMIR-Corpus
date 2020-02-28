@@ -1,0 +1,11 @@
+T1	Drug 0 4	ロナセン
+T2	Strength_amount 4 7	8mg
+A1	Status T2 intended
+T3	Drug 17 21	ロナセン
+T4	Strength_amount 21 24	4mg
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Drug 49 53	ロナセン
+T6	Strength_amount 53 56	4mg
+A4	Status T6 actual
+A5	Error_occur T6 error

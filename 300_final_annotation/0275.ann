@@ -1,0 +1,10 @@
+T1	Drug 0 5	カロナール
+T2	Form_form 5 6	錠
+T3	Strength_amount 6 11	500mg
+A1	Status T3 intended
+T4	Drug 18 23	カロナール
+T5	Form_form 23 24	錠
+T6	Strength_amount 24 29	200mg
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Duration 51 54	2日間

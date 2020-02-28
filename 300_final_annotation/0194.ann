@@ -1,0 +1,10 @@
+T1	Drug 1 5	メマリー
+T2	Form_mode 5 7	OD
+T3	Strength_amount 7 11	20mg
+A1	Status T3 intended
+T4	Drug 17 21	メマリー
+T5	Form_mode 21 23	OD
+T6	Form_form 23 24	錠
+T7	Strength_amount 24 27	5mg
+A2	Status T7 actual
+A3	Error_occur T7 error

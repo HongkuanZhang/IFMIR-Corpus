@@ -1,0 +1,18 @@
+T1	Drug 0 7	クロピドグレル
+A1	Subindex T1 1
+T2	Form_form 7 8	錠
+A2	Subindex T2 1
+T3	Drug 9 15	ワンアルファ
+A3	Subindex T3 2
+T4	Form_form 15 16	錠
+A4	Subindex T4 2
+T5	Strength_amount 18 20	2錠
+A5	Strength_amount T5 per_day
+T6	Frequency 20 22	1×
+T7	Dosage 36 43	1回量1錠ずつ
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Duration 62 65	2日間
+T9	Dosage 65 69	1錠ずつ
+A8	Status T9 actual
+A9	Error_occur T9 error

@@ -1,0 +1,26 @@
+T1	Drug 1 3	生食
+A1	Subindex T1 1
+T2	Strength_amount 3 7	４５ｍｌ
+A2	Subindex T2 1
+A3	Status T2 intended
+T3	Drug 8 14	オキファスト
+A4	Subindex T3 2
+T4	Strength_amount 14 18	１０ｍｇ
+A5	Subindex T4 2
+T5	Dosage 19 21	３A
+A6	Subindex T5 2
+T6	Strength_amount 25 29	４８ｍｌ
+A7	Strength_amount T6 per_whole_course
+T7	Strength_rate 30 37	１．０ｍｌ／H
+T8	Drug 44 46	生食
+A8	Subindex T8 1
+T9	Strength_amount 46 50	５０ｍｌ
+A9	Subindex T9 1
+A10	Status T9 actual
+A11	Error_occur T9 error
+T10	Drug 51 57	オキファスト
+A12	Subindex T10 2
+T11	Strength_amount 57 61	１０ｍｇ
+A13	Subindex T11 2
+T12	Dosage 62 64	３A
+A14	Subindex T12 2

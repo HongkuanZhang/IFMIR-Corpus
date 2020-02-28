@@ -1,0 +1,20 @@
+T1	Drug 0 4	ヘパリン
+A1	Subindex T1 1
+T2	Strength_amount 4 8	１万単位
+A2	Subindex T2 1
+T3	Drug 9 11	生食
+A3	Subindex T3 2
+T4	Strength_amount 11 15	48ｍＬ
+A4	Subindex T4 2
+T5	Strength_rate 16 21	2ｍＬ/ｈ
+A5	Status T5 intended
+T6	Route 24 26	点滴
+T7	Strength_rate 51 57	20ｍＬ/ｈ
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Strength_rate 76 81	2ｍＬ/ｈ
+A8	Index T8 02
+T9	Duration 94 99	１時間程度
+T10	Strength_rate 99 105	20ｍＬ/ｈ
+A9	Status T10 actual
+A10	Error_occur T10 error

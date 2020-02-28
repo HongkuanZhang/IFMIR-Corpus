@@ -1,0 +1,15 @@
+T1	Date 0 5	５月３０日
+T2	Drug 18 20	薬剤
+A1	Drug T2 unspecified
+T3	Drug 30 37	テルミサルタン
+A2	Status T3 intended
+T4	Form_form 37 38	錠
+T5	Strength_amount 38 42	４０ｍｇ
+A3	Status T5 intended
+T6	Drug 58 64	バルサルタン
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Form_form 64 65	錠
+T8	Strength_amount 65 69	８０ｍｇ
+A6	Status T8 actual
+A7	Error_occur T8 error

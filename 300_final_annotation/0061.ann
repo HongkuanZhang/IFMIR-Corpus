@@ -1,0 +1,23 @@
+T1	Drug 7 9	点滴
+T2	Drug 17 22	カコージン
+A1	Subindex T2 1
+T3	Strength_amount 22 26	80mg
+A2	Subindex T3 1
+A3	Status T3 intended
+T4	Drug 27 32	生理食塩水
+A4	Subindex T4 2
+T5	Strength_amount 32 36	22ml
+A5	Subindex T5 2
+A6	Status T5 intended
+T6	Drug 59 64	カコージン
+A7	Subindex T6 1
+T7	Strength_amount 64 67	4ml
+A8	Subindex T7 1
+A9	Status T7 actual
+A10	Error_occur T7 error
+T8	Drug 68 73	生理食塩水
+A11	Subindex T8 2
+T9	Strength_amount 73 77	26ml
+A12	Subindex T9 2
+A13	Status T9 actual
+A14	Error_occur T9 error

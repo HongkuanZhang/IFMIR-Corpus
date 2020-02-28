@@ -1,0 +1,19 @@
+T1	Date 0 2	平日
+#1	AnnotatorNotes T1	Date?
+T2	Timing 2 5	日勤帯
+#2	AnnotatorNotes T2	Timing?
+T3	Drug 14 19	ソルデム1
+A1	Subindex T3 1
+A2	Status T3 intended
+T4	Strength_amount 20 25	500ｍL
+A3	Subindex T4 1
+T5	Drug 26 30	メイロン
+A4	Subindex T5 2
+T6	Strength_amount 30 34	20mL
+A5	Subindex T6 2
+T7	Drug 41 47	ソルデム3A
+A6	Subindex T7 1
+A7	Status T7 actual
+A8	Error_occur T7 error
+T8	Drug 48 53	500ｍL
+A9	Subindex T8 1

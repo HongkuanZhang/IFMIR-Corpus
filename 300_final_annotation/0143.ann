@@ -1,0 +1,7 @@
+T1	Drug 15 25	ツムラ六君子湯エキス
+A1	Status T1 intended
+T2	Form_form 25 27	顆粒
+T3	Drug 42 52	ツムラ大建中湯エキス
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 52 54	顆粒

@@ -1,0 +1,7 @@
+T1	Drug 0 8	ヘパリン類似物質
+T2	Form_form 8 16	外用泡状スプレー
+A1	Status T2 intended
+T3	Drug 24 32	ヘパリン類似物質
+T4	Form_form 32 38	油性クリーム
+A2	Status T4 actual
+A3	Error_occur T4 error

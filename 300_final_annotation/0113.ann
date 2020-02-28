@@ -1,0 +1,8 @@
+T1	Drug 11 18	オキシコンチン
+T2	Timing 19 21	８時
+T3	Timing 22 25	20時
+A1	Status T3 intended
+T4	Timing 34 37	20時
+A2	Status T4 intended
+T5	Timing 52 54	深夜
+A3	Index T5 01

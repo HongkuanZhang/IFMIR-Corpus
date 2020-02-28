@@ -1,0 +1,5 @@
+T1	Drug 33 39	イソニアジド
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Drug 94 101	リファンピシン
+A3	Status T2 intended

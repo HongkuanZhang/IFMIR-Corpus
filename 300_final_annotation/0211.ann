@@ -1,0 +1,17 @@
+T1	Drug 0 5	ポララミン
+A1	Subindex T1 1
+T2	Dosage 5 7	１Ａ
+A2	Subindex T2 1
+T3	Route 7 9	筋注
+A3	Subindex T3 1
+A4	Status T3 intended
+T4	Drug 10 17	ヒシファーゲン
+A5	Subindex T4 2
+T5	Dosage 17 19	１管
+A6	Subindex T5 2
+T6	Route 19 21	静注
+A7	Subindex T6 2
+T7	Route 36 38	静注
+A8	Subindex T7 1
+A9	Status T7 actual
+A10	Error_occur T7 error

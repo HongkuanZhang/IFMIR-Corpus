@@ -1,0 +1,10 @@
+T1	Drug 0 6	ワイスタール
+A1	Status T1 actual
+A2	Error_occur T1 error
+#1	AnnotatorNotes T1	★
+T2	Drug 11 17	セフォチアム
+A3	Status T2 intended
+T3	Drug 31 34	抗生剤
+A4	Status T3 actual
+A5	Error_occur T3 error
+A6	Drug T3 class_mentioned

@@ -1,0 +1,11 @@
+T1	Drug 5 10	ホクナリン
+T2	Form_form 10 13	テープ
+T3	Strength_amount 14 17	0.5
+A1	Status T3 intended
+T4	Drug 27 32	ホクナリン
+T5	Form_form 32 35	テープ
+T6	Strength_amount 36 37	2
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Drug 86 91	ホクナリン
+T8	Form_form 91 94	テープ

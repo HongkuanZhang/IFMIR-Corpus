@@ -1,0 +1,9 @@
+T1	Drug 0 6	アムロジピン
+T2	Strength_amount 6 9	5mg
+T3	Strength_amount 23 28	2.5mg
+T4	Dosage 29 31	2錠
+A1	Status T4 intended
+T5	Strength_amount 75 80	2.5mg
+T6	Dosage 81 83	1錠
+A2	Status T6 actual
+A3	Error_occur T6 error

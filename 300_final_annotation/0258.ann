@@ -1,0 +1,12 @@
+T1	Timing 14 17	夕食前
+A1	Status T1 intended
+T2	Drug 18 22	Nacl
+T3	Timing 42 45	毎食前
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Timing 63 66	夕食前
+A4	Status T4 intended
+T5	Timing 78 81	朝食前
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Drug 88 92	Nacl

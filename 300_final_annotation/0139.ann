@@ -1,0 +1,9 @@
+T1	Timing 0 3	２２時
+T2	Drug 15 20	生理食塩水
+T3	Strength_amount 20 25	500ml
+T4	Strength_rate 26 32	40ml/h
+T5	Duration 33 37	10時間
+A1	Status T5 intended
+T6	Duration 60 66	２時間30分
+A2	Status T6 actual
+A3	Error_occur T6 error

@@ -1,0 +1,15 @@
+T1	Drug 0 5	ラクテック
+A1	Subindex T1 1
+T2	Strength_amount 5 8	500
+A2	Subindex T2 1
+T3	Drug 9 14	アスパラK
+A3	Subindex T3 2
+T4	Dosage 14 16	2V
+A4	Subindex T4 2
+A5	Status T4 intended
+T5	Drug 25 30	アスパラK
+A6	Subindex T5 2
+T6	Dosage 30 32	1V
+A7	Subindex T6 2
+A8	Status T6 actual
+A9	Error_occur T6 error

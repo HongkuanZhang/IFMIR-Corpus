@@ -1,0 +1,18 @@
+T1	Drug 0 8	フルスルチアミン
+A1	Status T1 intended
+T2	Form_form 8 9	錠
+T3	Strength_amount 9 13	２５ｍｇ
+A2	Status T3 intended
+T4	Dosage 13 15	３錠
+T5	Drug 24 29	フラビタン
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Form_form 29 30	錠
+T7	Strength_amount 30 34	１０ｍｇ
+A5	Status T7 actual
+A6	Error_occur T7 error
+T8	Dosage 34 36	３錠
+T9	Drug 70 72	薬剤
+A7	Status T9 actual
+A8	Error_occur T9 error
+A9	Drug T9 unspecified

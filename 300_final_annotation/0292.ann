@@ -1,0 +1,20 @@
+T1	Timing 0 4	朝夕食後
+T2	Drug 5 10	カロナール
+T3	Strength_amount 10 15	200mg
+T4	Dosage 16 18	1錠
+A1	Status T4 intended
+T5	Timing 30 33	夕食後
+T6	Drug 30 34	夕食後薬
+A2	Drug T6 unspecified
+T7	Drug 39 44	カロナール
+T8	Strength_amount 44 49	200mg
+T9	Dosage 50 52	2錠
+A3	Status T9 actual
+A4	Error_occur T9 error
+T10	Drug 69 74	カロナール
+T11	Dosage 74 76	2錠
+A5	Status T11 actual
+A6	Error_occur T11 error
+T12	Dosage 92 94	2錠
+A7	Status T12 actual
+A8	Error_occur T12 error

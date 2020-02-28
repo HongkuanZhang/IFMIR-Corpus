@@ -1,0 +1,5 @@
+T1	Drug 7 12	カロナール
+T2	Drug 44 48	アセリオ
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Strength_amount 49 53	１０ｍｌ

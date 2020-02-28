@@ -1,0 +1,7 @@
+T1	Drug 9 11	漢方
+A1	Drug T1 class_mentioned
+T2	Drug 11 17	17）五苓散
+A2	Status T2 intended
+T3	Drug 31 39	100）大建中湯
+A3	Status T3 actual
+A4	Error_occur T3 error

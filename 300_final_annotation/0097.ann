@@ -1,0 +1,14 @@
+T1	Drug 16 22	エフェドリン
+A1	Status T1 intended
+T2	Dosage 25 27	2Ａ
+A2	Status T2 intended
+#1	AnnotatorNotes T2	A?
+T3	Drug 41 49	ノルアドレナリン
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Dosage 50 52	1Ａ
+A5	Status T4 actual
+A6	Error_occur T4 error
+#2	AnnotatorNotes T4	A?
+T5	Date 75 77	翌日
+A7	Index T5 01

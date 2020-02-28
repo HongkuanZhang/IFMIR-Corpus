@@ -1,0 +1,24 @@
+T1	Drug 0 5	テプレノン
+T2	Form_form 5 7	細粒
+T3	Strength_amount 7 10	30包
+A1	Status T3 intended
+A2	Strength_amount T3 per_whole_course
+T4	Strength_amount 11 13	1包
+A3	Status T4 intended
+A4	Strength_amount T4 per_day
+T5	Frequency 14 16	分1
+A5	Status T5 intended
+T6	Duration 17 21	30日分
+A6	Status T6 intended
+T7	Strength_amount 27 29	3包
+A7	Status T7 actual
+A8	Error_occur T7 error
+A9	Strength_amount T7 per_day
+T8	Frequency 30 32	分3
+A10	Status T8 actual
+A11	Error_occur T8 error
+T9	Duration 33 37	30日分
+A12	Status T9 actual
+A13	Error_occur T9 error
+T10	Strength_amount 41 44	90包
+A14	Status T10 intended

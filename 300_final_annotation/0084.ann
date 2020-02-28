@@ -1,0 +1,11 @@
+T1	Drug 0 6	ザイボックス
+T2	Form_form 6 7	錠
+T3	Strength_amount 7 12	６００ｍｇ
+T4	Dosage 12 14	１錠
+A1	Status T4 intended
+T5	Timing 15 26	朝食後２時間（１０時）
+T6	Timing 27 38	夕食後２時間（２０時）
+T7	Timing 45 56	朝食後２時間（１０時）
+T8	Dosage 58 60	２錠
+A2	Status T8 actual
+A3	Error_occur T8 error

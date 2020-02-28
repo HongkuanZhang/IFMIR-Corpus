@@ -1,0 +1,16 @@
+T1	Drug 5 10	抗血栓薬剤
+A1	Drug T1 class_mentioned
+T2	Route 11 13	点滴
+T3	Drug 16 19	内服薬
+A2	Index T3 2
+T4	Drug 32 35	内服薬
+A3	Index T4 2
+T5	Date 47 52	10/16
+T6	Timing 52 53	夕
+T7	Timing 69 72	夕食後
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Timing 81 84	朝食後
+A6	Status T8 intended
+T9	Drug 89 92	内服薬
+A7	Drug T9 unspecified

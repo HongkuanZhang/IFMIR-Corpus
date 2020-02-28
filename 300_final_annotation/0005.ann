@@ -1,0 +1,14 @@
+T1	Drug 0 8	ピコスルファート
+T2	Form_form 8 9	錠
+T3	Dosage 9 13	１回２錠
+T4	Duration 13 16	４日分
+T5	Strength_amount 19 21	８錠
+A1	Status T5 intended
+A2	Strength_amount T5 per_whole_course
+T6	Strength_amount 25 27	６錠
+A3	Status T6 actual
+A4	Error_occur T6 error
+A5	Strength_amount T6 per_whole_course
+T7	Strength_amount 78 80	２錠
+A6	Index T7 02
+A7	Strength_amount T7 per_whole_course

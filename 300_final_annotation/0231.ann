@@ -1,0 +1,10 @@
+T1	Route 0 2	点滴
+T2	Drug 24 26	薬剤
+A1	Drug T2 unspecified
+T3	Drug 35 41	ソルデム３A
+T4	Strength_amount 41 46	500ml
+A2	Status T4 intended
+T5	Drug 55 61	ソルデム３A
+T6	Strength_amount 61 67	1000ml
+A3	Status T6 actual
+A4	Error_occur T6 error

@@ -1,0 +1,16 @@
+T1	Timing 8 11	昼食後
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Timing 19 22	夕食後
+A3	Status T2 intended
+T3	Drug 19 23	夕食後薬
+A4	Drug T3 unspecified
+T4	Timing 32 35	夕食後
+A5	Status T4 intended
+T5	Drug 32 36	夕食後薬
+A6	Drug T5 unspecified
+T6	Drug 38 43	抗糖尿病薬
+A7	Drug T6 class_mentioned
+T7	Timing 55 59	2時間後
+A8	Index T7 02
+#1	AnnotatorNotes T7	★

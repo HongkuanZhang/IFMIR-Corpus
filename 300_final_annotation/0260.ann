@@ -1,0 +1,20 @@
+T1	Drug 0 5	レバミピド
+A1	Subindex T1 1
+T2	Drug 6 11	ロキソニン
+A2	Subindex T2 2
+T3	Strength_amount 11 15	１日３錠
+A3	Strength_amount T3 per_day
+T4	Timing 15 18	毎食後
+T5	Duration 18 21	３日分
+A4	Status T5 intended
+T6	Drug 28 33	ロキソニン
+A5	Subindex T6 2
+T7	Drug 34 39	レバミピド
+A6	Subindex T7 1
+T8	Strength_amount 43 46	１５錠
+A7	Status T8 actual
+A8	Error_occur T8 error
+A9	Strength_amount T8 per_whole_course
+T9	Duration 63 66	５日分
+A10	Status T9 actual
+A11	Error_occur T9 error

@@ -1,0 +1,9 @@
+T1	Drug 23 29	アラセナ点滴
+A1	Index T1 01
+T2	Strength_amount 54 59	600mg
+A2	Index T2 01
+T3	Strength_amount 76 81	300mg
+A3	Status T3 intended
+T4	Strength_amount 93 98	600mg
+A4	Status T4 actual
+A5	Error_occur T4 error

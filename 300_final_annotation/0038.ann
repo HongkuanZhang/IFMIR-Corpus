@@ -1,0 +1,14 @@
+T1	Drug 7 11	アンヒバ
+T2	Route 11 13	坐薬
+T3	Strength_amount 13 18	100mg
+A1	Status T3 actual
+A2	Error_occur T3 error
+T4	Strength_amount 19 21	3本
+A3	Status T4 intended
+T5	Dosage 22 26	1回1本
+T6	Strength_amount 41 46	100mg
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Dosage 47 49	1本
+T8	Strength_amount 72 76	50mg
+A6	Status T8 intended

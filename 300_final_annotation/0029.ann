@@ -1,0 +1,15 @@
+T1	Date 0 4	5/29
+T2	Drug 5 10	アーチスト
+T3	Strength_amount 10 14	10mg
+T4	Strength_amount 15 17	1T
+A1	Status T4 intended
+T5	Frequency 18 20	2×
+T6	Timing 20 24	朝夕食後
+T7	Duration 25 28	7日分
+T8	Strength_amount 36 40	0.5T
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Strength_amount 41 43	7包
+A4	Status T9 actual
+A5	Error_occur T9 error
+A6	Strength_amount T9 per_whole_course

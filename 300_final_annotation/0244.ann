@@ -1,0 +1,22 @@
+T1	Timing 3 6	就寝前
+T2	Drug 7 9	下剤
+A1	Drug T2 class_mentioned
+T3	Timing 19 22	夕食後
+T4	Drug 26 28	下剤
+A2	Drug T4 class_mentioned
+T5	Drug 36 38	下剤
+A3	Drug T5 class_mentioned
+T6	Dosage 39 41	2錠
+A4	Status T6 intended
+T7	Drug 54 56	下剤
+A5	Drug T7 class_mentioned
+T8	Drug 76 78	下剤
+A6	Drug T8 class_mentioned
+T9	Dosage 79 81	2錠
+A7	Status T9 intended
+T10	Date 89 91	本日
+T11	Drug 91 93	下剤
+A8	Drug T11 class_mentioned
+T12	Strength_amount 94 96	4錠
+A9	Status T12 actual
+A10	Error_occur T12 error

@@ -1,0 +1,11 @@
+T1	Date 0 5	11／21
+T2	Timing 6 11	9時45分
+T3	Drug 12 17	レキソタン
+T4	Strength_amount 17 20	5mg
+A1	Status T4 intended
+T5	Strength_amount 21 25	120錠
+T6	Drug 41 46	レキソタン
+T7	Strength_amount 46 49	2mg
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Strength_amount 49 53	120錠

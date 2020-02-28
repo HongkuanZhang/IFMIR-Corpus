@@ -1,0 +1,19 @@
+T1	Drug 0 6	ガベキサート
+A1	Subindex T1 1
+T2	Dosage 6 8	2V
+A2	Subindex T2 1
+T3	Strength_concentration 9 11	5％
+A3	Subindex T3 2
+T4	Drug 11 15	ブドウ糖
+A4	Subindex T4 2
+T5	Strength_amount 15 20	500ml
+A5	Subindex T5 2
+A6	Status T5 intended
+T6	Strength_concentration 34 36	5％
+A7	Subindex T6 2
+T7	Drug 36 40	ブドウ糖
+A8	Subindex T7 2
+T8	Strength_amount 40 45	250ml
+A9	Subindex T8 2
+A10	Status T8 actual
+A11	Error_occur T8 error

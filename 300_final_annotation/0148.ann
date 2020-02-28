@@ -1,0 +1,10 @@
+T1	Drug 1 2	薬
+A1	Drug T1 unspecified
+T2	Strength_amount 9 12	７日分
+A2	Status T2 intended
+A3	Strength_amount T2 per_whole_course
+T3	Strength_amount 16 19	８日分
+A4	Status T3 actual
+A5	Error_occur T3 error
+A6	Strength_amount T3 per_whole_course
+T4	Date 31 35	7月3日

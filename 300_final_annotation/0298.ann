@@ -1,0 +1,17 @@
+T1	Date 0 3	１／２
+T2	Timing 4 5	夕
+T3	Drug 9 12	持参薬
+A1	Drug T3 unspecified
+T4	Date 23 26	１／３
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Timing 27 28	朝
+T6	Date 38 41	１／５
+A4	Status T6 intended
+T7	Drug 48 53	トラゼンタ
+T8	Date 75 78	１／３
+A5	Index T8 02
+T9	Drug 90 95	トラゼンタ
+A6	Index T9 02
+T10	Date 103 106	１／５
+A7	Index T10 02

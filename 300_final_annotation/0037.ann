@@ -1,0 +1,13 @@
+T1	Drug 8 10	注射
+A1	Drug T1 unspecified
+T2	Drug 17 19	生食
+T3	Strength_amount 19 21	2L
+A2	Status T3 intended
+T4	Strength_amount 22 26	1袋×6
+A3	Strength_amount T4 per_whole_course
+T5	Drug 31 33	生食
+T6	Strength_amount 33 35	1L
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Strength_amount 36 40	1袋×6
+A6	Strength_amount T7 per_whole_course

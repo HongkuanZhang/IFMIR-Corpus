@@ -1,0 +1,10 @@
+T1	Date 6 8	翌日
+T2	Drug 9 15	日勤使用薬剤
+A1	Drug T2 unspecified
+T3	Drug 25 35	セフトリアキソンNa
+T4	Strength_amount 35 37	1ｇ
+T5	Dosage 37 39	2瓶
+A2	Status T5 intended
+T6	Dosage 43 45	１瓶
+A3	Status T6 actual
+A4	Error_occur T6 error

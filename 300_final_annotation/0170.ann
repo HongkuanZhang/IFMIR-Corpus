@@ -1,0 +1,20 @@
+T1	Date 0 3	９／５
+A1	Index T1 01
+T2	Timing 4 9	１８：５０
+A2	Index T2 01
+T3	Drug 19 26	プランルカスト
+T4	Form_form 26 28	細粒
+T5	Timing 28 31	朝・夕
+A3	Status T5 intended
+T6	Date 39 42	９／４
+A4	Subindex T6 1
+T7	Timing 42 47	朝・昼・夕
+A5	Subindex T7 1
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Date 48 51	９／５
+A8	Subindex T8 2
+T9	Timing 51 54	朝・昼
+A9	Subindex T9 2
+A10	Status T9 actual
+A11	Error_occur T9 error

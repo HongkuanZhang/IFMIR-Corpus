@@ -1,0 +1,13 @@
+T1	Drug 12 15	内服薬
+A1	Drug T1 unspecified
+T2	Timing 23 25	食前
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Drug 23 26	食前薬
+A4	Drug T3 unspecified
+T4	Timing 31 34	昼食後
+A5	Status T4 intended
+T5	Drug 35 38	内服薬
+A6	Drug T5 unspecified
+T6	Drug 39 45	メトホルミン
+T7	Strength_amount 45 47	１錠

@@ -1,0 +1,13 @@
+T1	Date 0 3	３０日
+A1	Status T1 intended
+T2	Timing 3 6	夕食後
+A2	Status T2 intended
+T3	Drug 8 13	リクシアナ
+T4	Strength_amount 13 17	６０ｍｇ
+T5	Dosage 17 21	０．５錠
+T6	Date 33 36	３１日
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Timing 37 39	夕方
+A5	Status T7 actual
+A6	Error_occur T7 error

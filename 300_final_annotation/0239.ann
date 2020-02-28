@@ -1,0 +1,7 @@
+T1	Drug 0 7	ネオドパストン
+T2	Strength_amount 7 13	1．5錠／包
+A1	Status T2 intended
+T3	Strength_amount 22 26	1錠／包
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 46 52	4．5錠／包

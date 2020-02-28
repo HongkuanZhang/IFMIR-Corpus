@@ -1,0 +1,10 @@
+T1	Drug 1 4	抗癌剤
+A1	Drug T1 class_mentioned
+T2	Timing 7 11	1時間前
+T3	Drug 16 19	鎮吐剤
+A2	Drug T3 class_mentioned
+T4	Date 20 22	明日
+A3	Status T4 intended
+T5	Date 29 31	本日
+A4	Status T5 actual
+A5	Error_occur T5 error

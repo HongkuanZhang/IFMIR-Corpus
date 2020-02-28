@@ -1,0 +1,13 @@
+T1	Drug 23 30	プレドニゾロン
+T2	Strength_amount 30 34	0.5錠
+A1	Status T2 intended
+A2	Strength_amount T2 per_day
+T3	Frequency 34 36	1×
+T4	Strength_amount 46 48	1錠
+A3	Status T4 actual
+A4	Error_occur T4 error
+A5	Strength_amount T4 per_day
+T5	Frequency 48 50	1×
+T6	Drug 65 68	持参薬
+A6	Drug T6 unspecified
+#1	AnnotatorNotes T6	★

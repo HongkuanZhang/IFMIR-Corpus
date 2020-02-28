@@ -1,0 +1,14 @@
+T1	Date 0 9	H30年6月14日
+T2	Timing 9 15	10時26分
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Timing 16 19	14時
+A3	Status T3 intended
+T4	Drug 27 31	タゾピペ
+T5	Strength_amount 42 46	20mL
+A4	Index T5 01
+#1	AnnotatorNotes T5	01でOK?
+T6	Timing 77 80	14時
+A5	Index T6 02
+T7	Drug 84 88	タゾピペ
+A6	Index T7 02

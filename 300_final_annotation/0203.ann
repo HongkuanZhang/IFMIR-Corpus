@@ -1,0 +1,17 @@
+T1	Timing 0 3	準夜帯
+#1	AnnotatorNotes T1	不要？
+T2	Timing 4 7	夕食後
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Drug 8 10	内服
+A3	Drug T3 unspecified
+T4	Timing 23 26	朝食後
+A4	Status T4 intended
+T5	Drug 31 34	内服薬
+A5	Drug T5 unspecified
+T6	Timing 45 48	朝のみ
+A6	Status T6 intended
+T7	Drug 55 63	ランソプラゾール
+T8	Timing 64 65	夕
+A7	Status T8 actual
+A8	Error_occur T8 error

@@ -1,0 +1,8 @@
+T1	Drug 0 7	モルヒネ塩酸塩
+T2	Route 7 9	注射
+T3	Form_form 9 10	液
+T4	Strength_amount 10 14	５０ｍｇ
+A1	Status T4 intended
+T5	Strength_amount 18 22	１０ｍｇ
+A2	Status T5 actual
+A3	Error_occur T5 error

@@ -1,0 +1,12 @@
+T1	Timing 0 3	夕食後
+T2	Drug 4 13	レホ゛フロキサシン
+T3	Dosage 13 15	1錠
+A1	Status T3 intended
+T4	Dosage 38 40	2錠
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Timing 55 57	翌朝
+A4	Index T5 01
+T6	Dosage 75 77	2錠
+A5	Status T6 actual
+A6	Error_occur T6 error

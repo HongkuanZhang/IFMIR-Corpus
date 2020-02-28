@@ -1,0 +1,12 @@
+T1	Drug 0 4	アロキシ
+A1	Status T1 intended
+T2	Drug 13 17	アロキシ
+A2	Status T2 intended
+T3	Drug 34 39	クラビット
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Drug 47 51	アロキシ
+A5	Status T4 intended
+T5	Drug 55 60	クラビット
+A6	Status T5 actual
+A7	Error_occur T5 error

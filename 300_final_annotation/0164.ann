@@ -1,0 +1,16 @@
+T1	Route 3 5	点眼
+T2	Timing 10 12	６時
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Timing 13 16	１０時
+A3	Status T3 intended
+T4	Drug 17 24	ブロムフェナク
+T5	Timing 33 35	６時
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Drug 36 43	ブロムフェナク
+T7	Timing 69 72	１０時
+A6	Index T7 02
+A7	Status T7 intended
+T8	Drug 73 80	ブロムフェナク
+A8	Index T8 02

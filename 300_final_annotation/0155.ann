@@ -1,0 +1,15 @@
+T1	Timing 32 35	夕食前
+T2	Drug 36 40	リンゼル
+T3	Form_form 40 41	錠
+T4	Date 50 54	8月8日
+T5	Timing 55 56	朝
+T6	Timing 57 61	夕食前分
+A1	Status T6 intended
+T7	Timing 62 65	朝食前
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Drug 94 96	下剤
+A4	Index T8 01
+A5	Drug T8 class_mentioned
+T9	Date 104 106	本日
+A6	Index T9 01

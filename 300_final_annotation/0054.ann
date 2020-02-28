@@ -1,0 +1,20 @@
+T1	Timing 0 3	２２時
+T2	Drug 5 9	アセリオ
+T3	Route 9 11	静注
+T4	Strength_amount 14 20	１０００ｍｇ
+A1	Strength_amount T4 per_whole_course
+T5	Strength_amount 21 26	１００ｍｌ
+T6	Dosage 27 32	８００ｍｇ
+A2	Status T6 intended
+T7	Dosage 43 48	８００ｍｇ
+A3	Status T7 intended
+#1	AnnotatorNotes T7	★
+T8	Dosage 54 60	１０００ｍｇ
+A4	Status T8 actual
+A5	Error_occur T8 error
+#2	AnnotatorNotes T8	★
+T9	Timing 66 68	翌朝
+A6	Index T9 01
+#3	AnnotatorNotes T9	正式なタイミングは翌朝分の準備中
+T10	Drug 70 74	アセリオ
+A7	Index T10 01

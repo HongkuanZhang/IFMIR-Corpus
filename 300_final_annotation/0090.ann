@@ -1,0 +1,19 @@
+T1	Drug 0 11	アスパラギン酸カリウム
+A1	Index T1 01
+T2	Route 11 12	注
+A2	Index T2 01
+T3	Strength_concentration 12 17	１０ｍＥｑ
+A3	Index T3 01
+#1	AnnotatorNotes T3	★後ろにamountに該当しそうな数値があるのでconcentration
+T4	Strength_amount 17 21	１０ｍｌ
+A4	Index T4 01
+T5	Strength_amount 21 25	１キット
+A5	Index T5 01
+T6	Route 33 35	点滴
+T7	Strength_rate 52 58	３０ｍｌ／ｈ
+A6	Status T7 intended
+T8	Strength_rate 91 97	５０ｍｌ／ｈ
+A7	Status T8 actual
+A8	Error_occur T8 error
+T9	Timing 108 112	１時間後
+A9	Index T9 01

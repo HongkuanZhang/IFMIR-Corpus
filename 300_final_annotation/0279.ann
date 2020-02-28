@@ -1,0 +1,8 @@
+T1	Drug 0 5	エンブレル
+T2	Route 5 8	皮下注
+T3	Strength_amount 10 14	２５ｍｇ
+T4	Strength_amount 15 18	１４本
+A1	Status T4 intended
+T5	Strength_amount 29 31	４本
+A2	Status T5 actual
+A3	Error_occur T5 error

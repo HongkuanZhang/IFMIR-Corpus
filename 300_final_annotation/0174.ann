@@ -1,0 +1,35 @@
+T1	Drug 1 6	トブラシン
+A1	Subindex T1 1
+T2	Strength_amount 6 10	10mg
+A2	Subindex T2 1
+A3	Status T2 intended
+T3	Dosage 10 12	２A
+A4	Subindex T3 1
+T4	Strength_concentration 13 15	5％
+A5	Subindex T4 2
+T5	Drug 15 19	ブドウ糖
+A6	Subindex T5 2
+T6	Route 19 20	注
+A7	Subindex T6 2
+T7	Strength_amount 20 24	20mL
+A8	Subindex T7 2
+T8	Dosage 24 26	１A
+A9	Subindex T8 2
+T9	Drug 35 40	トブラシン
+A10	Subindex T9 1
+T10	Strength_amount 40 44	60mg
+A11	Subindex T10 1
+A12	Status T10 actual
+A13	Error_occur T10 error
+T11	Dosage 44 46	２A
+A14	Subindex T11 1
+T12	Strength_concentration 47 49	5％
+A15	Subindex T12 2
+T13	Drug 49 53	ブドウ糖
+A16	Subindex T13 2
+T14	Route 53 54	注
+A17	Subindex T14 2
+T15	Strength_amount 54 58	20mL
+A18	Subindex T15 2
+T16	Dosage 58 60	１A
+A19	Subindex T16 2

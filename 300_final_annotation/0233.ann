@@ -1,0 +1,6 @@
+T1	Drug 0 8	ランソプラゾール
+T2	Strength_amount 8 12	30mg
+A1	Status T2 intended
+T3	Strength_amount 25 29	15mg
+A2	Status T3 actual
+A3	Error_occur T3 error

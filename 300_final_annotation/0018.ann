@@ -1,0 +1,9 @@
+T1	Drug 0 7	ジピリダモール
+T2	Form_form 7 8	散
+T3	Frequency 11 17	1日3回分服
+A1	Status T3 intended
+T4	Frequency 24 28	1日1回
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Frequency 53 57	1日3回
+A4	Status T5 intended

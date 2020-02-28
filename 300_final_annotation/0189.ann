@@ -1,0 +1,7 @@
+T1	Drug 0 4	ビラノア
+A1	Status T1 intended
+T2	Drug 22 29	抗アレルギー薬
+A2	Drug T2 class_mentioned
+T3	Drug 32 40	テ゛サ゛レックス
+A3	Status T3 actual
+A4	Error_occur T3 error

@@ -1,0 +1,26 @@
+T1	Date 0 4	９／２０
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Date 14 18	９／２１
+A3	Status T2 intended
+T3	Timing 18 19	朝
+T4	Drug 21 24	エクア
+T5	Strength_amount 24 28	５０ｍｇ
+T6	Timing 28 30	朝夕
+T7	Dosage 30 32	１錠
+T8	Date 43 47	９／２０
+A4	Status T8 actual
+A5	Error_occur T8 error
+T9	Timing 47 48	夕
+T10	Date 62 64	翌日
+A6	Index T10 01
+T11	Date 68 72	９／２１
+A7	Status T11 intended
+#1	AnnotatorNotes T11	★
+T12	Timing 72 73	夕
+A8	Status T12 intended
+#2	AnnotatorNotes T12	★
+T13	Drug 72 74	夕分
+A9	Status T13 intended
+A10	Drug T13 unspecified
+#3	AnnotatorNotes T13	★

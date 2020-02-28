@@ -1,0 +1,11 @@
+T1	Timing 11 14	昼食後
+T2	Timing 22 25	夕食後
+A1	Status T2 intended
+T3	Drug 22 26	夕食後薬
+A2	Drug T3 unspecified
+T4	Drug 43 49	ファモチジン
+T5	Timing 50 53	夕食後
+A3	Status T5 intended
+T6	Timing 64 65	昼
+A4	Status T6 actual
+A5	Error_occur T6 error

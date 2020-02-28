@@ -1,0 +1,17 @@
+T1	Date 0 4	８／１１
+A1	Index T1 01
+T2	Timing 4 6	朝〜
+A2	Index T2 01
+T3	Drug 6 11	タケキャブ
+A3	Index T3 01
+T4	Timing 35 36	朝
+A4	Status T4 intended
+T5	Drug 37 42	タケキャブ
+T6	Timing 47 48	昼
+A5	Status T6 actual
+A6	Error_occur T6 error
+T7	Dosage 49 51	１錠
+T8	Date 79 81	明日
+A7	Index T8 02
+T9	Timing 82 83	朝
+A8	Index T9 02

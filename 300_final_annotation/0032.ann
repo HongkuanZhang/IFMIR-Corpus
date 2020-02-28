@@ -1,0 +1,15 @@
+T1	Date 0 4	5/28
+T2	Drug 8 14	ピモベンダン
+T3	Form_form 14 15	錠
+T4	Strength_amount 15 20	2.5mg
+T5	Strength_amount 21 23	1T
+A1	Status T5 intended
+T6	Frequency 24 26	2×
+T7	Timing 26 30	朝夕食前
+T8	Strength_amount 37 41	0.5T
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Strength_amount 42 44	7包
+A4	Status T9 actual
+A5	Error_occur T9 error
+A6	Strength_amount T9 per_whole_course

@@ -1,0 +1,17 @@
+T1	Date 0 5	12/30
+T2	Date 6 8	翌日
+T3	Drug 12 17	フロセミド
+T4	Strength_amount 17 25	40mg×14錠
+A1	Status T4 intended
+#1	AnnotatorNotes T4	★
+T5	Drug 32 37	フロセミド
+T6	Strength_amount 37 50	20mg×10錠シート1枚
+A2	Subindex T6 1
+A3	Status T6 actual
+A4	Error_occur T6 error
+#2	AnnotatorNotes T6	★
+T7	Strength_amount 51 58	40mg×4錠
+A5	Subindex T7 2
+A6	Status T7 actual
+A7	Error_occur T7 error
+#3	AnnotatorNotes T7	★

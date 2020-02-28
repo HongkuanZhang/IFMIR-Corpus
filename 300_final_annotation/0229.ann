@@ -1,0 +1,7 @@
+T1	Drug 0 4	ヘパリン
+T2	Strength_rate 9 16	1.0mL/h
+A1	Status T2 intended
+T3	Duration 24 29	約12時間
+T4	Strength_rate 30 37	0.8mL/h
+A2	Status T4 actual
+A3	Error_occur T4 error

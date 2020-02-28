@@ -1,0 +1,17 @@
+T1	Date 0 4	５月８日
+A1	Index T1 01
+T2	Drug 14 15	薬
+A2	Drug T2 unspecified
+T3	Strength_amount 22 24	６錠
+A3	Status T3 intended
+T4	Frequency 24 26	分３
+T5	Drug 27 28	薬
+A4	Drug T5 unspecified
+T6	Strength_amount 29 31	３錠
+A5	Status T6 actual
+A6	Error_occur T6 error
+T7	Frequency 31 33	分３
+T8	Drug 60 61	薬
+A7	Drug T8 unspecified
+T9	Strength_amount 62 64	１錠
+A8	Status T9 neither

@@ -1,0 +1,9 @@
+T1	Date 0 4	5／23
+A1	Index T1 01
+T2	Drug 19 22	鎮痙剤
+A2	Drug T2 class_mentioned
+T3	Drug 23 28	スポラミン
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Drug 53 58	グルカゴン
+A5	Status T4 intended

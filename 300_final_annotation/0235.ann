@@ -1,0 +1,28 @@
+T1	Timing 3 5	8時
+A1	Status T1 intended
+#1	AnnotatorNotes T1	★
+T2	Timing 6 9	20時
+A2	Status T2 intended
+#2	AnnotatorNotes T2	★
+T3	Drug 10 14	ロピオン
+A3	Subindex T3 1
+T4	Route 14 16	静注
+A4	Subindex T4 1
+T5	Strength_amount 16 20	50ｍｇ
+A5	Subindex T5 1
+T6	Drug 21 23	生食
+A6	Subindex T6 2
+T7	Strength_amount 23 27	50ｍｌ
+A7	Subindex T7 2
+T8	Timing 42 45	10時
+A8	Status T8 actual
+A9	Error_occur T8 error
+#3	AnnotatorNotes T8	★
+T9	Timing 46 49	22時
+A10	Status T9 actual
+A11	Error_occur T9 error
+#4	AnnotatorNotes T9	★
+T10	Date 66 68	本日
+T11	Timing 89 92	10時
+T12	Drug 93 97	ロピオン
+A12	Subindex T12 1

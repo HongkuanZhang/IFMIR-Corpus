@@ -1,0 +1,7 @@
+T1	Timing 28 31	昼食後
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Timing 34 37	夕食後
+A3	Status T2 intended
+T3	Drug 40 41	薬
+A4	Drug T3 unspecified

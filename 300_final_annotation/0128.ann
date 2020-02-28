@@ -1,0 +1,13 @@
+T1	Timing 0 5	１４時半頃
+A1	Index T1 01
+T2	Drug 6 8	点滴
+A2	Index T2 01
+A3	Drug T2 unspecified
+#1	AnnotatorNotes T2	Route？
+T3	Drug 12 18	ソルデム３Ａ
+T4	Strength_rate 19 26	１００ｍｌ／Ｈ
+T5	Duration 28 33	２０時まで
+A4	Status T5 intended
+T6	Duration 42 46	１７時前
+A5	Status T6 actual
+A6	Error_occur T6 error

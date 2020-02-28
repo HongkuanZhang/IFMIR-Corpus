@@ -1,0 +1,14 @@
+T1	Duration 0 4	１４時間
+A1	Status T1 intended
+A2	Duration T1
+T2	Drug 7 9	点滴
+A3	Drug T2 unspecified
+T3	Drug 10 15	エルネオパ
+T4	Duration 18 22	２４時間
+A4	Status T4 actual
+A5	Error_occur T4 error
+A6	Duration T4
+T5	Route 62 64	点滴
+A7	Index T5 02
+T6	Timing 89 92	２１時
+A8	Index T6 02

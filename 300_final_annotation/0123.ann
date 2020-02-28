@@ -1,0 +1,10 @@
+T1	Date 0 4	8／20
+T2	Drug 30 34	禁忌薬剤
+A1	Status T2 actual
+A2	Error_occur T2 error
+A3	Drug T2 class_mentioned
+T3	Drug 37 42	スポラミン
+A4	Status T3 actual
+A5	Error_occur T3 error
+T4	Drug 62 67	グルカゴン
+A6	Status T4 intended

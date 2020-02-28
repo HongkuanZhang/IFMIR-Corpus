@@ -1,0 +1,11 @@
+T1	Drug 0 2	生食
+T2	Strength_amount 2 5	100
+A1	Status T2 intended
+T3	Drug 6 19	強力ネオミノファーゲンシー
+T4	Drug 20 25	ポララミン
+T5	Route 25 26	注
+T6	Strength_amount 26 29	5ｍｇ
+T7	Drug 36 38	生食
+T8	Strength_amount 38 40	50
+A2	Status T8 actual
+A3	Error_occur T8 error

@@ -1,0 +1,14 @@
+T1	Drug 0 6	ワーファリン
+T2	Strength_amount 6 9	3mg
+T3	Date 13 16	22日
+T4	Strength_amount 38 43	3.5mg
+A1	Status T4 actual
+A2	Error_occur T4 error
+#1	AnnotatorNotes T4	★
+T5	Date 44 48	21日分
+T6	Date 69 72	21日
+T7	Drug 73 79	ワーファリン
+T8	Strength_amount 79 84	3.5mg
+A3	Status T8 actual
+A4	Error_occur T8 error
+#2	AnnotatorNotes T8	★

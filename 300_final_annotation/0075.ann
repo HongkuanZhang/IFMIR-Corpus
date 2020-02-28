@@ -1,0 +1,12 @@
+T1	Timing 0 6	１０時３０分
+T2	Route 7 9	点滴
+T3	Timing 13 16	１２時
+A1	Status T3 intended
+T4	Drug 13 19	１２時交換分
+T5	Timing 20 26	１０時３０分
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Timing 46 51	１１時過ぎ
+T7	Route 63 65	点滴
+T8	Timing 87 93	１２時３０分
+T9	Route 106 108	点滴

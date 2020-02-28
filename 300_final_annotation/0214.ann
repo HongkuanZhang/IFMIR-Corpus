@@ -1,0 +1,9 @@
+T1	Date 0 5	月・水・金
+A1	Status T1 intended
+T2	Drug 11 16	ダイフェン
+T3	Date 17 27	月曜日（１０／２９）
+A2	Status T3 intended
+T4	Date 33 43	火曜日（１０／３０）
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Date 55 60	１０／３０

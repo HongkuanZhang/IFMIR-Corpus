@@ -1,0 +1,16 @@
+T1	Route 0 2	点滴
+T2	Duration 10 14	２４時間
+A1	Status T2 intended
+#1	AnnotatorNotes T2	★
+T3	Drug 17 19	輸液
+A2	Drug T3 unspecified
+T4	Timing 20 23	１４時
+A3	Status T4 actual
+A4	Error_occur T4 error
+#2	AnnotatorNotes T4	★
+T5	Timing 37 38	朝
+A5	Index T5 2
+#3	AnnotatorNotes T5	Index2?
+T6	Route 53 58	点滴ルート
+A6	Index T6 2
+#4	AnnotatorNotes T6	Index2?

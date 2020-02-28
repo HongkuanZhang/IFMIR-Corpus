@@ -1,0 +1,8 @@
+T1	Route 0 3	TRI
+T2	Drug 11 16	ソルアセト
+A1	Status T2 intended
+T3	Strength_amount 16 21	500mL
+T4	Drug 39 45	ソルデム３A
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_amount 45 50	500mL

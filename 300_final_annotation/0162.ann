@@ -1,0 +1,8 @@
+T1	Drug 15 17	補液
+A1	Drug T1 unspecified
+T2	Timing 28 30	0時
+T3	Duration 36 41	16時まで
+T4	Timing 57 60	朝7時
+T5	Drug 107 109	補液
+A2	Index T5 02
+A3	Drug T5 unspecified

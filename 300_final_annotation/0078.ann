@@ -1,0 +1,9 @@
+T1	Drug 9 13	ヒュミラ
+T2	Strength_amount 13 17	４０ｍｇ
+A1	Status T2 intended
+T3	Wrong_patient 41 45	別の患者
+T4	Drug 46 50	ヒュミラ
+T5	Strength_amount 50 54	８０ｍｇ
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Route 54 58	シリンジ

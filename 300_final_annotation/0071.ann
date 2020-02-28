@@ -1,0 +1,23 @@
+T1	Date 0 3	５／８
+T2	Timing 3 6	夕食後
+T3	Date 13 16	５／９
+T4	Timing 16 19	朝食後
+#1	AnnotatorNotes T4	★
+T5	Drug 16 20	朝食後薬
+A1	Drug T5 unspecified
+T6	Timing 26 29	毎食後
+A2	Index T6 2
+A3	Status T6 intended
+T7	Drug 33 43	ジプレキサザイディス
+A4	Index T7 2
+T8	Strength_amount 43 46	５ｍｇ
+A5	Index T8 2
+T9	Dosage 46 48	９錠
+A6	Index T9 2
+T10	Timing 51 54	朝食後
+A7	Index T10 2
+A8	Status T10 actual
+A9	Error_occur T10 error
+#2	AnnotatorNotes T10	★
+T11	Drug 51 55	朝食後薬
+A10	Drug T11 unspecified

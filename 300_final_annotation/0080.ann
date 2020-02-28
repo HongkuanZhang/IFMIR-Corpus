@@ -1,0 +1,12 @@
+T1	Date 0 2	翌日
+A1	Status T1 intended
+T2	Timing 2 5	朝食後
+T3	Drug 13 18	デカドロン
+T4	Timing 19 24	朝・夕食後
+#1	AnnotatorNotes T4	★
+T5	Drug 19 25	朝・夕食後薬
+A2	Drug T5 unspecified
+T6	Date 27 29	本日
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Timing 45 48	夕食後

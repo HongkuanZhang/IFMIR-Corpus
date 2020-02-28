@@ -1,0 +1,7 @@
+T1	Drug 14 20	テグレトール
+A1	Status T1 intended
+T2	Strength_amount 20 23	200
+T3	Drug 32 37	テオドール
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 37 40	200

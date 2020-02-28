@@ -1,0 +1,12 @@
+T1	Drug 0 4	抗凝固剤
+A1	Drug T1 class_mentioned
+T2	Drug 5 9	ヘパリン
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Timing 17 18	昼
+A4	Index T3 01
+T4	Drug 47 51	抗凝固剤
+A5	Index T4 01
+A6	Drug T4 class_mentioned
+T5	Drug 64 69	ナオタミン
+A7	Status T5 intended

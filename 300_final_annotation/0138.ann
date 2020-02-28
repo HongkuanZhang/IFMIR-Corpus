@@ -1,0 +1,11 @@
+T1	Date 0 4	8/17
+T2	Route 10 12	点滴
+T3	Drug 13 18	ラクテック
+T4	Strength_rate 19 25	80ml/h
+T5	Timing 38 43	14:30
+A1	Status T5 intended
+T6	Duration 73 76	6時間
+A2	Status T6 intended
+T7	Duration 84 87	2時間
+A3	Status T7 actual
+A4	Error_occur T7 error

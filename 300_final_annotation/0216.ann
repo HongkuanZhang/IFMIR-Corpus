@@ -1,0 +1,19 @@
+T1	Drug 0 6	アンビゾーム
+T2	Route 6 10	点滴注射
+T3	Dosage 10 12	２V
+T4	Drug 13 16	蒸留水
+A1	Index T4 2
+T5	Strength_amount 16 20	２０ml
+A2	Index T5 2
+T6	Drug 30 33	蒸留水
+A3	Index T6 2
+T7	Strength_amount 33 37	２０ml
+A4	Index T7 2
+A5	Status T7 intended
+T8	Dosage 38 40	２管
+A6	Index T8 2
+A7	Status T8 intended
+T9	Strength_amount 47 51	１２ml
+A8	Index T9 2
+A9	Status T9 actual
+A10	Error_occur T9 error

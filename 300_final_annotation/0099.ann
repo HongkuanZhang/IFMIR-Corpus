@@ -1,0 +1,12 @@
+T1	Timing 0 1	朝
+T2	Drug 2 5	内服薬
+A1	Drug T2 unspecified
+T3	Drug 23 29	ニフェジピン
+T4	Strength_amount 29 33	10mg
+A2	Status T4 intended
+T5	Drug 45 51	ニフェジピン
+T6	Strength_amount 51 55	20mg
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Duration 62 67	2日前から
+#1	AnnotatorNotes T7	「から」を含める？

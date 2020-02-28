@@ -1,0 +1,17 @@
+T1	Timing 0 3	夕食後
+T2	Drug 0 4	夕食後薬
+A1	Drug T2 unspecified
+T3	Date 12 14	翌日
+A2	Status T3 intended
+T4	Timing 34 36	夕方
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Date 45 47	翌日
+A5	Status T5 intended
+T6	Timing 48 49	朝
+A6	Status T6 intended
+T7	Drug 84 86	薬剤
+A7	Index T7 02
+A8	Drug T7 unspecified
+T8	Timing 91 92	朝
+A9	Index T8 02

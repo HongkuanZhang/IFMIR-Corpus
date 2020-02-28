@@ -1,0 +1,13 @@
+T1	Timing 0 4	5：20
+A1	Index T1 01
+T2	Drug 39 44	カロナール
+T3	Dosage 44 46	３錠
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Drug 58 63	カロナール
+T5	Dosage 63 65	３錠
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Drug 87 92	カロナール
+T7	Dosage 92 94	２錠
+A6	Status T7 intended

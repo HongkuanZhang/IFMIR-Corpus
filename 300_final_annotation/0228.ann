@@ -1,0 +1,6 @@
+T1	Route 0 5	IVPCA
+T2	Strength_rate 21 27	2ml/hr
+A1	Status T2 intended
+T3	Strength_rate 35 41	5ml/hr
+A2	Status T3 actual
+A3	Error_occur T3 error

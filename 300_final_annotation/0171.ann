@@ -1,0 +1,13 @@
+T1	Drug 0 6	セレコックス
+T2	Strength_amount 7 9	４錠
+A1	Strength_amount T2 per_day
+T3	Frequency 9 11	分2
+T4	Date 21 24	19日
+T5	Timing 25 26	朝
+T6	Drug 27 30	内服薬
+A2	Drug T6 unspecified
+T7	Strength_amount 41 43	2錠
+A3	Status T7 intended
+T8	Strength_amount 50 52	５錠
+A4	Status T8 actual
+A5	Error_occur T8 error

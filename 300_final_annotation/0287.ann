@@ -1,0 +1,13 @@
+T1	Timing 0 3	夕食前
+T2	Drug 4 7	ツムラ
+T3	Dosage 8 10	二袋
+A1	Status T3 intended
+T4	Dosage 19 21	一袋
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Timing 40 43	準夜帯
+A4	Index T5 01
+#1	AnnotatorNotes T5	★
+T6	Dosage 49 51	一袋
+A5	Index T6 01
+#2	AnnotatorNotes T6	残り一袋

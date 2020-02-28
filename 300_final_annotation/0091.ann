@@ -1,0 +1,8 @@
+T1	Drug 9 15	ビクロックス
+A1	Status T1 intended
+T2	Form_form 15 16	錠
+T3	Drug 25 31	ジェニナック
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 31 32	錠
+T5	Duration 32 35	3日分

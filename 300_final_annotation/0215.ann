@@ -1,0 +1,15 @@
+T1	Drug 5 9	イノバン
+T2	Drug 10 18	ノルアドレナリン
+A1	Index T2 2
+T3	Drug 28 36	ノルアドレナリン
+A2	Index T3 2
+T4	Strength_rate 36 41	3ml/H
+A3	Index T4 2
+T5	Drug 53 61	ノルアドレナリン
+A4	Index T5 2
+T6	Strength_rate 61 66	4ml/H
+A5	Index T6 2
+T7	Timing 77 79	翌朝
+A6	Index T7 01
+T8	Drug 85 89	イノバン
+A7	Index T8 01

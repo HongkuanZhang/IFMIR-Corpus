@@ -1,0 +1,17 @@
+T1	Drug 0 6	トラムセット
+A1	Status T1 intended
+T2	Form_form 6 7	錠
+A2	Status T2 intended
+T3	Drug 20 23	リリカ
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Form_mode 23 25	ＯＤ
+A5	Status T4 actual
+A6	Error_occur T4 error
+T5	Form_form 25 26	錠
+T6	Strength_amount 26 30	７５ｍｇ
+A7	Status T6 actual
+A8	Error_occur T6 error
+T7	Drug 90 92	薬剤
+A9	Index T7 02
+A10	Drug T7 unspecified

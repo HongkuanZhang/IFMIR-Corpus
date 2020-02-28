@@ -1,0 +1,10 @@
+T1	Drug 0 8	ツムラ半夏瀉心湯
+A1	Status T1 intended
+T2	Strength_amount 8 10	３包
+A2	Strength_amount T2 per_day
+T3	Frequency 10 12	分３
+T4	Timing 12 15	毎食間
+T5	Duration 15 18	３日分
+T6	Drug 27 35	ツムラ半夏厚朴湯
+A3	Status T6 actual
+A4	Error_occur T6 error

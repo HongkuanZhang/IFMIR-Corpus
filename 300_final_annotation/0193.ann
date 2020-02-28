@@ -1,0 +1,10 @@
+T1	Drug 0 3	オプソ
+A1	Status T1 intended
+T2	Drug 13 18	オキノーム
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Drug 68 73	オキノーム
+A4	Status T3 actual
+A5	Error_occur T3 error
+T4	Drug 104 107	オプソ
+A6	Index T4 02

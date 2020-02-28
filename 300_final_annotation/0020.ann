@@ -1,0 +1,6 @@
+T1	Drug 0 5	インライタ
+T2	Strength_amount 5 8	５ｍｇ
+A1	Status T2 intended
+T3	Strength_amount 11 14	１ｍｇ
+A2	Status T3 actual
+A3	Error_occur T3 error

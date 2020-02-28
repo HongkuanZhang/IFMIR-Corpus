@@ -1,0 +1,17 @@
+T1	Frequency 0 4	１日朝夕
+T2	Timing 2 4	朝夕
+A1	Status T2 intended
+T3	Dosage 4 6	２錠
+T4	Drug 9 14	デカドロン
+T5	Form_form 14 15	錠
+T6	Timing 16 19	朝食後
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 20 22	４錠
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Timing 39 42	昼食後
+A6	Status T8 actual
+A7	Error_occur T8 error
+T9	Dosage 44 46	２錠
+T10	Strength_amount 52 54	２錠

@@ -1,0 +1,10 @@
+T1	Drug 4 6	補液
+A1	Drug T1 unspecified
+T2	Drug 30 35	生理食塩水
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Strength_amount 35 40	500ｍL
+A4	Status T3 actual
+A5	Error_occur T3 error
+T4	Drug 87 92	ソルデム１
+A6	Status T4 intended

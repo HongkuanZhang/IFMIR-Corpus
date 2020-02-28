@@ -1,0 +1,9 @@
+T1	Drug 0 5	生理食塩水
+A1	Status T1 intended
+T2	Route 6 8	吸入
+T3	Drug 14 23	院内セット吸入薬剤
+A2	Status T3 actual
+A3	Error_occur T3 error
+A4	Drug T3 unspecified
+T4	Route 24 26	吸入
+T5	Date 35 40	9月10日

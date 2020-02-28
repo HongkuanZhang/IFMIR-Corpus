@@ -1,0 +1,16 @@
+T1	Drug 5 7	点滴
+A1	Drug T1 unspecified
+#1	AnnotatorNotes T1	Route？
+T2	Drug 24 33	ＹＤソリタ−Ｔ１号
+A2	Status T2 intended
+T3	Form_form 33 35	輸液
+T4	Strength_amount 36 41	２００ｍＬ
+T5	Drug 48 57	ＹＤソリタ−Ｔ３号
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Form_form 57 59	輸液
+T7	Strength_amount 60 65	２００ｍＬ
+T8	Drug 81 83	点滴
+A5	Index T8 01
+A6	Drug T8 unspecified
+#2	AnnotatorNotes T8	Route？

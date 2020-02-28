@@ -1,0 +1,9 @@
+T1	Timing 3 5	7時
+T2	Drug 6 9	抗生剤
+A1	Drug T2 class_mentioned
+T3	Route 10 12	点滴
+T4	Drug 52 55	抗生剤
+A2	Drug T4 class_mentioned
+T5	Date 56 58	翌日
+A3	Status T5 intended
+T6	Timing 59 61	7時

@@ -1,0 +1,17 @@
+T1	Route 18 20	貼付
+T2	Drug 28 33	ニュープロ
+T3	Route 33 36	バッチ
+T4	Strength_amount 36 39	９ｍｇ
+T5	Dosage 39 41	２枚
+A1	Status T5 intended
+T6	Dosage 42 44	１枚
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Strength_amount 63 65	１枚
+A4	Index T7 02
+T8	Route 65 67	貼付
+T9	Strength_amount 69 71	２枚
+A5	Index T9 02
+A6	Strength_amount T9 per_whole_course
+T10	Drug 73 79	パーミロール
+A7	Index T10 02

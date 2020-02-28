@@ -1,0 +1,8 @@
+T1	Drug 3 9	ファモチジン
+T2	Strength_amount 18 22	１０ｍｇ
+T3	Strength_amount 34 43	１０ｍｇ／１０ｍＬ
+A1	Status T3 actual
+A2	Error_occur T3 error
+T4	Strength_amount 76 88	２０ｍｇ／２０ｍＬの半分
+A3	Status T4 intended
+#1	AnnotatorNotes T4	★

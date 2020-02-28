@@ -1,0 +1,5 @@
+T1	Form_form 0 2	粉砕
+A1	Status T1 intended
+T2	Form_form 9 11	錠剤
+A2	Status T2 actual
+A3	Error_occur T2 error

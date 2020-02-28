@@ -1,0 +1,21 @@
+T1	Date 0 5	12月5日
+T2	Timing 6 9	夕食後
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Drug 10 13	内服薬
+A3	Drug T3 unspecified
+T4	Date 30 32	翌日
+T5	Drug 33 36	内服薬
+A4	Drug T5 unspecified
+T6	Timing 58 61	夕食後
+A5	Status T6 actual
+A6	Error_occur T6 error
+T7	Drug 62 65	内服薬
+A7	Drug T7 unspecified
+T8	Timing 78 81	朝食後
+A8	Status T8 intended
+T9	Drug 82 85	内服薬
+A9	Drug T9 unspecified
+T10	Timing 86 89	夕食後
+A10	Status T10 actual
+A11	Error_occur T10 error

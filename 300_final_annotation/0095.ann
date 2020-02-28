@@ -1,0 +1,9 @@
+T1	Drug 0 5	アコアラン
+T2	Route 5 8	静注用
+T3	Strength_amount 8 11	600
+A1	Status T3 intended
+T4	Drug 20 25	アコアラン
+T5	Route 25 28	静注用
+T6	Strength_amount 28 32	1800
+A2	Status T6 actual
+A3	Error_occur T6 error

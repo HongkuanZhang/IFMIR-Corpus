@@ -1,0 +1,18 @@
+T1	Date 0 6	１０月１９日
+T2	Timing 7 8	朝
+T3	Dosage 17 19	２枚
+A1	Status T3 intended
+T4	Route 19 22	貼って
+T5	Drug 28 39	フェンタニルクエン酸塩
+T6	Strength_amount 39 42	２ｍｇ
+T7	Form_form 42 45	テープ
+T8	Dosage 46 48	１枚
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Route 50 56	貼られている
+T10	Date 65 67	前日
+A4	Index T10 01
+T11	Dosage 81 83	２枚
+A5	Index T11 01
+T12	Dosage 93 95	１枚
+A6	Index T12 01

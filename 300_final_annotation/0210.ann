@@ -1,0 +1,16 @@
+T1	Drug 4 7	持参薬
+A1	Drug T1 unspecified
+T2	Drug 10 16	リバスタッチ
+T3	Route 16 19	パッチ
+T4	Strength_amount 19 22	9mg
+T5	Drug 30 33	持参薬
+A2	Drug T5 unspecified
+T6	Drug 63 69	リバスタッチ
+T7	Route 69 72	パッチ
+T8	Strength_amount 72 77	4.5mg
+T9	Dosage 78 80	2枚
+A3	Status T9 intended
+T10	Dosage 94 96	1枚
+A4	Status T10 actual
+A5	Error_occur T10 error
+T11	Date 108 113	9月25日

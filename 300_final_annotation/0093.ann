@@ -1,0 +1,17 @@
+T1	Drug 8 14	ピモベンダン
+T2	Timing 16 18	夕分
+A1	Status T2 intended
+T3	Timing 48 50	朝分
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Timing 66 67	朝
+T5	Drug 68 71	内服薬
+A4	Drug T5 unspecified
+T6	Dosage 71 75	０．５錠
+A5	Status T6 intended
+T7	Dosage 76 78	２錠
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Strength_amount 89 92	２倍量
+A8	Status T8 actual
+A9	Error_occur T8 error

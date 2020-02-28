@@ -1,0 +1,12 @@
+T1	Timing 6 9	夕食後
+A1	Status T1 intended
+T2	Timing 24 27	朝食後
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Date 35 37	翌日
+T4	Timing 37 38	朝
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Timing 41 42	夕
+A6	Index T5 01
+#1	AnnotatorNotes T5	OK?

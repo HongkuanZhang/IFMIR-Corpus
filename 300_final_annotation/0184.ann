@@ -1,0 +1,11 @@
+T1	Drug 19 24	デカドロン
+T2	Form_form 24 25	錠
+T3	Dosage 26 30	１回２錠
+A1	Status T3 intended
+T4	Dosage 32 36	１回１錠
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_amount 80 83	１錠分
+A4	Index T5 02
+T6	Duration 92 96	１日延長
+A5	Index T6 02

@@ -1,0 +1,8 @@
+T1	Drug 0 4	ヘパリン
+T2	Strength_amount 25 31	2500単位
+A1	Status T2 intended
+T3	Route 31 34	皮下注
+T4	Strength_amount 41 47	5000単位
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Route 47 50	皮下注

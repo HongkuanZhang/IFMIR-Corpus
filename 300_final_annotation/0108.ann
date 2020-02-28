@@ -1,0 +1,10 @@
+T1	Drug 0 5	フェブリク
+T2	Strength_amount 5 9	10ｍｇ
+T3	Strength_amount 9 11	1錠
+A1	Strength_amount T3 per_day
+T4	Frequency 11 13	1×
+T5	Duration 13 16	5日分
+A2	Status T5 intended
+T6	Duration 22 25	7日分
+A3	Status T6 actual
+A4	Error_occur T6 error

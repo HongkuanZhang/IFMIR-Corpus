@@ -1,0 +1,15 @@
+T1	Drug 4 7	持参薬
+A1	Drug T1 unspecified
+T2	Drug 11 19	アトルバスタチン
+T3	Form_form 19 20	錠
+T4	Strength_amount 20 23	5ｍｇ
+T5	Frequency 23 25	1×
+T6	Timing 25 27	夕食
+T7	Date 28 30	隔日
+A2	Status T7 intended
+T8	Strength_amount 44 46	1錠
+T9	Frequency 46 48	1×
+T10	Timing 48 51	夕食後
+T11	Duration 89 94	3日間連日
+A3	Status T11 actual
+A4	Error_occur T11 error

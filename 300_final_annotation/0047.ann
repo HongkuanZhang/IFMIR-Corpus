@@ -1,0 +1,18 @@
+T1	Timing 4 9	２２時以降
+T2	Drug 16 21	デカドロン
+A1	Status T2 intended
+T3	Form_form 21 22	錠
+T4	Strength_amount 22 27	０．５ｍｇ
+A2	Status T4 intended
+T5	Strength_amount 28 31	２０錠
+A3	Strength_amount T5 per_whole_course
+T6	Duration 32 35	１日分
+T7	Drug 45 52	プレドニゾロン
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Form_form 52 53	錠
+T9	Strength_amount 53 56	５ｍｇ
+A6	Status T9 actual
+A7	Error_occur T9 error
+T10	Strength_amount 57 60	２０錠
+A8	Strength_amount T10 per_whole_course

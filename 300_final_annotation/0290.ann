@@ -1,0 +1,19 @@
+T1	Drug 12 17	パセトシン
+A1	Status T1 intended
+T2	Strength_amount 17 19	3C
+A2	Strength_amount T2 per_day
+T3	Form_form 18 19	C
+A3	Status T3 intended
+T4	Frequency 20 22	3×
+T5	Timing 22 23	n
+T6	Duration 23 26	7日分
+T7	Drug 31 36	パントシン
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Strength_amount 36 39	21錠
+A6	Status T8 actual
+A7	Error_occur T8 error
+A8	Strength_amount T8 per_whole_course
+T9	Form_form 38 39	錠
+A9	Status T9 actual
+A10	Error_occur T9 error

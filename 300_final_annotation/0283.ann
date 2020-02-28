@@ -1,0 +1,7 @@
+T1	Drug 10 19	ヘパリンナトリウム
+T2	Strength_amount 19 25	１５００単位
+T3	Dosage 26 28	１管
+A1	Status T3 intended
+T4	Dosage 40 42	３管
+A2	Status T4 actual
+A3	Error_occur T4 error

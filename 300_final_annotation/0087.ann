@@ -1,0 +1,13 @@
+T1	Date 0 4	７／２５
+T2	Timing 4 7	朝食後
+T3	Drug 4 8	朝食後薬
+A1	Drug T3 unspecified
+T4	Drug 12 17	プラザキサ
+T5	Form_form 17 21	カプセル
+T6	Dosage 21 25	１回２錠
+A2	Status T6 intended
+T7	Dosage 50 52	１錠
+A3	Status T7 actual
+A4	Error_occur T7 error
+T8	Date 60 62	翌日
+A5	Index T8 01

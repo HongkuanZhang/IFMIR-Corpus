@@ -1,0 +1,8 @@
+T1	Route 6 8	注射
+T2	Drug 18 27	シプロフロキサシン
+A1	Status T2 intended
+T3	Drug 32 40	レボフロキサシン
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Drug 73 75	薬剤
+A4	Drug T4 unspecified

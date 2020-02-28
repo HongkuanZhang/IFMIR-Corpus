@@ -1,0 +1,10 @@
+T1	Timing 0 5	23：30
+T2	Drug 35 39	タゾピペ
+T3	Strength_amount 39 44	2.25g
+A1	Status T3 intended
+T4	Dosage 45 50	1バイアル
+T5	Drug 62 66	タゾピペ
+T6	Strength_amount 66 70	4.5g
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 70 75	１バイアル

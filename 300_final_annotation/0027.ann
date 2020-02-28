@@ -1,0 +1,7 @@
+T1	Drug 4 6	注射
+A1	Drug T1 unspecified
+T2	Drug 10 16	セフォチアム
+A2	Status T2 intended
+T3	Drug 20 28	セフトリアキソン
+A3	Status T3 actual
+A4	Error_occur T3 error

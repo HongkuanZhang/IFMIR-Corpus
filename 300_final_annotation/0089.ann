@@ -1,0 +1,10 @@
+T1	Date 0 5	７月１１日
+T2	Timing 5 10	１５：４０
+T3	Drug 11 14	オプソ
+T4	Dosage 36 42	１回０．５包
+A1	Status T4 intended
+T5	Dosage 78 82	１回１包
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Strength_amount 98 101	３回分
+T7	Strength_amount 102 104	１包

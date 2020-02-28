@@ -1,0 +1,8 @@
+T1	Timing 3 6	14時
+A1	Status T1 intended
+T2	Drug 7 13	セファゾリン
+T3	Route 14 16	点滴
+T4	Route 26 28	点滴
+T5	Timing 39 44	15：30
+A2	Status T5 actual
+A3	Error_occur T5 error

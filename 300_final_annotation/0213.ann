@@ -1,0 +1,13 @@
+T1	Drug 0 6	アーガメイト
+A1	Status T1 intended
+T2	Strength_concentration 6 9	20%
+A2	Status T2 intended
+T3	Form_form 9 12	ゼリー
+T4	Strength_amount 12 15	25g
+T5	Drug 33 38	カロリール
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Form_form 38 41	ゼリー
+T7	Strength_concentration 41 48	40.496%
+A5	Status T7 actual
+A6	Error_occur T7 error

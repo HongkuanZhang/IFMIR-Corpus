@@ -1,0 +1,7 @@
+T1	Drug 12 18	アブストラル
+T2	Timing 53 66	2時間空けなければいけない
+A1	Status T2 intended
+#1	AnnotatorNotes T2	★
+T3	Timing 86 90	30分後
+A2	Status T3 actual
+A3	Error_occur T3 error

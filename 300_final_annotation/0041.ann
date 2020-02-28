@@ -1,0 +1,16 @@
+T1	Drug 0 5	フェントス
+T2	Form_form 5 8	テープ
+T3	Strength_amount 8 11	２ｍｇ
+A1	Status T3 actual
+A2	Error_occur T3 error
+T4	Route 12 14	貼付
+T5	Drug 20 25	フェントス
+T6	Form_form 25 28	テープ
+T7	Strength_amount 28 31	１ｍｇ
+A3	Status T7 intended
+T8	Drug 99 104	フェントス
+A4	Index T8 02
+T9	Form_form 104 107	テープ
+A5	Index T9 02
+T10	Strength_amount 107 110	１ｍｇ
+A6	Index T10 02

@@ -1,0 +1,10 @@
+T1	Drug 1 7	ブロチゾラム
+T2	Form_mode 7 9	ＯＤ
+T3	Form_form 9 10	錠
+T4	Strength_amount 11 15	０．２５
+T5	Dosage 16 18	2錠
+A1	Status T5 intended
+T6	Dosage 25 27	4錠
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Date 36 41	7月13日

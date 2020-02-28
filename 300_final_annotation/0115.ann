@@ -1,0 +1,7 @@
+T1	Drug 0 3	抗生剤
+A1	Drug T1 class_mentioned
+T2	Timing 11 19	術中使用6時間後
+A2	Status T2 intended
+T3	Timing 28 35	入室後6時間後
+A3	Status T3 actual
+A4	Error_occur T3 error

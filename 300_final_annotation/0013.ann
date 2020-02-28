@@ -1,0 +1,10 @@
+T1	Drug 9 10	薬
+A1	Drug T1 unspecified
+T2	Duration 11 14	１週間
+T3	Dosage 29 33	１回２錠
+A2	Status T3 intended
+T4	Frequency 33 35	分１
+T5	Dosage 39 43	１回１錠
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Frequency 43 45	分１

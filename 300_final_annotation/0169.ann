@@ -1,0 +1,18 @@
+T1	Drug 4 7	抗生剤
+A1	Drug T1 class_mentioned
+T2	Drug 15 21	生食2ポート
+A2	Subindex T2 1
+#1	AnnotatorNotes T2	★ポート？
+T3	Drug 22 30	セフトリアキソン
+A3	Subindex T3 2
+T4	Strength_amount 31 33	2瓶
+A4	Subindex T4 2
+A5	Status T4 intended
+T5	Strength_amount 48 50	1瓶
+A6	Subindex T5 2
+A7	Status T5 actual
+A8	Error_occur T5 error
+T6	Drug 65 68	注射薬
+A9	Drug T6 unspecified
+T7	Strength_amount 73 75	1瓶
+A10	Subindex T7 2

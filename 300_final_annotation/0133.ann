@@ -1,0 +1,9 @@
+T1	Drug 0 3	ＳＴ３
+A1	Subindex T1 1
+T2	Drug 4 9	デキサート
+A2	Subindex T2 2
+A3	Status T2 intended
+T3	Drug 28 32	アセリオ
+A4	Subindex T3 2
+A5	Status T3 actual
+A6	Error_occur T3 error

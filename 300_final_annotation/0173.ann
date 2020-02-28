@@ -1,0 +1,9 @@
+T1	Date 0 4	9/22
+T2	Timing 4 8	16時頃
+T3	Drug 15 19	ケイツー
+A1	Status T3 actual
+A2	Error_occur T3 error
+T4	Drug 47 50	処方薬
+A3	Drug T4 unspecified
+T5	Drug 53 59	メチコバール
+A4	Status T5 intended

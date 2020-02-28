@@ -1,0 +1,15 @@
+T1	Drug 0 4	アロキシ
+A1	Status T1 intended
+T2	Route 4 6	点滴
+A2	Status T2 intended
+T3	Strength_amount 9 15	0.75mg
+A3	Status T3 intended
+T4	Drug 20 25	クラビット
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Route 25 29	点滴静注
+A6	Status T5 actual
+A7	Error_occur T5 error
+T6	Strength_amount 32 37	500mg
+A8	Status T6 actual
+A9	Error_occur T6 error

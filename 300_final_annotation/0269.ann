@@ -1,0 +1,18 @@
+T1	Drug 7 12	ジャヌビア
+A1	Status T1 intended
+#1	AnnotatorNotes T1	曖昧
+T2	Strength_amount 12 14	1錠
+A2	Strength_amount T2 per_day
+T3	Frequency 15 17	1×
+T4	Timing 17 18	n
+T5	Drug 19 23	テネリア
+A3	Index T5 2
+A4	Status T5 actual
+A5	Error_occur T5 error
+#2	AnnotatorNotes T5	曖昧
+T6	Strength_amount 23 25	1錠
+A6	Index T6 2
+A7	Strength_amount T6 per_day
+T7	Frequency 26 28	1×
+A8	Index T7 2
+T8	Timing 28 29	n

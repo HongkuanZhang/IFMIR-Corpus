@@ -1,0 +1,14 @@
+T1	Drug 0 3	持参薬
+A1	Status T1 actual
+A2	Error_occur T1 error
+A3	Drug T1 unspecified
+T2	Drug 4 17	リマプロストアルファデスク
+A4	Status T2 actual
+A5	Error_occur T2 error
+T3	Timing 50 51	朝
+T4	Drug 63 68	オパルモン
+T5	Form_form 68 69	錠
+T6	Strength_amount 69 72	5μg
+T7	Drug 73 86	リマプロストアルファデスク
+A6	Status T7 actual
+A7	Error_occur T7 error

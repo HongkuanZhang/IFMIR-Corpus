@@ -1,0 +1,12 @@
+T1	Date 0 3	２４日
+T2	Timing 3 6	夕方分
+T3	Drug 6 12	セレコックス
+T4	Dosage 12 14	２錠
+A1	Status T4 intended
+T5	Dosage 21 23	１錠
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Date 37 40	２５日
+A4	Index T6 01
+T7	Dosage 56 58	１錠
+A5	Index T7 02

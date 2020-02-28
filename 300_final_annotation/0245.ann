@@ -1,0 +1,8 @@
+T1	Drug 0 5	フェブリク
+T2	Strength_amount 5 9	20mg
+T3	Dosage 9 13	0.5錠
+T4	Strength_amount 14 16	1個
+A1	Status T4 intended
+T5	Strength_amount 29 31	2個
+A2	Status T5 actual
+A3	Error_occur T5 error

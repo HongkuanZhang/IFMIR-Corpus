@@ -1,0 +1,8 @@
+T1	Drug 15 27	ヒューマログ注ミリオペン
+A1	Status T1 intended
+T2	Timing 35 37	前日
+A2	Index T2 01
+#1	AnnotatorNotes T2	この「前日」は01でOK？
+T3	Drug 44 58	ノボラピッド注フレックスペン
+A3	Status T3 actual
+A4	Error_occur T3 error

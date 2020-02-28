@@ -1,0 +1,9 @@
+T1	Drug 0 3	猪苓湯
+A1	Status T1 intended
+T2	Drug 12 15	柴苓湯
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Strength_amount 54 57	１回分
+A4	Strength_amount T3 per_consumption
+T4	Drug 74 76	薬品
+A5	Drug T4 unspecified

@@ -1,0 +1,13 @@
+T1	Date 0 3	８／９
+T2	Timing 4 10	１０：３０頃
+T3	Strength_rate 20 25	２ｍｌ／Ｈ
+A1	Status T3 intended
+T4	Drug 28 30	輸液
+A2	Drug T4 unspecified
+T5	Strength_rate 35 40	４ｍｌ／Ｈ
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Strength_rate 73 78	４ｍｌ／Ｈ
+A5	Status T6 actual
+A6	Error_occur T6 error
+T7	Route 79 81	点滴

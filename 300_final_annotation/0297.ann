@@ -1,0 +1,14 @@
+T1	Drug 1 6	セレネース
+A1	Status T1 intended
+T2	Route 6 7	注
+T3	Strength_amount 7 10	5mg
+A2	Status T3 intended
+T4	Dosage 11 13	1A
+T5	Drug 20 25	トラマール
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Route 25 26	注
+T7	Strength_amount 26 31	100mg
+A5	Status T7 actual
+A6	Error_occur T7 error
+T8	Dosage 32 34	1A

@@ -1,0 +1,9 @@
+T1	Drug 57 63	ソルデム3A
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Strength_amount 63 69	1000ml
+T3	Drug 74 76	生食
+A3	Status T3 intended
+T4	Strength_amount 76 82	1000ml
+T5	Drug 98 100	薬剤
+A4	Drug T5 unspecified

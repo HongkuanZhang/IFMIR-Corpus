@@ -1,0 +1,14 @@
+T1	Drug 16 20	ランタス
+A1	Status T1 intended
+T2	Route 20 21	注
+T3	Drug 31 35	アピドラ
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Route 35 36	注
+T5	Drug 47 51	アピドラ
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Route 51 52	注
+T7	Drug 64 68	ランタス
+A6	Status T7 intended
+T8	Route 68 69	注

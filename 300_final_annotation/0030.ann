@@ -1,0 +1,13 @@
+T1	Drug 0 5	アーチスト
+T2	Strength_amount 6 8	10
+T3	Strength_amount 10 12	1錠
+A1	Status T3 intended
+T4	Frequency 13 15	分2
+T5	Duration 17 20	7日分
+T6	Strength_amount 28 32	0.5錠
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Strength_amount 33 35	7包
+A4	Status T7 actual
+A5	Error_occur T7 error
+A6	Strength_amount T7 per_whole_course

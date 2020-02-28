@@ -1,0 +1,12 @@
+T1	Route 4 6	注射
+T2	Drug 7 14	カルボプラチン
+T3	Strength_amount 14 18	50mg
+A1	Subindex T3 1
+A2	Status T3 intended
+T4	Strength_amount 19 23	70mg
+A3	Subindex T4 2
+A4	Status T4 intended
+T5	Drug 32 39	カルボプラチン
+T6	Strength_amount 39 44	150mg
+A5	Status T6 actual
+A6	Error_occur T6 error

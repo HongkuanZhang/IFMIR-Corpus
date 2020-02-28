@@ -1,0 +1,10 @@
+T1	Drug 9 15	ワーファリン
+A1	Index T1 01
+T2	Drug 34 41	高カロリー輸液
+A2	Status T2 intended
+A3	Drug T2 unspecified
+T3	Route 42 44	点滴
+T4	Drug 57 67	ビタミンK入りの輸液
+A4	Status T4 actual
+A5	Error_occur T4 error
+A6	Drug T4 unspecified

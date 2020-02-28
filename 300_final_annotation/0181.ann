@@ -1,0 +1,8 @@
+T1	Timing 0 3	１２時
+T2	Duration 5 9	１２時間
+A1	Status T2 intended
+T3	Drug 15 21	ビーフリード
+T4	Strength_amount 21 27	１０００ｍｌ
+T5	Duration 28 31	４時間
+A2	Status T5 actual
+A3	Error_occur T5 error

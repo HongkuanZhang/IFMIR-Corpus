@@ -1,0 +1,11 @@
+T1	Timing 0 5	１２：３０
+T2	Drug 6 12	ソルデム３Ａ
+T3	Strength_amount 12 17	５００ｍｌ
+T4	Timing 48 53	１４：３０
+T5	Drug 54 60	ソルデム３Ａ
+T6	Strength_amount 63 68	２５０ｍｌ
+T7	Strength_rate 82 88	４２ｍｌ／ｈ
+A1	Status T7 intended
+T8	Strength_rate 95 102	１２５ｍｌ／ｈ
+A2	Status T8 actual
+A3	Error_occur T8 error

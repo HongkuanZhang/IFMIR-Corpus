@@ -1,0 +1,13 @@
+T1	Date 0 5	１１／２６
+T2	Timing 6 12	１９：３０頃
+T3	Drug 59 63	抗凝固薬
+A1	Drug T3 class_mentioned
+T4	Drug 63 66	フサン
+T5	Strength_amount 66 76	２５０ｍｇ／５０ｍｌ
+#1	AnnotatorNotes T5	★
+T6	Strength_rate 77 82	８ｍｌ／ｈ
+A2	Status T6 intended
+T7	Drug 83 86	フサン
+T8	Strength_rate 87 94	０．８ｍｌ／ｈ
+A3	Status T8 actual
+A4	Error_occur T8 error

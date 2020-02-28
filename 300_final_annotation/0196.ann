@@ -1,0 +1,21 @@
+T1	Date 0 5	10／16
+T2	Timing 6 9	２２時
+T3	Route 11 13	注射
+T4	Drug 15 20	タケプロン
+T5	Strength_amount 20 24	３０mg
+T6	Route 25 33	フラッシュ用注射
+T7	Drug 34 36	生食
+A1	Index T7 2
+T8	Route 36 41	注シリンジ
+A2	Index T8 2
+A3	Status T8 intended
+T9	Strength_amount 41 45	２０ml
+A4	Index T9 2
+T10	Drug 50 54	生理食塩
+A5	Index T10 2
+T11	Form_form 54 55	液
+A6	Index T11 2
+A7	Status T11 actual
+A8	Error_occur T11 error
+T12	Strength_amount 55 59	20ｍｌ
+A9	Index T12 2

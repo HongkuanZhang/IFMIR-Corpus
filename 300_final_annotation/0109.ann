@@ -1,0 +1,11 @@
+T1	Timing 0 3	夕食後
+T2	Drug 4 10	ワーファリン
+T3	Dosage 10 12	２錠
+A1	Status T3 intended
+T4	Dosage 20 22	１錠
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Timing 37 39	翌朝
+A4	Index T5 01
+T6	Strength_amount 49 51	１錠
+A5	Index T6 01

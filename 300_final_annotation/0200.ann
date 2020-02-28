@@ -1,0 +1,19 @@
+T1	Date 0 5	１０／２２
+T2	Drug 9 12	持参薬
+A1	Drug T2 unspecified
+T3	Timing 22 24	食前
+A2	Status T3 intended
+T4	Drug 22 25	食前薬
+A3	Drug T4 unspecified
+T5	Drug 28 31	ユベラ
+T6	Timing 32 34	食後
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Date 57 60	次の日
+T8	Timing 61 64	夕食後
+A6	Status T8 actual
+A7	Error_occur T8 error
+T9	Timing 73 75	食前
+A8	Status T9 intended
+T10	Drug 73 76	食前薬
+A9	Drug T10 unspecified

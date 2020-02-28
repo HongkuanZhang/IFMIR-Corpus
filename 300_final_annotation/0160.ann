@@ -1,0 +1,13 @@
+T1	Drug 7 10	持参薬
+A1	Drug T1 unspecified
+T2	Drug 21 26	バルプロ酸
+T3	Form_form 26 28	細粒
+T4	Strength_amount 28 32	0.7ｇ
+A2	Strength_amount T4 per_day
+T5	Frequency 33 35	2×
+T6	Timing 35 38	朝・昼
+A3	Status T6 intended
+T7	Frequency 43 45	2×
+T8	Timing 45 48	朝・夕
+A4	Status T8 actual
+A5	Error_occur T8 error

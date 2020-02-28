@@ -1,0 +1,12 @@
+T1	Drug 0 6	スルバシリン
+A1	Index T1 01
+T2	Dosage 6 10	１回２Ｖ
+A2	Index T2 01
+T3	Date 32 35	９／５
+T4	Drug 37 41	タゾピペ
+T5	Dosage 48 52	１回１Ｖ
+A3	Status T5 intended
+T6	Dosage 62 64	２Ｖ
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Duration 84 87	２日間

@@ -1,0 +1,8 @@
+T1	Timing 0 7	朝食後２時間後
+T2	Dosage 8 10	２錠
+A1	Status T2 intended
+T3	Drug 20 27	ボリコナゾール
+T4	Form_form 27 28	錠
+T5	Strength_amount 29 31	１錠
+T6	Date 42 49	翌日（９／８）
+A2	Index T6 01

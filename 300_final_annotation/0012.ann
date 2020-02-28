@@ -1,0 +1,13 @@
+T1	Date 0 3	２８日
+T2	Drug 11 15	ヘパリン
+T3	Strength_rate 20 26	１０ｍＬ／ｈ
+A1	Status T3 intended
+T4	Strength_rate 35 41	２０ｍＬ／ｈ
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_rate 76 82	２０ｍＬ／ｈ
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Strength_rate 99 105	２０ｍＬ／ｈ
+A6	Status T6 actual
+A7	Error_occur T6 error

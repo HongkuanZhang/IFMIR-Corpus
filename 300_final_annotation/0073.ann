@@ -1,0 +1,8 @@
+T1	Drug 1 5	リプラス
+A1	Status T1 intended
+T2	Strength_amount 5 10	500ｍｌ
+T3	Drug 18 20	生食
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 20 25	500ｍｌ
+T5	Strength_amount 31 34	2回分

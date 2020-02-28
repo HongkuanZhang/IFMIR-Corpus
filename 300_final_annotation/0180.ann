@@ -1,0 +1,12 @@
+T1	Drug 13 19	セレコックス
+T2	Date 28 32	９／１９
+T3	Timing 32 34	夕方
+T4	Strength_amount 51 53	２錠
+#1	AnnotatorNotes T4	★少なかった2錠
+T5	Timing 68 71	夕食後
+A1	Status T5 intended
+T6	Drug 73 75	内服
+A2	Drug T6 unspecified
+T7	Timing 76 79	昼食後
+A3	Status T7 actual
+A4	Error_occur T7 error

@@ -1,0 +1,8 @@
+T1	Drug 0 4	デラキシ
+T2	Form_form 4 8	配合顆粒
+T3	Frequency 8 10	3×
+T4	Duration 10 14	11日分
+A1	Status T4 intended
+T5	Duration 21 24	7日分
+A2	Status T5 actual
+A3	Error_occur T5 error

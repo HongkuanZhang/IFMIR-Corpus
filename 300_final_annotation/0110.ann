@@ -1,0 +1,13 @@
+T1	Timing 0 2	眠前
+T2	Drug 3 6	内服薬
+A1	Drug T2 unspecified
+T3	Drug 6 11	フィコンパ
+T4	Strength_amount 11 14	2mg
+A2	Status T4 intended
+T5	Date 15 18	7／3
+T6	Timing 18 19	夕
+T7	Strength_amount 51 54	4mg
+A3	Status T7 actual
+A4	Error_occur T7 error
+T8	Timing 101 102	朝
+A5	Index T8 02

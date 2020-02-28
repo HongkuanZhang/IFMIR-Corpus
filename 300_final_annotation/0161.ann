@@ -1,0 +1,10 @@
+T1	Drug 34 38	ブドウ糖
+T2	Drug 54 58	ブドウ糖
+T3	Form_form 58 63	タブレット
+T4	Dosage 64 66	３個
+A1	Status T4 actual
+A2	Error_occur T4 error
+T5	Drug 88 92	ブドウ糖
+T6	Form_form 92 97	タブレット
+T7	Dosage 98 100	２個
+A3	Status T7 intended

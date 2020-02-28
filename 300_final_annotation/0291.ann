@@ -1,0 +1,8 @@
+T1	Date 0 4	１２／６
+T2	Drug 12 18	テクフィデラ
+T3	Form_form 18 22	カプセル
+T4	Strength_amount 23 28	２４０ｍｇ
+A1	Status T4 intended
+T5	Strength_amount 32 37	１２０ｍｇ
+A2	Status T5 actual
+A3	Error_occur T5 error

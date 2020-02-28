@@ -1,0 +1,20 @@
+T1	Drug 0 5	イーケプラ
+T2	Strength_amount 5 7	5錠
+A1	Strength_amount T2 per_day
+T3	Frequency 7 9	分2
+T4	Duration 10 13	5日分
+T5	Strength_amount 21 24	20錠
+A2	Status T5 intended
+A3	Strength_amount T5 per_day
+#1	AnnotatorNotes T5	★
+T6	Strength_amount 25 30	半錠10包
+A4	Strength_amount T6 per_day
+#2	AnnotatorNotes T6	★
+T7	Strength_amount 34 37	10錠
+A5	Status T7 actual
+A6	Error_occur T7 error
+A7	Strength_amount T7 per_day
+#3	AnnotatorNotes T7	★
+T8	Strength_amount 38 43	半錠10包
+A8	Strength_amount T8 per_day
+#4	AnnotatorNotes T8	★

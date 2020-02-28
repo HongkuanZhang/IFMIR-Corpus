@@ -1,0 +1,30 @@
+T1	Drug 0 2	生食
+A1	Subindex T1 1
+T2	Strength_amount 2 6	５０ｍｌ
+A2	Subindex T2 1
+T3	Drug 7 16	ヘパリンナトリウム
+A3	Subindex T3 2
+T4	Strength_amount 16 22	１５００単位
+A4	Subindex T4 2
+A5	Status T4 intended
+T5	Route 23 25	点滴
+T6	Drug 43 45	生食
+A6	Subindex T6 1
+T7	Strength_amount 45 49	５０ｍｌ
+A7	Subindex T7 1
+T8	Drug 52 61	ヘパリンナトリウム
+A8	Subindex T8 2
+T9	Strength_amount 61 67	５０００単位
+A9	Subindex T9 2
+A10	Status T9 actual
+A11	Error_occur T9 error
+T10	Dosage 67 69	３Ａ
+A12	Subindex T10 2
+A13	Status T10 actual
+A14	Error_occur T10 error
+T11	Route 77 79	点滴
+T12	Drug 84 93	ヘパリンナトリウム
+A15	Subindex T12 2
+T13	Dosage 93 95	３Ａ
+A16	Status T13 actual
+A17	Error_occur T13 error

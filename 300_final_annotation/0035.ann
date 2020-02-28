@@ -1,0 +1,12 @@
+T1	Drug 6 8	注射
+A1	Drug T1 unspecified
+T2	Drug 12 18	カルチコール
+A2	Status T2 intended
+T3	Strength_amount 19 23	20ｍｌ
+A3	Status T3 intended
+T4	Drug 34 42	カルチコール1A
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Strength_amount 43 46	5ｍｌ
+A6	Status T5 actual
+A7	Error_occur T5 error

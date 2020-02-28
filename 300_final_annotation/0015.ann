@@ -1,0 +1,7 @@
+T1	Drug 0 7	ツロブテロール
+T2	Strength_amount 7 10	1ｍｇ
+A1	Status T2 intended
+T3	Strength_amount 16 19	2ｍｇ
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Duration 38 41	2日間

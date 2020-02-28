@@ -1,0 +1,7 @@
+T1	Drug 16 25	アセトアミノフェン
+T2	Strength_amount 25 30	200ｍｇ
+T3	Dosage 31 36	1回量2錠
+A1	Status T3 intended
+T4	Dosage 43 45	4錠
+A2	Status T4 actual
+A3	Error_occur T4 error

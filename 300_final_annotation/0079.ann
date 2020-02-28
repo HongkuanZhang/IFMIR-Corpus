@@ -1,0 +1,12 @@
+T1	Route 26 33	シリンジポンプ
+A1	Index T1 01
+T2	Drug 35 39	ヘパリン
+A2	Index T2 01
+T3	Strength_rate 40 47	２．０ｍｌ／ｈ
+A3	Index T3 01
+T4	Drug 71 75	ヘパリン
+T5	Strength_amount 76 81	１．０ｍｌ
+A4	Status T5 intended
+T6	Strength_amount 98 103	２．０ｍｌ
+A5	Status T6 actual
+A6	Error_occur T6 error

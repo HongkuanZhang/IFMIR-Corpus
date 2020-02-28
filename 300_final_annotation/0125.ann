@@ -1,0 +1,12 @@
+T1	Date 0 3	8／6
+T2	Drug 44 47	鎮痙剤
+A1	Drug T2 class_mentioned
+T3	Drug 53 57	禁忌薬剤
+A2	Status T3 actual
+A3	Error_occur T3 error
+A4	Drug T3 class_mentioned
+T4	Drug 58 63	スポラミン
+A5	Status T4 actual
+A6	Error_occur T4 error
+T5	Drug 81 86	グルカゴン
+A7	Status T5 intended

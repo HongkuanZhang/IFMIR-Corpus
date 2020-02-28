@@ -1,0 +1,18 @@
+T1	Drug 6 11	フロセミド
+T2	Form_form 11 12	錠
+T3	Strength_amount 12 16	２０ｍｇ
+A1	Status T3 intended
+T4	Dosage 17 21	１．５錠
+T5	Drug 29 34	フロセミド
+T6	Strength_amount 34 38	４０ｍｇ
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 39 43	１．５錠
+T8	Date 54 58	７／１４
+T9	Timing 58 59	朝
+T10	Date 75 79	７／１４
+T11	Timing 79 80	朝
+T12	Strength_amount 85 89	４０ｍｇ
+A4	Status T12 actual
+A5	Error_occur T12 error
+T13	Dosage 90 94	１．５錠

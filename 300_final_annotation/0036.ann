@@ -1,0 +1,7 @@
+T1	Duration 21 24	30分
+T2	Drug 37 44	パクリタキセル
+T3	Strength_rate 44 51	430ｍｌ/ｈ
+A1	Status T3 intended
+T4	Strength_rate 55 62	200ｍｌ/ｈ
+A2	Status T4 actual
+A3	Error_occur T4 error

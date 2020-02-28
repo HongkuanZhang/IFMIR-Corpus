@@ -1,0 +1,12 @@
+T1	Drug 4 11	オザグレルNa
+A1	Status T1 intended
+T2	Form_form 11 14	注射用
+A2	Status T2 intended
+T3	Strength_amount 14 18	40mg
+A3	Status T3 intended
+T4	Drug 23 29	ヘパリンNa
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Strength_amount 29 33	5千単位
+A6	Status T5 actual
+A7	Error_occur T5 error

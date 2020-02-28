@@ -1,0 +1,8 @@
+T1	Strength_amount 0 5	２５０ｍＬ
+A1	Status T1 intended
+T2	Strength_concentration 5 7	５％
+T3	Drug 7 11	ブドウ糖
+T4	Strength_amount 27 32	５００ｍＬ
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Drug 32 36	ブドウ糖

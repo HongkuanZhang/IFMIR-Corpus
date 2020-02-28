@@ -1,0 +1,12 @@
+T1	Timing 0 3	１６時
+T2	Drug 4 10	ソルデム３Ａ
+T3	Form_form 10 12	輸液
+T4	Strength_amount 12 17	５００ｍｌ
+T5	Timing 24 27	１８時
+A1	Index T5 01
+#1	AnnotatorNotes T5	発見時間なので01？
+T6	Strength_rate 45 51	６３ｍｌ／Ｈ
+A2	Status T6 intended
+T7	Strength_rate 60 67	１２０ｍｌ／Ｈ
+A3	Status T7 actual
+A4	Error_occur T7 error

@@ -1,0 +1,8 @@
+T1	Timing 25 28	夕食後
+A1	Status T1 intended
+T2	Drug 29 35	フォリアミン
+T3	Dosage 35 37	２錠
+A2	Status T3 intended
+T4	Dosage 44 46	１錠
+A3	Status T4 actual
+A4	Error_occur T4 error

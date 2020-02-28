@@ -1,0 +1,7 @@
+T1	Timing 0 2	夕方
+T2	Drug 36 41	ノボリンR
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Drug 42 48	ノボラピット
+A3	Status T3 intended
+T4	Route 54 58	皮下注射

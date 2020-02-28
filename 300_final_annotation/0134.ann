@@ -1,0 +1,11 @@
+T1	Date 0 11	平成３０年０８月１７日
+T2	Drug 33 39	セルニルトン
+T3	Form_form 39 40	錠
+T4	Dosage 41 45	１回２錠
+A1	Status T4 intended
+T5	Dosage 50 54	１回１錠
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Dosage 63 67	１回１錠
+A4	Status T6 actual
+A5	Error_occur T6 error

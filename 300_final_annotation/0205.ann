@@ -1,0 +1,15 @@
+T1	Drug 5 10	ケフラール
+T2	Strength_amount 10 17	１日３カプセル
+A1	Strength_amount T2 per_day
+T3	Duration 17 20	３日分
+A2	Status T3 intended
+T4	Strength_amount 22 27	９カプセル
+A3	Status T4 intended
+A4	Strength_amount T4 per_whole_course
+T5	Duration 35 38	１日分
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Strength_amount 39 44	３カプセル
+A7	Status T6 actual
+A8	Error_occur T6 error
+A9	Strength_amount T6 per_whole_course

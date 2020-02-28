@@ -1,0 +1,10 @@
+T1	Drug 0 6	ミラペックス
+A1	Status T1 intended
+T2	Strength_amount 6 13	0．375mg
+A2	Status T2 intended
+T3	Drug 26 34	プラミペキソール
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Strength_amount 34 41	0．125mg
+A5	Status T4 actual
+A6	Error_occur T4 error

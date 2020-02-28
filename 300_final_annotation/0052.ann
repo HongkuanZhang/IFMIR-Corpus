@@ -1,0 +1,7 @@
+T1	Drug 12 21	エルネオパＮＦ１号
+T2	Strength_amount 21 27	１０００ｍｌ
+A1	Status T2 intended
+T3	Drug 48 57	エルネオパＮＦ１号
+T4	Strength_amount 57 63	１５００ｍｌ
+A2	Status T4 actual
+A3	Error_occur T4 error

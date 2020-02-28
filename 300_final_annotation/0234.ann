@@ -1,0 +1,16 @@
+T1	Date 3 9	本日手術当日
+T2	Drug 14 18	術前輸液
+A1	Drug T2 unspecified
+T3	Dosage 19 21	2本
+A2	Status T3 intended
+T4	Dosage 25 27	1本
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Dosage 31 33	1本
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Timing 42 44	準夜
+A7	Index T6 01
+T7	Drug 49 53	術前輸液
+A8	Index T7 01
+A9	Drug T7 unspecified

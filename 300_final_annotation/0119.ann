@@ -1,0 +1,8 @@
+T1	Drug 0 6	フルメトロン
+A1	Status T1 intended
+T2	Route 6 8	点眼
+T3	Strength_concentration 8 12	0．1％
+T4	Drug 22 27	ヒアレイン
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Route 27 29	点眼

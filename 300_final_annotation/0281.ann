@@ -1,0 +1,26 @@
+T1	Date 0 3	18日
+T2	Drug 5 11	ニフェジピン
+T3	Form_mode 11 13	CR
+T4	Form_form 13 14	錠
+T5	Strength_amount 14 18	20mg
+T6	Strength_amount 19 21	4錠
+A1	Strength_amount T6 per_day
+T7	Frequency 21 23	分2
+T8	Timing 24 29	朝・夕食後
+T9	Date 39 42	18日
+T10	Timing 49 51	夕方
+T11	Drug 52 53	薬
+A2	Drug T11 unspecified
+T12	Strength_amount 61 63	1錠
+T13	Date 72 75	18日
+T14	Timing 75 76	朝
+T15	Drug 77 83	ニフェジピン
+T16	Dosage 84 86	1錠
+A3	Status T16 actual
+A4	Error_occur T16 error
+T17	Timing 111 112	朝
+A5	Index T17 01
+#1	AnnotatorNotes T17	★
+T18	Dosage 113 115	2錠
+A6	Index T18 01
+#2	AnnotatorNotes T18	★

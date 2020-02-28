@@ -1,0 +1,7 @@
+T1	Drug 0 6	リドメックス
+A1	Status T1 intended
+T2	Form_form 6 11	ローション
+T3	Drug 23 30	リンデロンvg
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 30 35	ローション

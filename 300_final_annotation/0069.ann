@@ -1,0 +1,12 @@
+T1	Drug 5 9	大建中湯
+T2	Strength_amount 10 13	４２包
+A1	Status T2 intended
+A2	Strength_amount T2 per_whole_course
+T3	Strength_amount 14 18	１日６包
+A3	Strength_amount T3 per_day
+T4	Frequency 19 21	分３
+T5	Duration 22 25	７日分
+T6	Strength_amount 41 44	２１包
+A4	Status T6 actual
+A5	Error_occur T6 error
+A6	Strength_amount T6 per_whole_course

@@ -1,0 +1,15 @@
+T1	Timing 10 13	10時
+T2	Route 13 15	貼付
+T3	Drug 17 20	ビソノ
+T4	Form_form 20 23	テープ
+T5	Strength_amount 23 26	4mg
+T6	Dosage 26 28	1枚
+A1	Status T6 actual
+A2	Error_occur T6 error
+T7	Route 45 47	貼付
+T8	Date 51 53	翌日
+A3	Index T8 02
+T9	Strength_amount 85 88	4mg
+T10	Dosage 88 92	0．5枚
+A4	Status T10 intended
+T11	Route 93 95	貼付

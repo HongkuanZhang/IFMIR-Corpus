@@ -1,0 +1,13 @@
+T1	Drug 14 22	ロキソプロフェン
+A1	Subindex T1 1
+T2	Drug 23 28	レバミピド
+A2	Subindex T2 2
+T3	Dosage 29 34	１回各１錠
+A3	Status T3 intended
+T4	Strength_amount 34 37	３回分
+A4	Strength_amount T4 per_whole_course
+T5	Dosage 41 45	１回３錠
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Strength_amount 45 48	３回分
+A7	Strength_amount T6 per_whole_course

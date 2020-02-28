@@ -1,0 +1,15 @@
+T1	Drug 0 3	オノン
+T2	Form_form 3 10	ドライシロップ
+T3	Strength_concentration 10 13	10％
+T4	Frequency 14 18	1日3回
+A1	Status T4 actual
+A2	Error_occur T4 error
+T5	Timing 18 21	毎食後
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Strength_amount 21 25	60mg
+T7	Frequency 67 71	1日2回
+A5	Status T7 intended
+T8	Timing 71 75	朝夕食後
+A6	Status T8 intended
+T9	Strength_amount 75 79	60mg

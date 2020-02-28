@@ -1,0 +1,17 @@
+T1	Drug 0 7	ビソプロロール
+T2	Dosage 8 10	半錠
+T3	Strength_amount 15 22	0.625mg
+A1	Status T3 intended
+T4	Form_form 22 23	錠
+T5	Dosage 24 26	半錠
+T6	Strength_amount 30 35	2.5mg
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Form_form 35 36	錠
+T8	Dosage 37 39	半錠
+T9	Strength_amount 81 88	0.625mg
+A4	Index T9 02
+T10	Form_form 88 89	錠
+A5	Index T10 02
+T11	Dosage 90 92	半錠
+A6	Index T11 02

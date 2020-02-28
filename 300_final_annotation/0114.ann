@@ -1,0 +1,6 @@
+T1	Drug 13 22	アセトアミノフェン
+T2	Strength_amount 22 26	0．5ｇ
+A1	Status T2 intended
+T3	Strength_amount 33 37	0．1ｇ
+A2	Status T3 actual
+A3	Error_occur T3 error

@@ -1,0 +1,15 @@
+T1	Drug 14 17	オノン
+T2	Form_form 17 24	ドライシロップ
+T3	Drug 25 33	カルボシステイン
+A1	Index T3 2
+T4	Timing 44 46	昼分
+A2	Index T4 2
+A3	Status T4 intended
+T5	Drug 47 55	カルボシステイン
+A4	Index T5 2
+T6	Drug 56 59	内服薬
+A5	Drug T6 unspecified
+T7	Timing 60 61	朝
+A6	Index T7 2
+A7	Status T7 actual
+A8	Error_occur T7 error

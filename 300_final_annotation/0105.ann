@@ -1,0 +1,19 @@
+T1	Route 7 11	末梢静脈
+A1	Index T1 01
+T2	Drug 16 22	ビーフリード
+A2	Index T2 01
+T3	Strength_amount 22 28	1000ml
+A3	Index T3 01
+T4	Strength_rate 29 35	41ml／h
+A4	Index T4 01
+T5	Date 44 47	7／5
+T6	Timing 47 52	22：00
+T7	Drug 53 58	テルモ生食
+T8	Strength_amount 58 63	500ml
+T9	Strength_rate 67 73	21ml／h
+A5	Status T9 intended
+T10	Strength_rate 87 93	41ml／h
+A6	Status T10 actual
+A7	Error_occur T10 error
+T11	Date 104 107	7／6
+A8	Index T11 01

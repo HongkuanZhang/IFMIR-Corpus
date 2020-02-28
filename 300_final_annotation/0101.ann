@@ -1,0 +1,5 @@
+T1	Drug 10 18	ロキソプロフェン
+A1	Status T1 intended
+T2	Drug 32 37	レバミピド
+A2	Status T2 actual
+A3	Error_occur T2 error

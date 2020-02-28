@@ -1,0 +1,16 @@
+T1	Date 0 10	平成30年10月2日
+T2	Timing 10 13	15時
+T3	Timing 24 26	昼分
+A1	Status T3 intended
+T4	Drug 27 32	マグミット
+T5	Strength_amount 32 37	250ｍｇ
+T6	Strength_amount 37 39	1錠
+T7	Timing 67 68	昼
+A2	Index T7 02
+A3	Status T7 intended
+T8	Drug 69 74	マグミット
+A4	Index T8 02
+T9	Timing 75 76	夕
+A5	Index T9 02
+A6	Status T9 actual
+A7	Error_occur T9 error

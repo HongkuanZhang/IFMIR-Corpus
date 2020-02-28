@@ -1,0 +1,7 @@
+T1	Drug 46 51	トブラシン
+T2	Strength_amount 51 55	10mg
+A1	Status T2 intended
+T3	Drug 61 66	トブラシン
+T4	Strength_amount 66 70	60mg
+A2	Status T4 actual
+A3	Error_occur T4 error

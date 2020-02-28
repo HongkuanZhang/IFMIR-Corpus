@@ -1,0 +1,7 @@
+T1	Drug 1 8	ヒューマリンR
+A1	Status T1 intended
+T2	Wrong_patient 15 18	他患者
+#1	AnnotatorNotes T2	★
+T3	Drug 19 25	ヒューマログ
+A2	Status T3 actual
+A3	Error_occur T3 error

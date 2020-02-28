@@ -1,0 +1,17 @@
+T1	Timing 0 5	全身麻酔後
+T2	Drug 10 16	手術前抗菌薬
+A1	Drug T2 class_mentioned
+T3	Drug 19 24	メロペネム
+A2	Status T3 intended
+T4	Strength_amount 24 28	０．５ｇ
+A3	Status T4 intended
+T5	Route 28 30	ｉｖ
+T6	Drug 37 43	セファゾリン
+A4	Status T6 actual
+A5	Error_occur T6 error
+T7	Strength_amount 43 45	１ｇ
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Strength_amount 46 51	０．７５ｇ
+A8	Index T8 01
+#1	AnnotatorNotes T8	01でOK？

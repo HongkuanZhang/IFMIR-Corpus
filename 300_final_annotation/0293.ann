@@ -1,0 +1,10 @@
+T1	Drug 0 5	生理食塩液
+T2	Strength_rate 6 12	５０ｍｌ／Ｈ
+A1	Status T2 intended
+T3	Strength_rate 20 34	１時間４０分で３５０ｍｌ程度
+A2	Status T3 actual
+A3	Error_occur T3 error
+#1	AnnotatorNotes T3	★
+T4	Strength_rate 35 42	２５０ｍｌ／Ｈ
+A4	Status T4 actual
+A5	Error_occur T4 error

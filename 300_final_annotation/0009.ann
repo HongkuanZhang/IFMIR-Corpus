@@ -1,0 +1,9 @@
+T1	Drug 0 5	ドブタミン
+T2	Route 5 7	点滴
+T3	Strength_rate 47 54	3.6ｍＬ/ｈ
+A1	Status T3 actual
+A2	Error_occur T3 error
+T4	Strength_rate 55 62	1.8ｍＬ/ｈ
+A3	Status T4 intended
+T5	Strength_rate 93 100	1.8ｍＬ/ｈ
+A4	Index T5 02

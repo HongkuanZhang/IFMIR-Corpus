@@ -1,0 +1,18 @@
+T1	Drug 9 15	スルバシリン
+A1	Subindex T1 1
+T2	Strength_amount 15 26	５００ｍｇ（１／３瓶）
+A2	Subindex T2 1
+A3	Status T2 intended
+T3	Drug 27 29	生食
+A4	Subindex T3 2
+T4	Strength_amount 29 33	２０ｍｌ
+A5	Subindex T4 2
+T5	Drug 50 56	スルバシリン
+A6	Subindex T5 1
+T6	Strength_amount 56 64	１．５ｇ（１瓶）
+A7	Status T6 actual
+A8	Error_occur T6 error
+T7	Drug 65 67	生食
+A9	Subindex T7 2
+T8	Strength_amount 67 71	２０ｍｌ
+A10	Subindex T8 2

@@ -1,0 +1,7 @@
+T1	Date 0 4	5／30
+A1	Index T1 01
+T2	Drug 67 72	スポラミン
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Drug 91 96	グルカゴン
+A4	Status T3 intended

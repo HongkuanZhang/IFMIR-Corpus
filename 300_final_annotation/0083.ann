@@ -1,0 +1,22 @@
+T1	Timing 17 20	昼食後
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Drug 21 23	薬包
+A3	Drug T2 unspecified
+T3	Timing 27 30	夕食後
+A4	Status T3 intended
+T4	Drug 31 33	薬包
+A5	Drug T4 unspecified
+T5	Drug 48 50	薬剤
+A6	Drug T5 unspecified
+#1	AnnotatorNotes T5	Index迷う
+T6	Timing 51 54	昼食後
+A7	Status T6 actual
+A8	Error_occur T6 error
+#2	AnnotatorNotes T6	Index迷う
+T7	Timing 55 58	夕食後
+A9	Status T7 intended
+#3	AnnotatorNotes T7	Index迷う
+T8	Drug 73 74	薬
+A10	Drug T8 unspecified
+#4	AnnotatorNotes T8	Index迷う

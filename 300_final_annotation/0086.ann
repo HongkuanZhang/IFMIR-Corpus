@@ -1,0 +1,11 @@
+T1	Drug 1 6	フロセミド
+T2	Strength_amount 6 10	２０ｍｇ
+A1	Status T2 intended
+T3	Dosage 11 15	１．５錠
+T4	Duration 16 19	４日分
+T5	Drug 30 35	フロセミド
+T6	Strength_amount 35 39	４０ｍｇ
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 40 44	１．５錠
+T8	Duration 45 48	４日分

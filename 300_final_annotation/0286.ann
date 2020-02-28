@@ -1,0 +1,9 @@
+T1	Drug 0 3	時間薬
+A1	Drug T1 unspecified
+T2	Drug 6 11	メサペイン
+T3	Strength_amount 11 15	１５ｍｇ
+T4	Timing 16 21	１４：００
+A2	Status T4 intended
+T5	Timing 34 39	１４：３７
+A3	Status T5 actual
+A4	Error_occur T5 error

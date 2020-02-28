@@ -1,0 +1,14 @@
+T1	Drug 4 9	ホクナリン
+T2	Form_form 9 12	テープ
+T3	Strength_amount 12 17	0.5mg
+A1	Status T3 intended
+T4	Frequency 17 21	1日1回
+T5	Dosage 21 23	2枚
+T6	Drug 34 39	ホクナリン
+T7	Form_form 39 42	テープ
+T8	Strength_amount 42 45	2mg
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Dosage 81 83	2枚
+T10	Route 83 85	貼付
+T11	Route 92 94	貼付
