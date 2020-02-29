@@ -1,8 +1,5 @@
 # A Japanese Medical Incident Report Corpus with Intention and Factuality Annotation.
-This project for 
-
-In this project, we develop a corpus for information extraction from medical incident reports (MIR). This repository provides the script to generate MIR corpus using the medication-related incident reports from Japan Council for Quality Health Care.
-
+This repository consists of the Japanese medical incident reports (MIRs) corpus and the script for accessing and generating the target annotation reports associated with our LREC 2020 paper for extracting information from MIRs.
 
 > Developing
 
