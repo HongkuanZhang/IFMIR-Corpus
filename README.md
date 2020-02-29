@@ -1,4 +1,6 @@
-# A Pilot Corpus for Information Extraction from Medical Incident Reports
+# A Japanese Medical Incident Report Corpus with Intention and Factuality Annotation.
+This project for 
+
 In this project, we develop a corpus for information extraction from medical incident reports (MIR). This repository provides the script to generate MIR corpus using the medication-related incident reports from Japan Council for Quality Health Care.
 
 
