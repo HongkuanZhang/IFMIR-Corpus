@@ -23,7 +23,7 @@ Generating the annotation target (.txt files) into the output path with the scri
 python3 generate-txt.py MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /output/path
 ```
 
-### Visualizing the annotated data with BRAT
+### 3. Visualizing the annotated data with BRAT
 In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below:
 
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
