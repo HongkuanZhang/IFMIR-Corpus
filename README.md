@@ -30,7 +30,7 @@ In this work, we used the BRAT, a broswer annotation tool, for our annotation. W
 
 Notice that the original incident contents are written in Japanese, and the contents in the figure above are translated into English only for easy to understand. 
 
-For utilizing the annotated data conveniently, in this repository we also provide 49 pilot annotation MIRs in '/49_pilot_annotation' file and 300 final annotation MIRs in '/300_final_annotation' file respectively, and each file contains generated .txt files, corresponding .ann files, and .conf file for annotation defination. The annotated data can be viewed by placing two files under the '/Brat/brat-v1.3_Crunchy_Frog/data/' without downloading them from the website as we mentioned above.
+For utilizing the annotated data conveniently, in this repository we also provide 49 pilot annotation MIRs in `/49_pilot_annotation` file and 300 final annotation MIRs in `/300_final_annotation` file respectively, and each file contains generated .txt files, corresponding .ann files, and .conf file for annotation defination. The annotated data can be viewed by placing two files under the `/Brat/brat-v1.3_Crunchy_Frog/data/` without downloading them from the website as we mentioned above.
 
 ## Requirements and Installation
 * A computer running macOS or Linux
