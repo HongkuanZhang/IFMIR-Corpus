@@ -1,11 +1,11 @@
-T1	Timing 15 18	２０時
+T1	Timing 15 21	１５?２０時
 A1	Status T1 intended
-T2	Drug 24 30	ビーフリード
-T3	Timing 31 34	１５時
-A2	Status T3 actual
-A3	Error_occur T3 error
-T4	Timing 43 46	１６時
-A4	Index T4 01
-T5	Drug 63 65	点滴
-A5	Index T5 01
-A6	Drug T5 unspecified
+T2	Timing 46 49	１６時
+A2	Index T2 01
+T3	Drug 66 68	点滴
+A3	Index T3 01
+A4	Drug T3 unspecified
+T4	Timing 34 37	１５時
+A5	Status T4 actual
+T5	Drug 27 33	ビーフリード
+A6	Error_occur T4 error

@@ -1,11 +1,11 @@
 T1	Drug 0 6	ファモチジン
 T2	Strength_concentration 7 9	5％
-A1	Status T2 intended
 T3	Drug 9 13	ブドウ糖
 T4	Form_form 13 14	液
 T5	Strength_amount 14 18	20ml
-T6	Strength_concentration 37 40	20％
+T6	Strength_concentration 37 39	20
+T7	Drug 39 43	ブドウ糖
+T8	Form_form 43 44	液
+A1	Status T2 intended
 A2	Status T6 actual
 A3	Error_occur T6 error
-T7	Drug 40 44	ブドウ糖
-T8	Form_form 44 45	液
