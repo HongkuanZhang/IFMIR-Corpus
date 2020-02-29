@@ -7,14 +7,14 @@ This repository consists of the Japanese medical incident reports (MIRs) corpus 
 ## How to use
 Our target MIRs for annotation are from the incident case search page of [Japan Council for Qualtity Health Care](http://www.med-safe.jp/mpsearch/SearchReport.action) (JQ). The procedure for accessing and generating the target annotation reports are shown as follows:
 
-### 1. Download MIRs from the case search page of JQ
+### 1. Downloading MIRs from the case search page of JQ
 The csv file of MIRs for a specified month can be downloaded with 5 steps:
 * #### Searching medication-related MIRs of a specified month (e.g., April, 2018).
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
 * #### Downloading the csv file of MIRs (***MedicalReportPub.csv***).
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
 
-### 2. Generate .txt file
+### 2. Generating the .txt files of target MIRs for annotation
 
 Placing the downloaded ***MedicalReportPub.csv*** file into the root directory.
 
@@ -23,7 +23,7 @@ Generating the annotation target (.txt files) into the output path with the scri
 python3 generate-txt.py MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /output/path
 ```
 
-### 3. Visualizing the annotated data with BRAT
+### 3. Visualizing the annotated data with BRAT tool
 In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below:
 
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
