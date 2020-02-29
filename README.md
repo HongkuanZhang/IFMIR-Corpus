@@ -9,27 +9,28 @@ Our target MIRs for annotation are from the incident case search page of [Japan 
 
 ### 1. Download MIRs from the case search page of JQ
 The csv file of MIRs for a specified month can be downloaded with 5 steps:
-* #### Searching medication-related MIR on April, 2018.
+* #### Searching medication-related MIRs of a specified month (e.g., April, 2018).
 ![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
-* #### Download incident reports as the csv file (***MedicalReportPub.csv***)
+* #### Downloading the csv file of MIRs (***MedicalReportPub.csv***).
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
 
-### Generate .txt file
+### 2. Generate .txt file
 
-Put the downloaded ***MedicalReportPub.csv*** file into the root directory.
+Placing the downloaded ***MedicalReportPub.csv*** file into the root directory.
 
-The txt generation script will generate 49 .txt files into the `/sample` by:
+Generating the annotation target (.txt files) into the output path with the script ***generate-txt.py*** and correspoding index file by (using the April as an example):
 ```python
-python3 generate-txt.py
+python3 generate-txt.py MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /output/path
 ```
-### Annotated samples visualization in BRAT tool
-In the `/sample` file, there will be 49 .txt files, corresponding 49 .ann files, and .conf file for annotation defination. Annotated texts can be visualized by opening this file in BRAT, and the result will be like follows:
+
+### Visualizing the annotated data with BRAT
+In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below:
 
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
 
-The original incident contents are written in Japanese, and the contents in the figure above are translated into English only for easy to understand. 
+Notice that the original incident contents are written in Japanese, and the contents in the figure above are translated into English only for easy to understand. 
 
-In this repository, we provide 49 pilot annotation MIRs in '/49_pilot_annotation' and 300 final annotation MIRs in '/300_final_annotation' respectively. We used the broswer annotation tool BRAT for annotation. 
+For utilizing the annotated data conveniently, in this repository we also provide 49 pilot annotation MIRs in '/49_pilot_annotation' file and 300 final annotation MIRs in '/300_final_annotation' file respectively, and each file contains generated .txt files, corresponding .ann files, and .conf file for annotation defination. The annotated data can be viewed by placing two files under the '/Brat/brat-v1.3_Crunchy_Frog/data/' without downloading them from the website as we mentioned above.
 
 ### Requirements and Installation
 * A computer running macOS or Linux
