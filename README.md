@@ -38,4 +38,4 @@ For utilizing the annotated data conveniently, in this repository we also provid
 * BRAT tool (v1.3 Crunchy Frog) for visualization: https://brat.nlplab.org/
 
 ## Contact person:
-If you have some suggestions and questions about this repository, please feel free to contact with us via: hang-hongkuan@a.mbox.nagoya-u.ac.jp
+If you have some suggestions and questions about this repository, please feel free to contact with us via: zhang-hongkuan@a.mbox.nagoya-u.ac.jp
