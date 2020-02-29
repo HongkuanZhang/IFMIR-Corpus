@@ -32,7 +32,7 @@ Notice that the original incident contents are written in Japanese, and the cont
 
 For utilizing the annotated data conveniently, in this repository we also provide 49 pilot annotation MIRs in '/49_pilot_annotation' file and 300 final annotation MIRs in '/300_final_annotation' file respectively, and each file contains generated .txt files, corresponding .ann files, and .conf file for annotation defination. The annotated data can be viewed by placing two files under the '/Brat/brat-v1.3_Crunchy_Frog/data/' without downloading them from the website as we mentioned above.
 
-### Requirements and Installation
+## Requirements and Installation
 * A computer running macOS or Linux
 * Pandas python package
 * BRAT tool (v1.3 Crunchy Frog) for visualization: https://brat.nlplab.org/
