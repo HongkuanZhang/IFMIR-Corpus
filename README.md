@@ -18,7 +18,7 @@ The csv file of MIRs for a specified month can be downloaded with 5 steps:
 
 Placing the downloaded ***MedicalReportPub.csv*** file into the root directory.
 
-Generating the annotation target (.txt files) into the output path with the script ***generate-txt.py*** and correspoding index file by (using the April as an example):
+Generating the annotation target (.txt files) into the output path using the script ***generate-txt.py*** and correspoding index file by (we use the MIRs from April in 2018 as an example):
 ```python
 python3 generate-txt.py MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /output/path
 ```
