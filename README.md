@@ -1,4 +1,4 @@
-# A Japanese Medical Incident Report Corpus with Intention and Factuality Annotation
+# Intention and Factuality Annotated Medical Incident Report Corpus
 This repository consists of the Japanese medical incident reports (MIRs) corpus and the script for accessing and generating the target annotation reports associated with our LREC 2020 paper for information extraction on MIRs.
 
 ## Introduction
