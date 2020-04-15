@@ -10,7 +10,9 @@ Our target MIRs for annotation are from the incident case search page of [Japan 
 ### 1. Downloading MIRs from the case search page of JQ
 The csv file of MIRs for a specified month can be downloaded with 5 steps:
 * #### Searching medication-related MIRs of a specified month (e.g., April, 2018).
-![pic1](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png)
+<p align="center">
+<img https://github.com/zhkleciel/JQMIR/blob/master/pics/pic1.png />
+</p>
 * #### Downloading the csv file of MIRs (***MedicalReportPub.csv***).
 ![pic2](https://github.com/zhkleciel/JQMIR/blob/master/pics/pic2.png)
 
