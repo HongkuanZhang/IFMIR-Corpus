@@ -1,0 +1,11 @@
+T1	Timing 0 3	昼食後
+T2	Drug 4 19	ＮＦ配合経腸用半固形剤ラコール
+T3	Dosage 20 22	２袋
+A1	Status T3 intended
+T4	Dosage 31 33	１袋
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Date 44 47	３日後
+A4	Index T5 01
+T6	Dosage 53 55	１つ
+A5	Index T6 01

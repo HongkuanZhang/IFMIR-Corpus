@@ -1,0 +1,16 @@
+T1	Date 0 5	術後１日目
+T2	Drug 6 9	鎮痛剤
+A1	Drug T2 unspecified
+T3	Drug 16 24	ロキソプロフェン
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Date 41 46	術後１日目
+T5	Drug 50 54	ロピオン
+A4	Status T5 intended
+A5	Subindex T5 1
+T6	Drug 55 62	ジクロフェナク
+A6	Status T6 intended
+A7	Subindex T6 2
+T7	Drug 63 67	ソセゴン
+A8	Status T7 intended
+A9	Subindex T7 3

@@ -1,0 +1,6 @@
+T1	Drug 6 15	フェキソフェナジン
+T2	Frequency 16 20	1日2回
+A1	Status T2 intended
+T3	Frequency 28 32	1日1回
+A2	Status T3 actual
+A3	Error_occur T3 error

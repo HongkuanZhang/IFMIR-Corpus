@@ -1,5 +1,0 @@
-T1	Drug 3 8	ホスミシン
-T2	Drug 19 24	タリビット
-A1	Status T2 actual
-A2	Status T1 intended
-A3	Error_occur T2 error

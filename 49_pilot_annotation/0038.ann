@@ -1,0 +1,13 @@
+T1	Drug 0 8	ヒルドイドソフト
+A1	Subindex T1 1
+T2	Drug 9 15	リドメックス
+A2	Subindex T2 2
+T3	Form_form 15 19	クリーム
+A3	Status T3 intended
+T4	Drug 35 43	ヒルドイドソフト
+A4	Subindex T4 1
+T5	Drug 44 50	リドメックス
+A5	Subindex T5 2
+T6	Form_form 50 52	軟膏
+A6	Status T6 actual
+A7	Error_occur T6 error

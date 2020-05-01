@@ -1,0 +1,18 @@
+T1	Date 0 4	4/30
+T2	Drug 22 27	生理食塩水
+T3	Strength_amount 27 29	2L
+A1	Status T3 intended
+T4	Dosage 29 31	6本
+T5	Drug 54 58	注射用水
+T6	Strength_amount 58 60	1L
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 60 62	6本
+T8	Date 77 80	5/1
+A4	Index T8 02
+T9	Drug 100 105	生理食塩水
+A5	Index T9 02
+T10	Strength_amount 105 107	2L
+A6	Index T10 02
+T11	Dosage 107 109	6本
+A7	Index T11 02

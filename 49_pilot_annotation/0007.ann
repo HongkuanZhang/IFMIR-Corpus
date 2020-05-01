@@ -1,0 +1,7 @@
+T1	Drug 0 6	バラマイシン
+A1	Status T1 intended
+T2	Form_form 6 8	軟膏
+T3	Drug 20 25	ゲンタシン
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 25 27	軟膏

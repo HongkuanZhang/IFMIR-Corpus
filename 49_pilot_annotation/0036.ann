@@ -1,0 +1,8 @@
+T1	Date 0 10	２０１８年２月〜３月
+T2	Drug 15 20	イーケプラ
+T3	Strength_amount 21 26	６００ｍｇ
+A1	Status T3 intended
+T4	Drug 45 50	イーケプラ
+T5	Strength_amount 76 81	３６０ｍｇ
+A2	Status T5 actual
+A3	Error_occur T5 error

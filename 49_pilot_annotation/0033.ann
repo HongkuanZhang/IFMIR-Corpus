@@ -1,0 +1,12 @@
+T1	Date 0 2	明日
+A1	Status T1 intended
+T2	Timing 3 4	朝
+A2	Status T2 intended
+T3	Drug 6 11	プレドニン
+T4	Date 20 22	本日
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Timing 23 24	昼
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Drug 26 31	プレドニン

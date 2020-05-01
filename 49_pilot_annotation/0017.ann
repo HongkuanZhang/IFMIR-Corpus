@@ -1,0 +1,16 @@
+T1	Date 5 9	４／１６
+T2	Drug 13 24	ビーソフテンローション
+A1	Status T2 intended
+T3	Strength_amount 24 27	５０ｇ
+A2	Status T3 intended
+T4	Dosage 27 29	１本
+A3	Status T4 intended
+T5	Drug 38 50	ヘパリン類似物質クリーム
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Strength_amount 50 53	２５ｇ
+A6	Status T6 actual
+A7	Error_occur T6 error
+T7	Dosage 53 55	２本
+A8	Status T7 actual
+A9	Error_occur T7 error

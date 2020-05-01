@@ -1,8 +1,0 @@
-T1	Drug 0 5	エンブレル
-T2	Form_form 5 8	皮下注
-T3	Strength_amount 8 12	25ｍｇ
-T4	Drug 22 27	エンブレル
-T5	Strength_amount 27 31	50ｍｇ
-A1	Status T5 actual
-A2	Status T3 intended
-A3	Error_occur T5 error

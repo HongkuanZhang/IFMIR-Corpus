@@ -1,8 +1,0 @@
-T1	Drug 10 17	ホスミシンS液
-A1	Status T1 intended
-T2	Drug 43 51	タリビット点耳液
-A2	Status T2 actual
-T3	Drug 85 92	ホスミシンS液
-A4	Status T3 intended
-A3	Error_occur T2 error
-A5	Index T3 02

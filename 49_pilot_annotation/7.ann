@@ -1,7 +1,0 @@
-T1	Drug 0 5	ヒルドイド
-T2	Form_form 5 10	ローション
-T3	Drug 15 20	ヒルドイド
-T4	Form_form 20 23	ソフト
-A1	Status T4 actual
-A2	Status T2 intended
-A3	Error_occur T4 error

@@ -1,8 +1,0 @@
-T1	Drug 71 77	ソルデム3A
-T3	Dosage 80 82	4袋
-T5	Dosage 89 91	3袋
-A1	Status T3 intended
-A2	Status T5 actual
-T2	Frequency 78 80	1×
-T4	Frequency 87 89	1×
-A3	Error_occur T5 error

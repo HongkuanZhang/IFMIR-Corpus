@@ -1,0 +1,12 @@
+T1	Drug 0 5	芍薬甘草湯
+T2	Dosage 6 8	1包
+T3	Frequency 8 12	1日1回
+T4	Timing 13 16	寝る前
+T5	Duration 16 19	7日分
+T6	Strength_amount 34 36	7包
+A1	Status T6 intended
+A2	Strength_amount T6 per_whole_course
+T7	Strength_amount 46 49	21包
+A3	Status T7 actual
+A4	Error_occur T7 error
+A5	Strength_amount T7 per_whole_course

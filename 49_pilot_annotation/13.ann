@@ -1,9 +1,0 @@
-T1	Drug 5 7	麻薬
-T2	Drug 8 12	ナルサス
-T3	Strength_amount 12 15	２ｍｇ
-T4	Dosage 16 20	１回２錠
-T5	Dosage 30 32	１錠
-A1	Status T5 actual
-A2	Status T4 intended
-A3	Drug T1 unspecified
-A4	Error_occur T5 error

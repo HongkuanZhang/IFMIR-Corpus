@@ -1,0 +1,12 @@
+T1	Drug 8 14	抗悪性腫瘍薬
+A1	Index T1 01
+T2	Drug 15 18	前投薬
+A2	Index T2 01
+A3	Drug T2 unspecified
+T3	Drug 29 34	生理食塩水
+T4	Strength_amount 34 39	100ｍL
+A4	Status T4 intended
+T5	Drug 53 58	生理食塩水
+T6	Strength_amount 58 62	50ｍL
+A5	Status T6 actual
+A6	Error_occur T6 error

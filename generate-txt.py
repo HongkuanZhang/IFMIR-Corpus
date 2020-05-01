@@ -1,42 +1,68 @@
 import pandas as pd
 import re
 import os
+import sys
 
-# Reading csv file
+csv_file_path = 'MedicalReportPub.csv'
+wmr_indexes_file_path = 'WMR_indexes.txt'
+output_path = 'test/'
 
-csv_name = 'MedicalReportPub.csv'
-MIR_contents = list(pd.read_csv(csv_name,encoding='SHIFT_JIS',index_col=False)['事故の内容.1'])
-MIR_indexes = list(pd.read_csv(csv_name,encoding='SHIFT_JIS',index_col=False)['事例ID'])
+# Read in contents section in MIRs and indexes of MIRs respectively
+MIR_contents = list(pd.read_csv(csv_file_path,encoding='SHIFT_JIS',index_col=False)['事故の内容.1'])
+MIR_indexes = list(pd.read_csv(csv_file_path,encoding='SHIFT_JIS',index_col=False)['事例ID'])
 
-# Selecting MIR whose number of character between 30 to 120.
-selected_MIR = [[MIR_indexes[index],i] for index,i in enumerate(MIR_contents) if 30<=len(i)<=120]
+# Selecting MIR contents whose number of character are between 30 to 120.
+selected_contents = [[MIR_indexes[i],contents] for i,contents in enumerate(MIR_contents) if 30<=len(contents)<=120]
 
-#Pre-processing selected MIR and generate index:reports dictionary
-for i,mir in enumerate(selected_MIR):
-    selected_MIR[i][1] = ''.join(mir[1].replace('\n','').replace('\u3000',' ').split())
+#Processing selected MIR contents and generate index:contents dictionary
+for i,contents in enumerate(selected_contents):
+    selected_contents[i][1] = ''.join(contents[1].replace('\n','').replace('\u3000',' ').split())
 
-selected_MIR_dic = {}
-for MIR in selected_MIR:
-    selected_MIR_dic[MIR[0]] = MIR[1]
+selected_contents_dic = {contents[0]:contents[1] for contents in selected_contents}
 
 # Wrong medication reports selection
-WMR_indexes = []
-with open('WMR_indexes.txt','r') as f:
-    indexes = f.readlines()
-    for index in indexes:
-        WMR_indexes.append(index.split()[1])
+with open(wmr_indexes_file_path,'r') as f:
+    WMR_indexes = [line.split()[1] for line in f.read().splitlines()]
 
 # Output file path certification
-current_path = os.getcwd()
-target_path = current_path + os.path.sep + 'samples'
-if not os.path.exists(target_path):
-    print('The samples file is not exist')
+if not os.path.exists(output_path):
+    print('Path {} is not exist'.format(output_path))
 
 # .txt file generation for corresponding .ann file
-for i,index in enumerate(WMR_indexes):
-    wmr_file_name = 'samples/' + str(i) + '.txt'
-    with open(wmr_file_name,'w') as f:
-        for sentence in selected_MIR_dic[index].split('。'):
-            f.write(sentence+'\n')
+exist_txt_num = sum([1 for file_name in os.listdir(output_path) if 'txt' in file_name])
 
-print('All 49 txt files are generated in /samples')
+for i,index in enumerate(WMR_indexes):
+    i += exist_txt_num + 1
+    if 0 <= i <= 9:
+        wmr_file_name = output_path + '000' + str(i) + '.txt'
+    elif 10 <= i <= 99:
+        wmr_file_name = output_path + '00' + str(i) + '.txt'
+    elif 100 <= i <= 999:
+        wmr_file_name = output_path + '0' + str(i) + '.txt'
+    else:
+        print('Total number of txt files in {} is more than 1000'.format(output_path))
+        
+    with open(wmr_file_name,'w') as f:
+        contents = selected_contents_dic[index].rstrip('。') + '。'
+        bracket_texts = re.findall(r'「.*?」',contents)
+        
+        if bracket_texts != []:
+            for text in bracket_texts:
+                contents = re.sub(text,'BRACKET',contents)
+            
+            splitted_contents = contents.split('。')
+            
+            for j,sentence in enumerate(splitted_contents):
+                if 'BRACKET' in sentence:
+                    for k in range(len(re.findall('BRACKET',sentence))):
+                        splitted_contents[j]  = re.sub('BRACKET',bracket_texts.pop(0),sentence)
+            
+            contents = splitted_contents[:-1]
+        
+        else:
+            contents = contents.split('。')[:-1]
+            
+        for sentence in contents:
+            f.write(sentence+'。'+'\n')
+
+print('All {} txt files are generated in {}'.format(len(WMR_indexes),output_path))

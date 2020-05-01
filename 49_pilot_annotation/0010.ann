@@ -1,0 +1,11 @@
+T1	Date 0 4	４／２０
+T2	Timing 5 7	午後
+T3	Drug 21 27	クエンメット
+A1	Status T3 intended
+T4	Form_form 27 28	錠
+T5	Drug 43 52	クエン酸第一鉄Ｎａ
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Form_form 52 53	錠
+T7	Duration 67 70	５日分
+A4	Index T7 01

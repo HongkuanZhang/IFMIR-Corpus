@@ -1,0 +1,12 @@
+T1	Date 0 3	4／4
+T2	Timing 3 4	朝
+T3	Drug 6 19	セフカペンピボキシル塩酸塩
+T4	Strength_amount 19 24	100mg
+T5	Form_form 24 25	錠
+T6	Dosage 26 28	1錠
+A1	Status T6 intended
+T7	Dosage 32 34	2錠
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Dosage 53 55	１つ
+A4	Index T8 01

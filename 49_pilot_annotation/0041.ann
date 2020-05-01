@@ -1,0 +1,10 @@
+T1	Drug 4 10	インクレミン
+T2	Frequency 11 15	１日１回
+A1	Status T2 intended
+T3	Timing 15 18	昼食後
+T4	Strength_amount 18 21	３ｍｌ
+T5	Frequency 44 48	１日３回
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Drug 74 80	インクレミン
+T7	Strength_amount 81 84	３ｍｌ

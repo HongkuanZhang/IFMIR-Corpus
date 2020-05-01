@@ -1,0 +1,11 @@
+T1	Drug 24 27	内服薬
+A1	Index T1 01
+A2	Drug T1 unspecified
+T2	Drug 65 70	タケキャブ
+T3	Dosage 70 72	１錠
+A3	Status T3 intended
+T4	Frequency 72 74	分１
+T5	Timing 74 75	朝
+T6	Dosage 79 81	２錠
+A4	Status T6 actual
+A5	Error_occur T6 error

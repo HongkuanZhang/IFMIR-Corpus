@@ -1,8 +1,0 @@
-T1	Drug 7 16	アンヒバ坐薬小児用
-T2	Strength_amount 16 21	200mg
-A1	Status T2 actual
-T3	Dosage 21 23	1本
-T4	Drug 52 61	アンヒバ坐薬小児用
-T5	Strength_amount 61 66	100mg
-A2	Status T5 intended
-A3	Error_occur T2 error

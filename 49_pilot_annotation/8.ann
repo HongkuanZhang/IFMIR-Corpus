@@ -1,8 +1,0 @@
-T1	Drug 11 17	エスラックス
-T2	Form_form 17 19	静注
-T3	Dosage 19 21	1V
-T4	Dosage 86 88	5V
-A1	Status T3 intended
-A2	Status T4 actual
-T5	Drug 79 85	エスラックス
-A3	Error_occur T4 error

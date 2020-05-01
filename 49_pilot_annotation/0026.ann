@@ -1,0 +1,5 @@
+T1	Drug 0 7	アリミデックス
+A1	Status T1 intended
+T2	Drug 17 23	レトロゾール
+A2	Status T2 actual
+A3	Error_occur T2 error

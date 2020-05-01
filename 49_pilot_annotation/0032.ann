@@ -1,0 +1,13 @@
+T1	Drug 16 22	メルカゾール
+T2	Strength_amount 22 25	5ｍｇ
+T3	Dosage 25 27	2錠
+T4	Frequency 27 29	1×
+A1	Status T3 intended
+T5	Dosage 36 38	1錠
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Frequency 38 40	1×
+T7	Timing 40 41	朝
+T8	Timing 29 30	朝
+T9	Date 65 68	3日後
+A4	Index T9 01

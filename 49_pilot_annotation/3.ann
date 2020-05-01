@@ -1,7 +1,0 @@
-T1	Date 0 4	4/12
-T2	Drug 10 16	ブロチゾラム
-T3	Dosage 16 20	1/2錠
-T4	Dosage 32 34	1錠
-A1	Status T4 actual
-A2	Status T3 intended
-A3	Error_occur T4 error
