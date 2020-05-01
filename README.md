@@ -30,11 +30,10 @@ When generating the 300 final annotation target files, we need to generate the d
 
 
 ### 3. Visualizing the annotated data with BRAT tool
-In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below:
+In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below. Notice that the original incident contents are written in Japanese, and the contents in the figure above are translated into English only for easy to understand. 
 
 ![pic3](https://github.com/zhkleciel/JQMIR/blob/master/pics/mir-in-brat.png)
 
-Notice that the original incident contents are written in Japanese, and the contents in the figure above are translated into English only for easy to understand.  
 After generating annotation target files as we described before, both of `/49_pilot_annotation` and `/300_final_annotation` files contain: generated .txt files, corresponding .ann files, and .conf file for annotation defination. The annotated MIRs can be visualized by placing two files under the `/Brat/brat-v1.3_Crunchy_Frog/data/` and open the file in the browser.
 
 ## Requirements and Installation
