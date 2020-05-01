@@ -20,12 +20,14 @@ The csv file of MIRs for a specified month can be downloaded with 5 steps:
 
 ### 2. Generating the .txt files of target MIRs for annotation
 
-Placing the downloaded ***MedicalReportPub.csv*** file into the root directory.
+With the downloaded ***MedicalReportPub.csv*** file, we can generate the annotation target files (.txt files) into the output path with the script ***generate-txt.py*** and correspoding index file containing the indexes of wrong medication MIRs. The output paths for pilot annotation and final annotation are `/49_pilot_annotation` and `/300_final_annotation` respectively. Here we use the downloaded MIRs from April in 2018 as an example to show the generation of annotation target files:
 
-Generating the annotation target (.txt files) into the output path using the script ***generate-txt.py*** and correspoding index file containing the indexes of wrong medication MIRs by (we use the MIRs from April in 2018 as an example):
 ```python
-python3 generate-txt.py MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /output/path
-```
+python3 generate-txt.py path/to/MedicalReportPub.csv /WMR_indexes/2018-Apr-indexes.txt /49_pilot_annotation
+```  
+
+When generating the 300 final annotation target files, we need to generate the data from May 2018 to January 2019 in order to keep the consistency with the corresponding .ann files.
+
 
 ### 3. Visualizing the annotated data with BRAT tool
 In this work, we used the BRAT, a broswer annotation tool, for our annotation. With the .txt files and their corresponding .ann files, the BRAT can provide a visual interface like below:
