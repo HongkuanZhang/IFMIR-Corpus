@@ -3,9 +3,9 @@ import re
 import os
 import sys
 
-csv_file_path = 'MedicalReportPub.csv'
-wmr_indexes_file_path = 'WMR_indexes.txt'
-output_path = 'test/'
+csv_file_path = sys.argv[1]
+wmr_indexes_file_path = sys.argv[2]
+output_path = sys.argv[3]
 
 # Read in contents section in MIRs and indexes of MIRs respectively
 MIR_contents = list(pd.read_csv(csv_file_path,encoding='SHIFT_JIS',index_col=False)['事故の内容.1'])
