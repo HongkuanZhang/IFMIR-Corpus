@@ -1,5 +1,5 @@
-# File Explanation 
-This repository consists of the Japanese medical incident reports (MIRs) corpus and the script for accessing and generating the target annotation reports associated with our LREC 2020 [paper](https://www.aclweb.org/anthology/2020.lrec-1.563.pdf) for information extraction on MIRs.
+## File Explanation 
+This document contains 502 annotation files which are end with .ann. 0001.ann ～ 0300.ann are files uploaded in 2020
 
 ## Introduction
 Medical incident reports (MIRs) are documents that record what happened in a medical incident. A typical MIR consists of two sections: a structured categorical part and an unstructured text part. Most texts in MIRs describe what medication was intended to be given and what was actually given, since what happened in an incident is largely due to discrepancies between intended and actual medications. Recognizing the **intention of clinicians** and the **factuality of medication** is essential to understand the causes of medical incidents and avoid similar incidents in the future. Therefore, we developed an MIR corpus with annotation of **intention and factuality** as well as of **medication entities** and **entity relations**. In this paper, we present our annotation scheme with respect to the definition of medication entities that we take into account, the method to annotate the relations between entities, and the details of the intention and factuality annotation. We then report the statistics of our annotation of 349 Japanese incident reports.  
