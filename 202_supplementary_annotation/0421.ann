@@ -1,0 +1,12 @@
+T1	Drug 0 8	アトルバスタチン
+A1	Status T1 intended
+T2	Form_mode 8 10	OD
+T3	Form_form 10 11	錠
+T4	Strength_amount 11 14	5mg
+T5	Drug 19 26	ロスバスタチン
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Form_mode 26 28	OD
+T7	Form_form 28 29	錠
+T8	Strength_amount 29 32	5mg
+T9	Duration 47 50	2日間

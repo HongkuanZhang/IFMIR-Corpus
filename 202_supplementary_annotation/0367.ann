@@ -1,0 +1,7 @@
+T1	Drug 0 5	スタレボＬ
+T2	Strength_amount 5 7	５０
+A1	Status T2 intended
+T3	Drug 23 28	スタレボＬ
+T4	Strength_amount 28 31	１００
+A2	Status T4 actual
+A3	Error_occur T4 error

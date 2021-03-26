@@ -1,0 +1,8 @@
+T1	Drug 1 4	ビソノ
+T2	Form_form 4 7	テープ
+T3	Strength_amount 7 10	4mg
+T4	Dosage 11 15	0.5枚
+A1	Status T4 intended
+T5	Dosage 24 26	一枚
+A2	Status T5 actual
+A3	Error_occur T5 error

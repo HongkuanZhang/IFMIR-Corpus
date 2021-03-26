@@ -1,0 +1,12 @@
+T1	Drug 11 16	治療外用薬
+A1	Drug T1 class_mentioned
+T2	Drug 16 20	ベセルナ
+T3	Form_form 20 24	クリーム
+T4	Frequency 25 28	週３回
+T5	Strength_amount 29 33	１日１包
+A2	Status T5 intended
+A3	Strength_amount T5 per_day
+T6	Strength_amount 64 68	１日３包
+A4	Status T6 actual
+A5	Error_occur T6 error
+A6	Strength_amount T6 per_day

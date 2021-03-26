@@ -1,0 +1,16 @@
+T1	Duration 17 21	24時間
+T2	Strength_amount 22 24	3本
+A1	Strength_amount T2 per_day
+T3	Drug 25 27	点滴
+A2	Drug T3 unspecified
+T4	Drug 36 38	点滴
+A3	Drug T4 unspecified
+T5	Drug 47 49	点滴
+A4	Drug T5 unspecified
+T6	Drug 56 59	3本目
+A5	Status T6 intended
+A6	Drug T6 unspecified
+T7	Drug 68 71	2本目
+A7	Status T7 actual
+A8	Error_occur T7 error
+A9	Drug T7 unspecified

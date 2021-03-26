@@ -1,0 +1,8 @@
+T1	Drug 0 6	ペニシリン系
+A1	Index T1 01
+A2	Drug T1 class_mentioned
+T2	Drug 19 23	ユナシン
+A3	Status T2 actual
+A4	Error_occur T2 error
+T3	Drug 46 51	ロセフィン
+A5	Status T3 intended

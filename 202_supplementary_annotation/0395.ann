@@ -1,0 +1,7 @@
+T1	Drug 0 5	スミスリン
+A1	Status T1 intended
+T2	Form_form 5 10	ローション
+A2	Status T2 intended
+T3	Drug 25 32	スミルステック
+A3	Status T3 actual
+A4	Error_occur T3 error

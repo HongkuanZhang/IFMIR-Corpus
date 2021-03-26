@@ -1,0 +1,7 @@
+T1	Drug 0 8	メトクロプラミド
+A1	Status T1 intended
+T2	Route 8 9	注
+T3	Drug 18 25	トラネキサム酸
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Route 25 26	注

@@ -1,0 +1,11 @@
+T1	Drug 0 6	セファメジン
+T2	Drug 18 26	セファゾリンNa
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Route 26 28	注射
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Drug 59 64	フルマリン
+A5	Status T4 intended
+T5	Route 64 67	静注用
+A6	Status T5 intended

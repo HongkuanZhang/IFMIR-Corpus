@@ -1,0 +1,9 @@
+T1	Drug 0 4	ユナシン
+A1	Index T1 01
+T2	Drug 17 21	タゾピペ
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Route 23 26	静注用
+T4	Drug 49 54	ロセフィン
+A4	Status T4 intended
+T5	Route 54 57	静注用

@@ -1,0 +1,8 @@
+T1	Duration 0 6	１０−１８時
+A1	Status T1 intended
+T2	Route 7 11	静脈点滴
+T3	Drug 20 26	ソルデム３Ａ
+T4	Strength_amount 26 31	５００ｍｌ
+T5	Duration 32 38	１０−１４時
+A2	Status T5 actual
+A3	Error_occur T5 error

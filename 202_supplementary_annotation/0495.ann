@@ -1,0 +1,11 @@
+T1	Date 0 5	10／17
+T2	Timing 6 11	10：00
+T3	Drug 20 26	ブイフェンド
+T4	Dosage 26 28	2錠
+A1	Status T4 intended
+T5	Drug 40 46	ブイフェンド
+T6	Dosage 46 48	１錠
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Timing 55 60	17：30
+A4	Index T7 01

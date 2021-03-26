@@ -1,0 +1,11 @@
+T1	Drug 0 7	エサンブトール
+T2	Form_form 7 8	錠
+T3	Strength_amount 8 13	250mg
+T4	Dosage 14 16	2錠
+T5	Timing 17 20	朝食後
+T6	Date 21 23	隔日
+T7	Duration 26 29	4日分
+A1	Status T7 intended
+T8	Duration 33 36	7日分
+A2	Status T8 actual
+A3	Error_occur T8 error

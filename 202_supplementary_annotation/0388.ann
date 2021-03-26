@@ -1,0 +1,14 @@
+T1	Drug 0 8	ランソプラゾール
+T2	Strength_amount 8 12	30mg
+A1	Status T2 intended
+T3	Strength_amount 13 16	49錠
+A2	Status T3 intended
+A3	Strength_amount T3 per_whole_course
+T4	Drug 24 32	ランソプラソール
+T5	Strength_amount 32 36	15mg
+A4	Status T5 actual
+A5	Error_occur T5 error
+T6	Strength_amount 37 40	59錠
+A6	Status T6 actual
+A7	Error_occur T6 error
+A8	Strength_amount T6 per_whole_course

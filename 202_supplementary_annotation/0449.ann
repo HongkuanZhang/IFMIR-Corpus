@@ -1,0 +1,26 @@
+T1	Date 0 4	４／２２
+T2	Drug 5 8	注射薬
+A1	Drug T2 unspecified
+T3	Drug 13 18	リドカイン
+A2	Status T3 intended
+T4	Route 18 22	点滴静注
+A3	Status T4 intended
+T5	Form_form 22 23	液
+T6	Strength_concentration 23 25	１％
+T7	Drug 26 29	タカタ
+A4	Status T7 intended
+T8	Strength_amount 30 35	２００ｍＬ
+A5	Status T8 intended
+T9	Drug 45 53	リドカイン塩酸塩
+A6	Status T9 actual
+A7	Error_occur T9 error
+T10	Route 53 54	注
+A8	Status T10 actual
+A9	Error_occur T10 error
+T11	Strength_concentration 54 56	１％
+T12	Drug 57 59	日新
+A10	Status T12 actual
+A11	Error_occur T12 error
+T13	Strength_amount 61 65	１０ｍＬ
+A12	Status T13 actual
+A13	Error_occur T13 error

@@ -1,0 +1,10 @@
+T1	Drug 0 5	デカドロン
+T2	Form_form 5 6	錠
+T3	Strength_amount 6 9	４ｍｇ
+T4	Strength_amount 10 12	４錠
+A1	Status T4 intended
+A2	Strength_amount T4 per_whole_course
+T5	Strength_amount 23 25	８錠
+A3	Status T5 actual
+A4	Error_occur T5 error
+A5	Strength_amount T5 per_whole_course

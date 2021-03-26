@@ -1,0 +1,10 @@
+T1	Date 0 6	10月20日
+T2	Drug 8 15	アルファロール
+T3	Strength_amount 16 22	0.25μg
+T4	Strength_amount 28 33	0.5ml
+A1	Status T4 intended
+A2	Strength_amount T4 per_consumption
+T5	Strength_amount 34 37	5ml
+A3	Status T5 actual
+A4	Error_occur T5 error
+A5	Strength_amount T5 per_consumption

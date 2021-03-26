@@ -1,0 +1,12 @@
+T1	Drug 3 19	トコフェロールニコチン酸エステル
+A1	Status T1 intended
+T2	Form_form 19 23	カプセル
+T3	Strength_amount 23 28	100mg
+A2	Status T3 intended
+T4	Drug 34 41	トラネキサム酸
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Form_form 41 45	カプセル
+T6	Strength_amount 45 50	250mg
+A5	Status T6 actual
+A6	Error_occur T6 error

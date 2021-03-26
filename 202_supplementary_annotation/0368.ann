@@ -1,0 +1,6 @@
+T1	Drug 0 11	メプチンスイングヘラー
+A1	Status T1 intended
+T2	Drug 21 28	メプチンエアー
+A2	Status T2 actual
+A3	Error_occur T2 error
+#1	AnnotatorNotes T2	剤形違い

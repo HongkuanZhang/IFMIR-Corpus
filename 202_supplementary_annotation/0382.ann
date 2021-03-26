@@ -1,0 +1,7 @@
+T1	Drug 0 4	メマリー
+A1	Status T1 intended
+T2	Strength_amount 4 7	５ｍｇ
+T3	Drug 26 31	ドネペジル
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 31 34	５ｍｇ

@@ -1,0 +1,11 @@
+T1	Drug 0 6	ラミクタール
+T2	Strength_amount 6 10	25ｍｇ
+A1	Status T2 intended
+T3	Strength_amount 11 14	42錠
+A2	Strength_amount T3 per_whole_course
+T4	Drug 23 29	ラミクタール
+T5	Strength_amount 29 34	100mg
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Drug 56 58	薬剤
+A5	Drug T6 unspecified

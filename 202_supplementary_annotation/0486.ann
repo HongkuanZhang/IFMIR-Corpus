@@ -1,0 +1,10 @@
+T1	Timing 0 2	６時
+T2	Drug 3 7	持続点滴
+A1	Drug T2 unspecified
+T3	Timing 12 15	１４時
+A2	Status T3 intended
+T4	Drug 21 27	ソルアセトＦ
+T5	Strength_amount 27 32	５００ｍｌ
+T6	Timing 33 35	８時
+A3	Status T6 actual
+A4	Error_occur T6 error

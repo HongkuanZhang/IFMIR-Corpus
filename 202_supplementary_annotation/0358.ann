@@ -1,0 +1,12 @@
+T1	Drug 5 9	t−PA
+T2	Timing 17 18	朝
+T3	Drug 22 30	ピオグリタゾシン
+T4	Dosage 30 32	2錠
+A1	Status T4 intended
+T5	Drug 58 60	内服
+T6	Drug 75 77	内服
+T7	Route 78 80	鼻注
+T8	Dosage 83 85	1錠
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Route 89 91	鼻注

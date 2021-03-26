@@ -1,0 +1,21 @@
+T1	Drug 1 8	ソル・コーテフ
+A1	Subindex T1 1
+T2	Strength_amount 8 12	25mg
+A2	Subindex T2 1
+A3	Status T2 intended
+T3	Drug 13 15	生食
+A4	Subindex T3 2
+T4	Strength_amount 15 19	50ml
+A5	Subindex T4 2
+T5	Drug 35 42	ソル・コーテフ
+A6	Subindex T5 1
+T6	Strength_amount 42 47	100mg
+A7	Subindex T6 1
+A8	Status T6 actual
+A9	Error_occur T6 error
+T7	Drug 48 50	生食
+A10	Subindex T7 2
+T8	Strength_amount 50 54	50ml
+A11	Subindex T8 2
+T9	Strength_amount 83 87	16ml
+A12	Status T9 neither

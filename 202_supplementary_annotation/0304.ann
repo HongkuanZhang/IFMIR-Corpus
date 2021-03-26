@@ -1,0 +1,9 @@
+T1	Timing 0 3	１２時
+T2	Drug 6 12	ソルデム３Ａ
+T3	Form_form 12 14	輸液
+T4	Strength_amount 14 19	５００ｍｌ
+T5	Strength_rate 21 27	６３ｍｌ／Ｈ
+A1	Status T5 intended
+T6	Strength_rate 38 44	４２ｍｌ／Ｈ
+A2	Status T6 actual
+A3	Error_occur T6 error

@@ -1,0 +1,9 @@
+T1	Drug 0 5	リクシアナ
+T2	Strength_amount 5 9	60mg
+A1	Status T2 intended
+T3	Drug 18 23	リクシアナ
+T4	Strength_amount 23 27	30mg
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Drug 70 72	薬剤
+A4	Drug T5 unspecified

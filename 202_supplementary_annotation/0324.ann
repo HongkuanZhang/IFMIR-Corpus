@@ -1,0 +1,15 @@
+T1	Drug 0 3	注射薬
+A1	Drug T1 unspecified
+T2	Drug 10 18	セファゾリンNa
+T3	Strength_amount 18 20	1g
+T4	Drug 21 25	ブドウ糖
+A2	Index T4 2
+T5	Strength_concentration 25 27	5%
+A3	Index T5 2
+T6	Strength_amount 27 32	100ml
+A4	Index T6 2
+T7	Drug 61 67	セファゾリン
+A5	Status T7 intended
+T8	Drug 71 78	硫酸プロタミン
+A6	Status T8 actual
+A7	Error_occur T8 error

@@ -1,0 +1,20 @@
+T1	Drug 0 2	生食
+T2	Strength_amount 2 8	1000mL
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Drug 9 12	KCL
+A3	Index T3 2
+T4	Form_form 12 15	キット
+A4	Index T4 2
+T5	Strength_amount 15 17	3本
+A5	Index T5 2
+T6	Drug 21 23	生食
+T7	Strength_amount 23 28	100mL
+A6	Status T7 actual
+A7	Error_occur T7 error
+T8	Drug 29 32	KCL
+A8	Index T8 2
+T9	Form_form 32 35	キット
+A9	Index T9 2
+T10	Strength_amount 35 37	3本
+A10	Index T10 2

@@ -1,0 +1,8 @@
+T1	Date 0 3	6/3
+T2	Drug 25 29	アセリオ
+T3	Route 30 32	点滴
+T4	Strength_amount 70 72	1袋
+A1	Status T4 intended
+T5	Strength_amount 92 96	0.5袋
+A2	Status T5 actual
+A3	Error_occur T5 error

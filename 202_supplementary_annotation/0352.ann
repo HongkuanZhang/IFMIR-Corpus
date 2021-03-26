@@ -1,0 +1,7 @@
+T1	Drug 0 3	ビソノ
+T2	Form_form 3 6	テープ
+T3	Strength_amount 7 9	４枚
+A1	Status T3 intended
+T4	Strength_amount 23 25	７枚
+A2	Status T4 actual
+A3	Error_occur T4 error

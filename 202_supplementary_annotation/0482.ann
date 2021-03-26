@@ -1,0 +1,17 @@
+T1	Drug 0 5	ザイティガ
+T2	Strength_amount 5 10	250mg
+T3	Form_form 10 11	錠
+T4	Strength_amount 12 17	8錠シート
+A1	Status T4 actual
+A2	Error_occur T4 error
+A3	Strength_amount T4 per_consumption
+T5	Strength_amount 27 33	10錠シート
+A4	Status T5 intended
+A5	Strength_amount T5 per_consumption
+T6	Strength_amount 51 54	16錠
+A6	Status T6 intended
+A7	Strength_amount T6 per_whole_course
+T7	Strength_amount 63 66	14錠
+A8	Status T7 actual
+A9	Error_occur T7 error
+A10	Strength_amount T7 per_whole_course

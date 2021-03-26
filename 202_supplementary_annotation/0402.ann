@@ -1,0 +1,7 @@
+T1	Drug 0 7	リンデロンVG
+T2	Form_form 7 11	クリーム
+A1	Status T2 intended
+T3	Drug 21 28	リンデロンVG
+T4	Form_form 28 30	軟膏
+A2	Status T4 actual
+A3	Error_occur T4 error

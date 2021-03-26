@@ -1,0 +1,7 @@
+T1	Timing 0 3	毎食前
+T2	Drug 4 9	カロナール
+T3	Dosage 10 12	３錠
+A1	Status T3 intended
+T4	Dosage 20 22	１錠
+A2	Status T4 actual
+A3	Error_occur T4 error

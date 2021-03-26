@@ -1,0 +1,11 @@
+T1	Date 0 4	５／１４
+T2	Timing 5 7	夕分
+T3	Drug 8 11	持参薬
+A1	Drug T3 unspecified
+T4	Drug 11 18	ケイキサレート
+T5	Form_form 18 25	ドライシロップ
+T6	Dosage 26 30	４包／回
+A2	Status T6 intended
+T7	Dosage 45 47	１包
+A3	Status T7 actual
+A4	Error_occur T7 error

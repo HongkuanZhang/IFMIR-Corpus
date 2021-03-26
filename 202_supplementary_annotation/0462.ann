@@ -1,0 +1,7 @@
+T1	Drug 0 5	ビムパット
+T2	Strength_amount 5 10	100mg
+A1	Status T2 intended
+T3	Drug 24 29	ビムパット
+T4	Strength_amount 29 33	50mg
+A2	Status T4 actual
+A3	Error_occur T4 error

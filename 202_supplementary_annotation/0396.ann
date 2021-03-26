@@ -1,0 +1,15 @@
+T1	Drug 0 5	ハルトマン
+A1	Subindex T1 1
+T2	Form_form 5 6	液
+A2	Subindex T2 1
+T3	Strength_amount 6 11	５００ｍｌ
+A3	Subindex T3 1
+T4	Drug 12 17	ビタメジン
+A4	Subindex T4 2
+T5	Timing 18 21	１０時
+T6	Timing 31 35	１１時半
+T7	Duration 62 65	８時間
+A5	Status T7 intended
+T8	Duration 81 84	４時間
+A6	Status T8 actual
+A7	Error_occur T8 error

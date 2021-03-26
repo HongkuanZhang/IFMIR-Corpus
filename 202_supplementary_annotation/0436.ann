@@ -1,0 +1,9 @@
+T1	Drug 0 6	テグレトール
+T2	Strength_amount 6 8	半錠
+A1	Status T2 intended
+T3	Strength_amount 11 13	４包
+A2	Strength_amount T3 per_consumption
+T4	Drug 28 34	テグレトール
+T5	Strength_amount 34 36	２錠
+A3	Status T5 actual
+A4	Error_occur T5 error

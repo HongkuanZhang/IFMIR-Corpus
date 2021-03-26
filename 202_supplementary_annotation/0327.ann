@@ -1,0 +1,11 @@
+T1	Timing 0 3	21時
+T2	Drug 4 10	リスペリドン
+T3	Strength_amount 10 15	0.5mg
+T4	Dosage 15 17	1錠
+A1	Status T4 intended
+T5	Drug 44 50	リスペリドン
+T6	Strength_amount 50 55	0.5mg
+T7	Form_form 55 57	水剤
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Duration 74 77	2日間

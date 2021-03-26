@@ -1,0 +1,9 @@
+T1	Drug 0 6	リバスタッチ
+A1	Status T1 intended
+T2	Strength_amount 6 11	4．5mg
+T3	Form_form 11 14	パッチ
+T4	Drug 32 37	ニュープロ
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Form_form 37 40	パッチ
+T6	Strength_amount 40 45	4．5mg

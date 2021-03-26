@@ -1,0 +1,18 @@
+T1	Drug 6 8	薬剤
+A1	Drug T1 unspecified
+T2	Drug 18 21	ネスプ
+T3	Route 21 23	注射
+T4	Form_form 23 24	液
+T5	Strength_amount 24 28	30μg
+A2	Status T5 intended
+T6	Form_form 28 34	プラシリンジ
+A3	Status T6 intended
+T7	Strength_amount 34 39	0.5mL
+T8	Drug 46 49	ネスプ
+T9	Route 49 51	注射
+T10	Form_form 51 52	液
+T11	Strength_amount 52 56	60μg
+A4	Status T11 actual
+A5	Error_occur T11 error
+T12	Form_form 56 62	プラシリンジ
+T13	Strength_amount 62 67	0.5mL

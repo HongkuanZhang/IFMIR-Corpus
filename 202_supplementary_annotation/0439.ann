@@ -1,0 +1,6 @@
+T1	Drug 0 8	レミフェンタニル
+T2	Strength_concentration 8 17	0.1mg/1ml
+A1	Status T2 intended
+T3	Strength_concentration 25 35	0.1mg/10ml
+A2	Status T3 actual
+A3	Error_occur T3 error

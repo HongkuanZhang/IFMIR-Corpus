@@ -1,0 +1,12 @@
+T1	Drug 0 5	メサラジン
+T2	Strength_amount 5 10	500mg
+A1	Status T2 intended
+T3	Form_form 10 11	錠
+T4	Drug 21 26	メサラジン
+T5	Form_mode 26 28	腸溶
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Form_form 28 29	錠
+T7	Strength_amount 29 34	400mg
+A4	Status T7 actual
+A5	Error_occur T7 error

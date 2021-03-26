@@ -1,0 +1,8 @@
+T1	Drug 3 6	注射薬
+A1	Drug T1 unspecified
+T2	Drug 14 20	セファゾリン
+T3	Strength_amount 20 24	0．5g
+A2	Status T3 intended
+T4	Strength_amount 31 33	2g
+A3	Status T4 actual
+A4	Error_occur T4 error

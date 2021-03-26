@@ -1,0 +1,7 @@
+T1	Drug 6 10	アセリオ
+T2	Strength_amount 10 21	60ml（600mg）
+A1	Status T2 intended
+T3	Drug 28 32	アセリオ
+T4	Strength_amount 32 45	100ml（1000mg）
+A2	Status T4 actual
+A3	Error_occur T4 error

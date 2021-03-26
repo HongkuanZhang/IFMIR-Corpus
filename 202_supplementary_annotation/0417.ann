@@ -1,0 +1,8 @@
+T1	Timing 0 3	10時
+A1	Status T1 intended
+T2	Drug 4 10	フェンタニル
+T3	Duration 10 13	3日用
+T4	Form_form 13 16	テープ
+T5	Timing 37 40	16時
+A2	Status T5 actual
+A3	Error_occur T5 error

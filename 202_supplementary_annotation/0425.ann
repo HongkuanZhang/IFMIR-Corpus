@@ -1,0 +1,29 @@
+T1	Drug 0 5	レミケード
+T2	Form_form 5 7	点滴
+T3	Route 7 10	静注用
+T4	Drug 18 23	カロナール
+A1	Index T4 2
+A2	Subindex T4 1
+T5	Dosage 23 25	1錠
+A3	Index T5 2
+A4	Subindex T5 1
+A5	Status T5 intended
+T6	Drug 26 31	ポララミン
+A6	Index T6 2
+A7	Subindex T6 2
+T7	Dosage 31 33	2錠
+A8	Index T7 2
+A9	Subindex T7 2
+T8	Drug 44 49	カロナール
+A10	Index T8 2
+A11	Subindex T8 1
+T9	Dosage 50 52	2錠
+A12	Index T9 2
+A13	Subindex T9 1
+A14	Status T9 actual
+A15	Error_occur T9 error
+T10	Dosage 65 67	2錠
+A16	Index T10 2
+A17	Subindex T10 1
+A18	Status T10 actual
+A19	Error_occur T10 error

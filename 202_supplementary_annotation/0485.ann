@@ -1,0 +1,15 @@
+T1	Date 0 6	１０月１９日
+T2	Dosage 17 19	２枚
+A1	Status T2 intended
+T3	Drug 28 39	フェンタニルクエン酸塩
+T4	Strength_amount 39 42	２ｍｇ
+T5	Form_form 42 45	テープ
+T6	Dosage 46 48	１枚
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Date 65 67	前日
+T8	Dosage 81 83	２枚
+A4	Status T8 intended
+T9	Dosage 93 95	１枚
+A5	Status T9 actual
+A6	Error_occur T9 error

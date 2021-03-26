@@ -1,0 +1,8 @@
+T1	Drug 0 2	点滴
+A1	Drug T1 unspecified
+T2	Strength_rate 11 18	２．５ｍｌ／ｈ
+A2	Status T2 intended
+T3	Strength_rate 39 46	３．０ｍｌ／ｈ
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Duration 68 72	約４時間

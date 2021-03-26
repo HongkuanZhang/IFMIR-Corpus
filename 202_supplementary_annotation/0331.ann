@@ -1,0 +1,8 @@
+T1	Strength_rate 17 23	６３ｍｌ／ｈ
+A1	Status T1 intended
+T2	Drug 24 30	ソルデム３Ａ
+T3	Timing 35 40	１１：３０
+T4	Timing 55 59	２時間後
+T5	Strength_rate 64 71	１２０ｍｌ／ｈ
+A2	Status T5 actual
+A3	Error_occur T5 error

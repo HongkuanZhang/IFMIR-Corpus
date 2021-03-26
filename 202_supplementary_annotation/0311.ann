@@ -1,0 +1,10 @@
+T1	Timing 0 3	昼食前
+T2	Drug 0 4	昼食前薬
+A1	Drug T2 unspecified
+T3	Drug 5 12	ツムラ大建中湯
+T4	Dosage 20 22	２包
+A2	Status T4 intended
+T5	Dosage 37 39	１包
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Date 50 54	９／１９

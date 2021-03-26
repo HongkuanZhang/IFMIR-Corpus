@@ -1,0 +1,10 @@
+T1	Drug 0 4	リレンザ
+T2	Frequency 10 14	1日2回
+T3	Dosage 15 20	1回2吸入
+A1	Status T3 intended
+#1	AnnotatorNotes T3	Route？
+T4	Route 18 20	吸入
+T5	Dosage 23 28	1回1吸入
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Route 26 28	吸入

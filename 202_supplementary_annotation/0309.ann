@@ -1,0 +1,12 @@
+T1	Timing 0 3	夕食前
+T2	Drug 4 7	ツムラ
+A1	Drug T2 class_mentioned
+#1	AnnotatorNotes T2	 漢方と判断
+T3	Dosage 8 10	二袋
+A2	Status T3 intended
+T4	Dosage 19 21	一袋
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Dosage 49 51	一袋
+A5	Status T5 actual
+A6	Error_occur T5 error

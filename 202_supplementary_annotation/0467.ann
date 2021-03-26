@@ -1,0 +1,9 @@
+T1	Drug 0 3	外用薬
+A1	Drug T1 class_mentioned
+T2	Drug 4 10	リドメックス
+A2	Status T2 intended
+T3	Form_form 10 12	軟膏
+T4	Drug 25 32	リンデロンVG
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Form_form 32 34	軟膏

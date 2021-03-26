@@ -1,0 +1,7 @@
+T1	Drug 17 21	リバース
+A1	Drug T1 class_mentioned
+T2	Drug 24 30	アネキセート
+A2	Status T2 intended
+T3	Drug 40 45	サイレース
+A3	Status T3 actual
+A4	Error_occur T3 error

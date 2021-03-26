@@ -1,0 +1,31 @@
+T1	Drug 14 19	サイレース
+A1	Subindex T1 1
+T2	Dosage 20 22	１Ａ
+A2	Subindex T2 1
+A3	Status T2 neither
+T3	Drug 33 38	サイレース
+A4	Subindex T3 1
+T4	Strength_amount 38 41	２ｍｇ
+A5	Subindex T4 1
+T5	Dosage 42 44	１Ａ
+A6	Subindex T5 1
+A7	Status T5 intended
+T6	Drug 45 50	生理食塩水
+A8	Subindex T6 2
+T7	Strength_amount 50 55	１００ｍｌ
+A9	Subindex T7 2
+T8	Strength_rate 58 63	６ｍｌ／ｈ
+T9	Drug 67 72	サイレース
+A10	Subindex T9 1
+T10	Strength_amount 72 75	２ｍｇ
+A11	Subindex T10 1
+T11	Dosage 76 78	２Ａ
+A12	Subindex T11 1
+A13	Status T11 actual
+A14	Error_occur T11 error
+T12	Drug 79 84	生理食塩水
+A15	Subindex T12 2
+T13	Strength_amount 84 89	１００ｍｌ
+A16	Subindex T13 2
+T14	Strength_rate 92 97	６ｍｌ／ｈ
+T15	Duration 101 104	２時間

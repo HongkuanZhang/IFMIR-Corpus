@@ -1,0 +1,14 @@
+T1	Drug 0 6	アムロジピン
+T2	Form_mode 6 8	OD
+T3	Form_form 8 9	錠
+T4	Strength_amount 9 14	2.5mg
+A1	Status T4 intended
+T5	Dosage 15 17	1錠
+T6	Frequency 18 20	分1
+T7	Timing 21 24	夕食後
+T8	Drug 33 39	アムロジピン
+T9	Form_mode 39 41	OD
+T10	Form_form 41 42	錠
+T11	Strength_amount 42 45	5mg
+A2	Status T11 actual
+A3	Error_occur T11 error

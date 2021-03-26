@@ -1,0 +1,9 @@
+T1	Drug 0 6	ロサルタンK
+A1	Status T1 intended
+T2	Form_form 6 7	錠
+T3	Strength_amount 7 11	50mg
+T4	Frequency 12 16	1日1回
+T5	Dosage 17 23	1回0.5錠
+T6	Drug 38 45	ビソプロロール
+A2	Status T6 actual
+A3	Error_occur T6 error

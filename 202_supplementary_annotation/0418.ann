@@ -1,0 +1,6 @@
+T1	Drug 3 9	ニフェジピン
+T2	Strength_amount 9 12	14錠
+A1	Status T2 intended
+T3	Strength_amount 18 20	7錠
+A2	Status T3 actual
+A3	Error_occur T3 error

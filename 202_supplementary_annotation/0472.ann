@@ -1,0 +1,8 @@
+T1	Drug 0 11	メプチンスイングヘラー
+A1	Status T1 intended
+T2	Strength_amount 11 18	10マイクロg
+T3	Route 18 20	吸入
+T4	Drug 30 37	メプチンエアー
+A2	Status T4 actual
+A3	Error_occur T4 error
+#1	AnnotatorNotes T4	剤形違い

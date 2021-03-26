@@ -1,0 +1,6 @@
+T1	Drug 5 13	酸化マグネシウム
+T2	Strength_amount 14 19	250mg
+A1	Status T2 intended
+T3	Strength_amount 30 35	330mg
+A2	Status T3 actual
+A3	Error_occur T3 error

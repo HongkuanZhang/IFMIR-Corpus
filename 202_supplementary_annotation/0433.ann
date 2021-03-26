@@ -1,0 +1,14 @@
+T1	Drug 18 23	カロナール
+T2	Form_form 23 24	錠
+T3	Strength_amount 25 28	２００
+A1	Status T3 intended
+T4	Strength_amount 29 31	２錠
+A2	Strength_amount T4 per_consumption
+T5	Drug 42 47	カロナール
+T6	Form_form 47 48	錠
+T7	Strength_amount 48 53	３００ｍｇ
+A3	Status T7 actual
+A4	Error_occur T7 error
+T8	Strength_amount 53 55	２錠
+A5	Strength_amount T8 per_consumption
+T9	Timing 64 68	１時間後

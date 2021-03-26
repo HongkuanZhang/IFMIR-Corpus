@@ -1,0 +1,15 @@
+T1	Drug 0 3	持参薬
+A1	Drug T1 unspecified
+T2	Drug 4 9	トビエース
+T3	Form_form 9 10	錠
+T4	Strength_amount 10 13	4mg
+T5	Dosage 14 18	1回2錠
+A2	Status T5 intended
+T6	Dosage 34 38	1回1錠
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Date 56 60	1週間後
+A5	Index T7 01
+T8	Dosage 88 92	1回1錠
+A6	Status T8 actual
+A7	Error_occur T8 error

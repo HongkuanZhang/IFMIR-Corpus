@@ -1,0 +1,7 @@
+T1	Drug 0 3	ユベラ
+T2	Form_form 3 4	錠
+A1	Status T2 intended
+T3	Drug 20 23	ユベラ
+T4	Form_form 24 31	ソフトカプセル
+A2	Status T4 actual
+A3	Error_occur T4 error

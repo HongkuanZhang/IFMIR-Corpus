@@ -1,0 +1,9 @@
+T1	Drug 3 9	イグザレルト
+T2	Strength_amount 9 13	１５ｍｇ
+A1	Status T2 intended
+T3	Strength_amount 19 23	１０ｍｇ
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Strength_amount 100 104	１０ｍｇ
+A4	Status T4 actual
+A5	Error_occur T4 error

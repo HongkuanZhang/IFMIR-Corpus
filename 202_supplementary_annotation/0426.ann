@@ -1,0 +1,10 @@
+T1	Drug 15 20	ジャヌビア
+A1	Subindex T1 1
+A2	Status T1 intended
+T2	Drug 27 32	トラゼンタ
+A3	Subindex T2 2
+T3	Drug 43 48	キネダック
+A4	Subindex T3 1
+A5	Status T3 actual
+A6	Error_occur T3 error
+T4	Date 65 67	翌日

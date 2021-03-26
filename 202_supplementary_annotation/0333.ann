@@ -1,0 +1,8 @@
+T1	Drug 14 19	フロセミド
+T2	Strength_rate 25 32	１．５ｍｌ／ｈ
+A1	Status T2 intended
+T3	Timing 41 48	１２時〜２４時
+T4	Duration 51 56	約１２時間
+T5	Strength_rate 61 68	２．０ｍｌ／ｈ
+A2	Status T5 actual
+A3	Error_occur T5 error

@@ -1,0 +1,9 @@
+T1	Drug 0 3	持参薬
+A1	Drug T1 unspecified
+T2	Drug 12 20	硝酸イソソルビド
+T3	Form_form 20 21	錠
+T4	Strength_amount 21 25	20mg
+A2	Status T4 intended
+T5	Strength_amount 26 30	10mg
+A3	Status T5 actual
+A4	Error_occur T5 error

@@ -1,0 +1,8 @@
+T1	Date 0 2	本日
+T2	Timing 2 4	６時
+T3	Drug 7 12	ソルアセト
+T4	Strength_rate 23 29	４０ｍｌ／ｈ
+A1	Status T4 intended
+T5	Strength_rate 33 39	６０ｍｌ／ｈ
+A2	Status T5 actual
+A3	Error_occur T5 error

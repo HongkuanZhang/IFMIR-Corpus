@@ -1,0 +1,18 @@
+T1	Drug 0 6	イミフィンジ
+T2	Route 6 10	点滴静注
+T3	Strength_amount 10 15	500mg
+T4	Dosage 15 17	1V
+T5	Strength_amount 18 23	120mg
+A1	Subindex T5 2
+T6	Dosage 23 25	1V
+A2	Subindex T6 2
+A3	Status T6 intended
+T7	Drug 44 50	イミフィンジ
+T8	Strength_amount 50 55	500mg
+T9	Dosage 55 57	1V
+T10	Strength_amount 58 63	120mg
+A4	Subindex T10 2
+T11	Dosage 63 65	2V
+A5	Subindex T11 2
+A6	Status T11 actual
+A7	Error_occur T11 error

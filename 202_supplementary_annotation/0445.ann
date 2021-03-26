@@ -1,0 +1,6 @@
+T1	Drug 5 21	ヒューマログ注【HD】ミリオペン
+A1	Status T1 intended
+#1	AnnotatorNotes T1	 「ヒューマログ注ミリオペンHD」が実際の名前
+T2	Drug 35 52	ヒューマログミックス50ミリオペン
+A2	Status T2 actual
+A3	Error_occur T2 error

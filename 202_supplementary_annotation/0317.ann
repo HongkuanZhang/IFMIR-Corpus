@@ -1,0 +1,10 @@
+T1	Timing 0 5	当直時間帯
+T2	Drug 14 20	テグレトール
+A1	Status T2 intended
+T3	Strength_amount 20 23	200
+#1	AnnotatorNotes T3	200mg
+T4	Drug 32 37	テオドール
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_amount 37 40	200
+#2	AnnotatorNotes T5	200mg

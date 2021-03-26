@@ -1,0 +1,14 @@
+T1	Drug 0 5	カロナール
+T2	Form_form 5 7	細粒
+T3	Strength_concentration 7 10	20%
+T4	Strength_amount 11 16	200mg
+A1	Strength_amount T4 per_day
+T5	Frequency 16 18	分3
+A2	Status T5 intended
+T6	Strength_amount 28 33	200mg
+A3	Strength_amount T6 per_day
+T7	Frequency 33 35	分1
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Drug 52 54	散剤
+A6	Drug T8 class_mentioned

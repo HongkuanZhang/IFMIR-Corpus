@@ -1,0 +1,14 @@
+T1	Timing 0 3	２１時
+T2	Drug 4 8	ナルサス
+T3	Form_form 8 9	錠
+T4	Strength_amount 10 13	２mg
+T5	Dosage 14 16	２錠
+A1	Status T5 intended
+T6	Dosage 35 37	１錠
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 45 47	１錠
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Date 57 59	翌日
+A6	Index T8 01

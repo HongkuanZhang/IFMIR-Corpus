@@ -1,0 +1,8 @@
+T1	Timing 0 6	8：40ごろ
+T2	Drug 7 13	アンテベート
+T3	Form_form 13 18	ローション
+A1	Status T3 intended
+T4	Drug 31 37	アンテベート
+T5	Form_form 37 39	軟膏
+A2	Status T5 actual
+A3	Error_occur T5 error

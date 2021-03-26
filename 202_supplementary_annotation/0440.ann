@@ -1,0 +1,22 @@
+T1	Drug 0 6	ボグリボース
+T2	Form_form 6 7	錠
+T3	Strength_amount 7 9	３錠
+A1	Status T3 intended
+A2	Strength_amount T3 per_day
+T4	Frequency 9 11	分３
+T5	Strength_amount 19 21	１錠
+A3	Status T5 actual
+A4	Error_occur T5 error
+A5	Strength_amount T5 per_day
+T6	Frequency 21 23	分３
+T7	Drug 30 33	持参薬
+A6	Drug T7 unspecified
+T8	Strength_amount 36 38	１錠
+A7	Status T8 actual
+A8	Error_occur T8 error
+A9	Strength_amount T8 per_day
+T9	Frequency 38 40	分３
+T10	Strength_amount 51 53	３錠
+A10	Status T10 intended
+A11	Strength_amount T10 per_day
+T11	Frequency 53 55	分３

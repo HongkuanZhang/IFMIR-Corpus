@@ -1,0 +1,13 @@
+T1	Drug 2 5	金庫薬
+A1	Drug T1 unspecified
+T2	Drug 12 18	アミオダロン
+T3	Drug 27 33	アミオダロン
+T4	Strength_amount 33 35	４錠
+A2	Status T4 intended
+#1	AnnotatorNotes T4	★Per day
+T5	Frequency 35 37	分２
+T6	Date 47 49	前日
+T7	Timing 50 53	夕食後
+T8	Strength_amount 57 59	１錠
+A3	Status T8 actual
+A4	Error_occur T8 error

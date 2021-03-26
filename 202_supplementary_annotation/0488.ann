@@ -1,0 +1,6 @@
+T1	Drug 9 15	トリアゾラム
+T2	Dosage 49 55	１回0.5錠
+A1	Status T2 intended
+T3	Dosage 59 61	１錠
+A2	Status T3 actual
+A3	Error_occur T3 error

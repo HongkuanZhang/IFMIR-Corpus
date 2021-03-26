@@ -1,0 +1,8 @@
+T1	Strength_concentration 0 2	5％
+T2	Drug 2 4	糖液
+A1	Status T2 intended
+T3	Strength_amount 4 9	500ｍL
+T4	Drug 17 19	生食
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Strength_amount 19 24	500ｍL

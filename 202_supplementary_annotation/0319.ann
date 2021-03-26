@@ -1,0 +1,10 @@
+T1	Date 0 4	6／21
+T2	Drug 5 9	ガチフロ
+A1	Status T2 intended
+T3	Route 9 11	点眼
+T4	Drug 29 34	クラビット
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Route 34 36	点眼
+T6	Drug 62 64	薬剤
+A4	Drug T6 unspecified

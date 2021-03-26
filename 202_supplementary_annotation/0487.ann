@@ -1,0 +1,7 @@
+T1	Drug 18 23	ドレニゾン
+A1	Status T1 intended
+T2	Form_form 23 26	テープ
+T3	Drug 39 47	硝酸イソソルビド
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 47 50	テープ

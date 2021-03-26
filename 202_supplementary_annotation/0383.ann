@@ -1,0 +1,9 @@
+T1	Drug 13 18	アルピニー
+T2	Route 18 20	坐薬
+T3	Strength_amount 21 24	１００
+A1	Status T3 intended
+T4	Drug 34 39	アルピニー
+T5	Route 39 41	坐薬
+T6	Strength_amount 42 45	２００
+A2	Status T6 actual
+A3	Error_occur T6 error

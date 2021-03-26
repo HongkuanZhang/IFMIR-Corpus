@@ -1,0 +1,17 @@
+T1	Date 0 4	７／２４
+T2	Drug 5 10	リムパーザ
+T3	Form_form 10 11	錠
+T4	Strength_amount 12 14	４錠
+A1	Strength_amount T4 per_day
+T5	Frequency 15 17	分２
+T6	Duration 18 22	１４日分
+T7	Strength_amount 23 26	５６錠
+A2	Status T7 intended
+A3	Strength_amount T7 per_whole_course
+T8	Strength_amount 34 37	４６錠
+A4	Status T8 actual
+A5	Error_occur T8 error
+A6	Strength_amount T8 per_whole_course
+T9	Drug 58 63	リムパーザ
+T10	Date 72 74	翌日
+A7	Index T10 01

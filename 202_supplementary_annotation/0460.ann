@@ -1,0 +1,9 @@
+T1	Drug 4 13	エルネオパNF2号
+A1	Status T1 intended
+T2	Form_form 13 14	液
+T3	Strength_amount 14 20	1500mL
+T4	Drug 26 28	1号
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Form_form 28 29	液
+T6	Strength_amount 29 35	1500mL

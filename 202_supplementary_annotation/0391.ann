@@ -1,0 +1,13 @@
+T1	Drug 0 3	持参薬
+A1	Drug T1 unspecified
+T2	Drug 7 10	デパス
+T3	Strength_amount 10 15	０．５ｍｇ
+A2	Status T3 intended
+T4	Form_form 15 16	錠
+T5	Drug 32 35	デパス
+T6	Strength_amount 35 40	２．５ｍｇ
+A3	Status T6 intended
+A4	Error_occur T6 error
+T7	Form_form 40 41	錠
+T8	Drug 62 66	イレウス
+A5	Index T8 2

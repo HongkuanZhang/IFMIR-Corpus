@@ -1,0 +1,7 @@
+T1	Drug 0 5	テプレノン
+T2	Form_form 5 7	細粒
+T3	Strength_amount 28 30	４包
+A1	Status T3 intended
+T4	Strength_amount 37 39	２包
+A2	Status T4 actual
+A3	Error_occur T4 error

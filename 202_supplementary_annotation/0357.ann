@@ -1,0 +1,15 @@
+T1	Timing 0 3	１８時
+T2	Drug 4 12	セルシンシロップ
+T3	Route 12 14	内服
+T4	Strength_amount 20 25	８ｍｌ／日
+A1	Status T4 intended
+A2	Strength_amount T4 per_day
+T5	Frequency 26 30	４回／日
+T6	Strength_amount 44 49	４ｍｌ／日
+A3	Status T6 actual
+A4	Error_occur T6 error
+A5	Strength_amount T6 per_day
+T7	Frequency 50 54	４回／日
+T8	Timing 66 68	０時
+T9	Drug 73 76	内服薬
+A6	Drug T9 unspecified

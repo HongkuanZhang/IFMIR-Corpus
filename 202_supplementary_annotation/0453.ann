@@ -1,0 +1,7 @@
+T1	Drug 0 5	センノシド
+T2	Form_form 5 6	錠
+T3	Strength_amount 7 9	４錠
+A1	Status T3 intended
+T4	Strength_amount 19 21	８錠
+A2	Status T4 actual
+A3	Error_occur T4 error

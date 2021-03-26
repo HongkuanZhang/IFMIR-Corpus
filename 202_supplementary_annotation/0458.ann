@@ -1,0 +1,9 @@
+T1	Drug 0 5	ボルタレン
+A1	Status T1 intended
+T2	Form_form 5 6	錠
+A2	Status T2 intended
+T3	Strength_amount 6 10	２５ｍｇ
+T4	Form_form 31 38	ボルタレンサポ
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Strength_amount 38 42	２５ｍｇ

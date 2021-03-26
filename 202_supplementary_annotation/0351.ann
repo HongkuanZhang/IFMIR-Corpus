@@ -1,0 +1,13 @@
+T1	Drug 0 5	リクシアナ
+T2	Form_mode 5 7	OD
+T3	Form_form 7 8	錠
+T4	Strength_amount 8 12	60mg
+A1	Status T4 intended
+T5	Drug 22 27	リクシアナ
+T6	Form_mode 27 29	OD
+T7	Form_form 29 30	錠
+T8	Strength_amount 30 34	30mg
+A2	Status T8 actual
+A3	Error_occur T8 error
+T9	Date 45 49	12/4
+A4	Index T9 01

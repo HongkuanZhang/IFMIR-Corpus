@@ -1,0 +1,21 @@
+T1	Drug 23 36	セフトリアキソンナトリウム
+A1	Subindex T1 1
+T2	Strength_amount 36 38	２瓶
+A2	Subindex T2 1
+A3	Status T2 actual
+A4	Error_occur T2 error
+T3	Drug 39 41	生食
+A5	Subindex T3 2
+#1	AnnotatorNotes T3	★
+T4	Strength_amount 45 50	１００ｍｌ
+A6	Subindex T4 2
+T5	Drug 64 77	セフトリアキソンナトリウム
+A7	Subindex T5 1
+T6	Strength_amount 77 79	１瓶
+A8	Subindex T6 1
+A9	Status T6 intended
+T7	Drug 80 82	生食
+A10	Subindex T7 2
+T8	Strength_amount 86 91	１００ｍｌ
+A11	Subindex T8 2
+T9	Frequency 91 95	２回／日

@@ -1,0 +1,12 @@
+T1	Timing 0 2	午後
+T2	Drug 7 11	臨時注射
+A1	Drug T2 unspecified
+T3	Drug 12 16	イノバン
+A2	Status T3 intended
+T4	Route 16 17	注
+T5	Strength_amount 17 22	１００ｍｇ
+T6	Drug 26 33	ドブトレックス
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Route 33 34	注
+T8	Strength_amount 34 39	１００ｍｇ

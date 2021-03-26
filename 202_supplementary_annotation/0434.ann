@@ -1,0 +1,7 @@
+T1	Duration 0 3	３日間
+T2	Timing 3 5	夕方
+T3	Drug 10 16	リスペリドン
+A1	Status T3 intended
+T4	Drug 34 40	クエチアピン
+A2	Status T4 actual
+A3	Error_occur T4 error

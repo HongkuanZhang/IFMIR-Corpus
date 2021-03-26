@@ -1,0 +1,6 @@
+T1	Drug 0 5	ゲンタシン
+T2	Form_form 5 7	軟膏
+A1	Status T2 intended
+T3	Form_form 20 25	クリーム剤
+A2	Status T3 actual
+A3	Error_occur T3 error

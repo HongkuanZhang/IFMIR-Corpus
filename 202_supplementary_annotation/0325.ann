@@ -1,0 +1,16 @@
+T1	Date 0 4	5／27
+T2	Drug 16 21	グリベック
+T3	Form_form 21 22	錠
+T4	Strength_amount 22 27	100mg
+T5	Frequency 28 32	1日1回
+T6	Dosage 32 34	3錠
+T7	Duration 35 39	84日分
+T8	Strength_amount 47 51	252錠
+A1	Status T8 intended
+A2	Strength_amount T8 per_whole_course
+T9	Strength_amount 72 75	40錠
+A3	Status T9 neither
+T10	Strength_amount 77 81	292錠
+A4	Status T10 actual
+A5	Error_occur T10 error
+A6	Strength_amount T10 per_whole_course

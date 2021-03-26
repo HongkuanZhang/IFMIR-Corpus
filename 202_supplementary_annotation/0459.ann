@@ -1,0 +1,14 @@
+T1	Drug 5 10	ルパフィン
+A1	Status T1 intended
+T2	Form_form 10 11	錠
+T3	Drug 12 19	抗アレルギー薬
+A2	Status T3 intended
+A3	Drug T3 class_mentioned
+T4	Drug 29 33	ルセフィ
+A4	Status T4 actual
+A5	Error_occur T4 error
+T5	Form_form 33 34	錠
+T6	Drug 35 39	糖尿病薬
+A6	Status T6 actual
+A7	Error_occur T6 error
+A8	Drug T6 class_mentioned

@@ -1,0 +1,7 @@
+T1	Route 0 8	硬膜外カテーテル
+A1	Status T1 intended
+T2	Strength_concentration 15 19	0.2%
+T3	Drug 19 24	アナペイン
+T4	Route 28 34	末梢静脈注射
+A2	Status T4 actual
+A3	Error_occur T4 error

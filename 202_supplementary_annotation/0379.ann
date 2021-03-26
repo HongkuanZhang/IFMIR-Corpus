@@ -1,0 +1,8 @@
+T1	Drug 5 8	散瞳薬
+A1	Drug T1 class_mentioned
+T2	Route 8 10	点眼
+T3	Drug 43 48	ミドリンＭ
+A2	Status T3 intended
+T4	Drug 67 72	ミドリンＰ
+A3	Status T4 actual
+A4	Error_occur T4 error

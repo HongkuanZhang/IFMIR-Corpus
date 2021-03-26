@@ -1,0 +1,11 @@
+T1	Drug 15 17	薬剤
+A1	Drug T1 unspecified
+T2	Drug 67 73	ソルアセトF
+A2	Status T2 intended
+T3	Form_form 73 75	輸液
+T4	Strength_amount 75 80	500mL
+T5	Drug 89 95	ソルアセトD
+A3	Status T5 actual
+A4	Error_occur T5 error
+T6	Form_form 95 97	輸液
+T7	Strength_amount 97 102	500mL

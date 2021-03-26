@@ -1,0 +1,12 @@
+T1	Date 0 5	１１／１３
+A1	Status T1 intended
+T2	Timing 6 8	３時
+A2	Status T2 intended
+T3	Drug 9 13	ヘパリン
+T4	Date 32 37	１１／１２
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Timing 38 41	１５時
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Timing 76 81	約２時間後

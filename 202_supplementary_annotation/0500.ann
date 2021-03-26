@@ -1,0 +1,7 @@
+T1	Drug 0 6	ボグリボース
+A1	Status T1 intended
+T2	Form_form 6 7	錠
+T3	Drug 17 21	セイブル
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 21 22	錠

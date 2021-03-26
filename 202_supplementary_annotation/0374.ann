@@ -1,0 +1,9 @@
+T1	Drug 0 6	エディロール
+T2	Form_form 6 10	カプセル
+T3	Strength_amount 10 15	0.5μg
+A1	Status T3 intended
+T4	Drug 25 31	エディロール
+T5	Form_form 31 35	カプセル
+T6	Strength_amount 35 41	0.75μg
+A2	Status T6 actual
+A3	Error_occur T6 error

@@ -1,0 +1,8 @@
+T1	Drug 0 5	ネキシウム
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Form_form 5 9	カプセル
+T3	Drug 29 34	ネキシウム
+A3	Index T3 01
+T4	Drug 68 73	レバミピド
+A4	Status T4 intended

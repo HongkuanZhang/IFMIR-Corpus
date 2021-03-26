@@ -1,0 +1,7 @@
+T1	Drug 0 5	メイアクト
+A1	Index T1 01
+T2	Drug 18 29	セファゾリンナトリウム
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Drug 60 64	ユナシン
+A4	Status T3 intended

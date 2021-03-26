@@ -1,0 +1,12 @@
+T1	Drug 0 5	エンブレル
+T2	Route 5 8	皮下注
+T3	Form_form 8 10	ペン
+#1	AnnotatorNotes T3	ペン型製剤
+T4	Strength_amount 10 14	２５ｍｇ
+T5	Strength_amount 15 18	１４本
+A1	Status T5 intended
+A2	Strength_amount T5 per_whole_course
+T6	Strength_amount 29 31	４本
+A3	Status T6 actual
+A4	Error_occur T6 error
+A5	Strength_amount T6 per_whole_course

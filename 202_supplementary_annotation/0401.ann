@@ -1,0 +1,9 @@
+T1	Drug 0 5	フロセミド
+T2	Strength_amount 5 9	40mg
+T3	Strength_amount 10 16	0.5錠／日
+A1	Status T3 intended
+A2	Strength_amount T3 per_day
+T4	Strength_amount 21 27	1.5錠／日
+A3	Status T4 actual
+A4	Error_occur T4 error
+A5	Strength_amount T4 per_day

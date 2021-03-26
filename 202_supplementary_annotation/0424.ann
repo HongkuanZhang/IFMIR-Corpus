@@ -1,0 +1,13 @@
+T1	Date 0 3	28日
+T2	Timing 4 6	午前
+T3	Drug 15 19	イノバン
+A1	Status T3 intended
+T4	Route 19 20	注
+T5	Strength_amount 20 25	100mg
+T6	Drug 29 36	ドブトレックス
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Route 36 37	注
+T8	Strength_amount 37 42	100mg
+T9	Drug 65 67	薬剤
+A4	Drug T9 unspecified

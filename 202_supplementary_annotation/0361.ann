@@ -1,0 +1,10 @@
+T1	Date 0 4	３／１４
+T2	Timing 5 7	０時
+T3	Drug 7 13	ソルデム３Ａ
+A1	Status T3 intended
+T4	Form_form 13 15	輸液
+T5	Strength_amount 15 19	５００ｍ
+T6	Drug 29 35	ビーフリード
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Strength_amount 35 40	５００ｍｌ

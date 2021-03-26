@@ -1,0 +1,9 @@
+T1	Drug 0 4	アピドラ
+T2	Route 4 5	注
+T3	Form_form 5 9	バイアル
+A1	Status T3 intended
+T4	Strength_concentration 9 17	100単位／ｍｌ
+T5	Drug 26 30	アピドラ
+T6	Form_form 30 35	ソロスター
+A2	Status T6 actual
+A3	Error_occur T6 error

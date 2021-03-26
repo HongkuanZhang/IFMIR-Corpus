@@ -1,0 +1,5 @@
+T1	Drug 4 8	六君子湯
+A1	Status T1 intended
+T2	Drug 20 25	当帰芍薬散
+A2	Status T2 actual
+A3	Error_occur T2 error

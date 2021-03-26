@@ -1,0 +1,12 @@
+T1	Date 0 4	３／２８
+T2	Timing 5 9	６：００
+T3	Timing 10 13	朝食後
+T4	Drug 10 16	朝食後内服薬
+A1	Drug T4 unspecified
+T5	Drug 19 28	デノタスチュアブル
+T6	Form_form 30 31	錠
+T7	Dosage 31 35	１回２錠
+A2	Status T7 intended
+T8	Dosage 46 50	１回１錠
+A3	Status T8 actual
+A4	Error_occur T8 error

@@ -1,0 +1,14 @@
+T1	Date 0 3	７／８
+T2	Drug 4 9	桂枝茯苓丸
+#1	AnnotatorNotes T2	ツムラのものは「顆粒剤」
+T3	Strength_amount 9 13	２．５ｇ
+A1	Strength_amount T3 per_consumption
+T4	Strength_amount 14 16	３包
+A2	Strength_amount T4 per_day
+T5	Frequency 17 19	分３
+T6	Duration 20 24	３０日分
+A3	Status T6 intended
+T7	Duration 31 35	１７日分
+A4	Status T7 actual
+A5	Error_occur T7 error
+T8	Date 58 62	７／２５

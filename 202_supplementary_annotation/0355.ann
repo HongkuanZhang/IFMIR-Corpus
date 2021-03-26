@@ -1,0 +1,10 @@
+T1	Timing 0 3	朝食前
+A1	Status T1 intended
+T2	Drug 6 10	リンゼン
+T3	Timing 13 16	朝食後
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Date 33 44	６月１５・１６・１７日
+T5	Timing 47 50	朝食後
+A4	Status T5 actual
+A5	Error_occur T5 error

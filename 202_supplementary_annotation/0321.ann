@@ -1,0 +1,22 @@
+T1	Drug 0 6	アレビアチン
+A1	Status T1 intended
+T2	Form_form 6 7	散
+T3	Strength_concentration 7 10	１０％
+T4	Strength_amount 11 16	３１０ｍｇ
+A2	Status T4 intended
+T5	Drug 17 23	フェノバール
+A3	Index T5 2
+T6	Form_form 23 24	散
+A4	Index T6 2
+T7	Strength_concentration 24 27	１０％
+A5	Index T7 2
+T8	Strength_amount 28 33	１３０ｍｇ
+A6	Index T8 2
+A7	Status T8 intended
+T9	Strength_amount 48 52	３１ｍｇ
+A8	Status T9 actual
+A9	Error_occur T9 error
+T10	Strength_amount 53 57	１３ｍｇ
+A10	Index T10 2
+A11	Status T10 actual
+A12	Error_occur T10 error

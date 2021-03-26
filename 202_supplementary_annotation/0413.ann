@@ -1,0 +1,8 @@
+T1	Drug 6 10	ヘパリン
+T2	Strength_concentration 22 31	1ml1000単位
+A1	Status T2 intended
+T3	Drug 32 36	ヘパリン
+T4	Strength_concentration 52 60	1ml100単位
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Drug 61 65	ヘパリン

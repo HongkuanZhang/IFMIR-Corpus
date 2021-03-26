@@ -1,0 +1,9 @@
+T1	Date 1 4	15日
+A1	Status T1 intended
+T2	Drug 13 19	メトホルミン
+T3	Date 20 22	前日
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Timing 23 24	夕
+T5	Date 41 44	16日
+A4	Index T5 01

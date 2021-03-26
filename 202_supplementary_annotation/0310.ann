@@ -1,0 +1,7 @@
+T1	Duration 0 3	４日分
+A1	Status T1 intended
+T2	Drug 9 10	薬
+A2	Drug T2 unspecified
+T3	Duration 11 14	１日分
+A3	Status T3 actual
+A4	Error_occur T3 error

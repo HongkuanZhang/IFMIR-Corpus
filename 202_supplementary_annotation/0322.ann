@@ -1,0 +1,18 @@
+T1	Drug 17 20	持参薬
+A1	Drug T1 unspecified
+T2	Drug 32 37	カロナール
+T3	Form_form 37 38	錠
+T4	Strength_amount 47 49	6錠
+A2	Status T4 intended
+A3	Strength_amount T4 per_day
+T5	Frequency 50 54	1日3回
+T6	Dosage 55 59	1回2錠
+A4	Status T6 intended
+T7	Strength_amount 67 69	3錠
+A5	Status T7 actual
+A6	Error_occur T7 error
+A7	Strength_amount T7 per_day
+T8	Frequency 70 74	1日3回
+T9	Dosage 75 79	1回1錠
+A8	Status T9 actual
+A9	Error_occur T9 error

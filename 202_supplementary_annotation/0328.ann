@@ -1,0 +1,14 @@
+T1	Date 0 3	４／３
+T2	Timing 4 6	０時
+A1	Status T2 intended
+#1	AnnotatorNotes T2	0時に交換予定の点滴
+T3	Drug 23 25	点滴
+A2	Drug T3 unspecified
+T4	Timing 30 33	１２時
+A3	Status T4 actual
+A4	Error_occur T4 error
+#2	AnnotatorNotes T4	12時に交換予定の点滴
+T5	Date 42 44	翌日
+A5	Index T5 01
+T6	Drug 55 57	点滴
+A6	Drug T6 unspecified

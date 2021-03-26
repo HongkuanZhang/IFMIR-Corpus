@@ -1,0 +1,15 @@
+T1	Timing 0 7	9時45分ごろ
+T2	Drug 8 12	ザジテン
+A1	Status T2 intended
+T3	Route 12 14	点鼻
+A2	Status T3 intended
+T4	Form_form 14 15	液
+T5	Strength_amount 15 17	3本
+T6	Drug 22 26	リザベン
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Route 26 28	点眼
+A5	Status T7 actual
+A6	Error_occur T7 error
+T8	Form_form 28 29	液
+T9	Strength_amount 29 31	3本

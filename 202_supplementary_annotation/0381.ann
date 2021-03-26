@@ -1,0 +1,10 @@
+T1	Date 0 4	4/18
+T2	Drug 11 16	イーケプラ
+T3	Form_form 16 17	錠
+T4	Strength_amount 17 22	250mg
+A1	Status T4 intended
+T5	Dosage 23 25	2T
+T6	Strength_amount 34 39	500mg
+A2	Status T6 actual
+A3	Error_occur T6 error
+T7	Dosage 40 42	2T

@@ -1,0 +1,14 @@
+T1	Date 0 4	６／２１
+T2	Timing 5 8	準夜帯
+T3	Drug 13 19	ブイフェンド
+A1	Subindex T3 1
+T4	Route 20 23	経静脈
+T5	Drug 33 39	ブイフェンド
+A2	Subindex T5 1
+T6	Drug 40 44	注射用水
+A3	Subindex T6 2
+A4	Status T6 intended
+T7	Drug 61 66	生理食塩水
+A5	Subindex T7 2
+A6	Status T7 actual
+A7	Error_occur T7 error

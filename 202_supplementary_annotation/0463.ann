@@ -1,0 +1,10 @@
+T1	Date 0 5	6月26日
+T2	Drug 6 13	高カロリー輸液
+A1	Drug T2 class_mentioned
+T3	Strength_rate 13 19	40ml／H
+A2	Status T3 intended
+T4	Strength_rate 29 35	30ml／H
+A3	Status T4 actual
+A4	Error_occur T4 error
+T5	Date 45 50	6月27日
+T6	Timing 50 54	午前9時

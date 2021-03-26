@@ -1,0 +1,6 @@
+T1	Drug 7 12	ケフラール
+T2	Drug 18 23	ケフラール
+A1	Status T2 actual
+A2	Error_occur T2 error
+T3	Drug 45 50	ダイフェン
+A3	Status T3 intended

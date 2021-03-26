@@ -1,0 +1,14 @@
+T1	Date 0 4	９／２６
+A1	Status T1 intended
+T2	Timing 4 5	朝
+A2	Status T2 intended
+T3	Date 17 21	９／２５
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Timing 21 22	夕
+A5	Status T4 actual
+A6	Error_occur T4 error
+T5	Drug 23 32	アプリンジン塩酸塩
+T6	Form_form 32 36	カプセル
+T7	Date 57 59	翌日
+A7	Index T7 01

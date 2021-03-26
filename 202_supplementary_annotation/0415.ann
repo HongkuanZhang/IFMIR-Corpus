@@ -1,0 +1,8 @@
+T1	Drug 0 13	セフカペンピボキシル塩酸塩
+A1	Status T1 actual
+A2	Error_occur T1 error
+T2	Form_form 13 14	錠
+T3	Drug 24 32	セフェム系の薬剤
+A3	Drug T3 class_mentioned
+T4	Drug 62 71	クラリスロマイシン
+A4	Status T4 intended

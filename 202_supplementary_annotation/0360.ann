@@ -1,0 +1,25 @@
+T1	Drug 6 11	ラクテック
+T2	Strength_amount 11 16	500mL
+T3	Dosage 17 19	1袋
+T4	Drug 20 26	ガベキサート
+A1	Index T4 2
+T5	Strength_amount 26 31	500mg
+A2	Index T5 2
+A3	Status T5 intended
+T6	Strength_amount 32 34	2瓶
+A4	Index T6 2
+A5	Strength_amount T6 per_whole_course
+T7	Drug 39 44	ラクテック
+T8	Strength_amount 44 49	500mL
+T9	Dosage 49 51	1袋
+T10	Drug 52 58	ガベキサート
+A6	Index T10 2
+T11	Strength_amount 58 63	100mg
+A7	Index T11 2
+A8	Status T11 actual
+A9	Error_occur T11 error
+T12	Strength_amount 64 66	2瓶
+A10	Index T12 2
+A11	Strength_amount T12 per_whole_course
+T13	Drug 94 96	薬剤
+A12	Drug T13 unspecified

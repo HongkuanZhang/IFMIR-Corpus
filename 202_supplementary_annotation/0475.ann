@@ -1,0 +1,9 @@
+T1	Drug 0 5	イグザルト
+T2	Strength_amount 5 9	15ｍｇ
+A1	Status T2 intended
+T3	Drug 21 26	イグザルト
+T4	Strength_amount 26 30	10mg
+A2	Status T4 actual
+A3	Error_occur T4 error
+T5	Drug 58 59	薬
+A4	Drug T5 unspecified

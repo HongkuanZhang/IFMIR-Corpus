@@ -1,0 +1,9 @@
+T1	Drug 14 18	キドミン
+T2	Strength_amount 18 23	300ml
+A1	Status T2 intended
+T3	Drug 29 33	キドミン
+T4	Strength_amount 33 37	200m
+A2	Status T4 actual
+A3	Error_occur T4 error
+#1	AnnotatorNotes T4	>200ml
+T5	Dosage 38 40	1袋

@@ -1,0 +1,20 @@
+T1	Drug 0 8	レミフェンタニル
+A1	Subindex T1 1
+A2	Status T1 intended
+T2	Strength_amount 8 11	２ｍｇ
+A3	Subindex T2 1
+T3	Drug 12 14	生食
+A4	Subindex T3 2
+T4	Strength_amount 14 18	２０ｍｌ
+A5	Subindex T4 2
+A6	Status T4 intended
+T5	Drug 24 30	フェンタニル
+A7	Subindex T5 1
+A8	Status T5 actual
+A9	Error_occur T5 error
+T6	Strength_amount 30 35	０．１ｍｇ
+A10	Subindex T6 1
+T7	Strength_amount 36 39	２ｍｌ
+A11	Subindex T7 2
+A12	Status T7 actual
+A13	Error_occur T7 error

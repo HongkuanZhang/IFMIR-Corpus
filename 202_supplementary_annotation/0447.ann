@@ -1,0 +1,8 @@
+T1	Drug 0 5	ハルシオン
+T2	Strength_amount 5 11	0．25mg
+A1	Status T2 intended
+T3	Strength_amount 22 29	0．125mg
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Drug 64 66	薬剤
+A4	Drug T4 unspecified

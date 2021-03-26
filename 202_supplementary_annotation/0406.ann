@@ -1,0 +1,13 @@
+T1	Drug 6 11	芍薬甘草湯
+T2	Strength_amount 11 13	２包
+A1	Status T2 intended
+A2	Strength_amount T2 per_day
+T3	Frequency 13 15	分１
+T4	Strength_amount 19 21	１包
+A3	Status T4 actual
+A4	Error_occur T4 error
+A5	Strength_amount T4 per_day
+T5	Frequency 21 23	分１
+T6	Route 24 26	内服
+T7	Date 36 42	２３〜２７日
+T8	Duration 43 47	５日日間

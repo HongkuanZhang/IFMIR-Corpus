@@ -1,0 +1,9 @@
+T1	Timing 0 2	食前
+T2	Drug 0 3	食前薬
+A1	Drug T2 unspecified
+T3	Drug 4 10	ボグリボース
+T4	Dosage 11 13	１錠
+A2	Status T4 intended
+T5	Dosage 17 19	２錠
+A3	Status T5 actual
+A4	Error_occur T5 error

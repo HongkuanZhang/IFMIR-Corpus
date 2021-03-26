@@ -1,0 +1,8 @@
+T1	Drug 10 14	ユリーフ
+A1	Status T1 intended
+T2	Drug 27 32	ハルナール
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Drug 57 60	調剤薬
+A4	Index T3 02
+A5	Drug T3 unspecified

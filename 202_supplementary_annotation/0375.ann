@@ -1,0 +1,18 @@
+T1	Date 0 4	1月7日
+T2	Timing 4 9	12時過ぎ
+T3	Drug 10 18	アトルバスタチン
+A1	Status T3 intended
+T4	Form_mode 18 20	OD
+T5	Form_form 20 21	錠
+T6	Strength_amount 22 25	5mg
+T7	Drug 36 43	ロスバスタチン
+A2	Status T7 actual
+A3	Error_occur T7 error
+T8	Form_mode 43 45	OD
+T9	Form_form 45 46	錠
+T10	Strength_amount 47 50	5mg
+T11	Duration 75 78	2日間
+T12	Date 84 87	2日目
+A4	Index T12 01
+T13	Timing 88 90	夕方
+A5	Index T13 01

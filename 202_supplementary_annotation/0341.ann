@@ -1,0 +1,13 @@
+T1	Drug 5 8	持参薬
+A1	Drug T1 unspecified
+T2	Drug 9 16	アザルフィジン
+A2	Status T2 intended
+T3	Drug 41 47	サラゾピリン
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Duration 57 60	数日分
+T5	Drug 60 66	サラゾピリン
+A5	Status T5 actual
+A6	Error_occur T5 error
+T6	Drug 78 81	内服薬
+A7	Drug T6 unspecified

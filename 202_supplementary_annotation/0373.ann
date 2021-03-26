@@ -1,0 +1,14 @@
+T1	Date 0 4	９／１４
+T2	Timing 4 7	朝食後
+T3	Drug 4 8	朝食後薬
+A1	Drug T3 unspecified
+T4	Drug 9 18	デノタスチュアブル
+T5	Dosage 21 23	４錠
+A2	Status T5 intended
+T6	Dosage 29 31	２錠
+A3	Status T6 actual
+A4	Error_occur T6 error
+T7	Date 50 54	９／１５
+A5	Index T7 01
+T8	Timing 54 57	深夜帯
+A6	Index T8 01

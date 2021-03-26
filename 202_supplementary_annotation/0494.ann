@@ -1,0 +1,9 @@
+T1	Drug 9 14	アローゼン
+A1	Index T1 01
+T2	Drug 21 26	センノシド
+A2	Status T2 actual
+A3	Error_occur T2 error
+T3	Form_form 26 27	錠
+T4	Drug 50 55	グーフィス
+A4	Status T4 intended
+T5	Form_form 55 56	錠

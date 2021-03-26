@@ -1,0 +1,8 @@
+T1	Drug 10 15	イーケプラ
+A1	Status T1 intended
+T2	Strength_amount 15 20	500mg
+T3	Drug 27 32	ウロカルン
+A2	Status T3 actual
+A3	Error_occur T3 error
+T4	Form_form 33 35	錠剤
+T5	Form_form 36 40	カプセル

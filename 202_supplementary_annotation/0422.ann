@@ -1,0 +1,13 @@
+T1	Drug 29 34	ヴィーンD
+T2	Form_form 34 36	輸液
+T3	Timing 54 61	9時から21時
+T4	Duration 62 66	12時間
+A1	Status T4 intended
+T5	Duration 67 70	7時間
+A2	Status T5 actual
+A3	Error_occur T5 error
+T6	Strength_rate 83 87	42／H
+A4	Status T6 intended
+T7	Strength_rate 88 92	83／H
+A5	Status T7 actual
+A6	Error_occur T7 error

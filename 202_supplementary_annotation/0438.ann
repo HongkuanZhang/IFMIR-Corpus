@@ -1,0 +1,9 @@
+T1	Drug 0 6	ラコールＮＦ
+T2	Route 8 11	経腸用
+T3	Form_form 11 15	半固形剤
+A1	Status T3 intended
+T4	Strength_amount 15 20	３００ｍＬ
+T5	Drug 28 34	ラコールＮＦ
+#1	AnnotatorNotes T5	★
+T6	Route 36 39	経腸用
+T7	Strength_amount 39 44	３００ｍＬ

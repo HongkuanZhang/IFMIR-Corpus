@@ -1,0 +1,11 @@
+T1	Timing 12 14	6時
+A1	Status T1 intended
+T2	Drug 15 18	内服薬
+A2	Drug T2 unspecified
+T3	Timing 69 73	7時半頃
+A3	Status T3 actual
+A4	Error_occur T3 error
+T4	Drug 74 75	薬
+A5	Drug T4 unspecified
+T5	Timing 99 101	8時
+A6	Index T5 00
